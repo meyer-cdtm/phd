@@ -14,7 +14,6 @@ interface LabelRow {
   HasPreviousVersion: string;
   IsPublished: string;
   JudgePrompt: string;
-  EvaluationCriteria: string;
   PassFail: string;
   Reasoning: string;
   Created: string;
@@ -24,6 +23,7 @@ interface JudgeLabel {
   questionId: string;
   passFail: string;
   reasoning: string;
+  judgePrompt: string;
 }
 
 // GET - Fetch all existing labels
@@ -42,6 +42,7 @@ export async function GET() {
         questionId: row.QuestionId,
         passFail: row.PassFail,
         reasoning: row.Reasoning || '',
+        judgePrompt: row.JudgePrompt || '',
       }));
 
     return NextResponse.json(labels);
@@ -59,7 +60,7 @@ export async function GET() {
 export async function POST(request: Request) {
   try {
     const body = await request.json();
-    const { questionId, passFail, reasoning } = body as JudgeLabel;
+    const { questionId, passFail, reasoning, judgePrompt } = body as JudgeLabel;
 
     if (!questionId || !passFail) {
       return NextResponse.json(
@@ -91,6 +92,7 @@ export async function POST(request: Request) {
       // Update existing row
       rows[existingIndex].PassFail = passFail;
       rows[existingIndex].Reasoning = reasoning || '';
+      rows[existingIndex].JudgePrompt = judgePrompt || '';
     } else {
       // Add new row - we'll need to fetch question details
       const questionsResponse = await fetch(`http://localhost:${process.env.PORT || 3000}/api/questions`);
@@ -120,8 +122,7 @@ export async function POST(request: Request) {
         IsDeleted: question.isDeleted ? 'true' : 'false',
         HasPreviousVersion: question.previousVersionId ? 'true' : 'false',
         IsPublished: question.isPublished ? 'true' : 'false',
-        JudgePrompt: '',
-        EvaluationCriteria: '',
+        JudgePrompt: judgePrompt || '',
         PassFail: passFail,
         Reasoning: reasoning || '',
         Created: new Date().toISOString(),
@@ -141,7 +142,6 @@ export async function POST(request: Request) {
         'HasPreviousVersion',
         'IsPublished',
         'JudgePrompt',
-        'EvaluationCriteria',
         'PassFail',
         'Reasoning',
         'Created',

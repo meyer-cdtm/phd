@@ -11,6 +11,12 @@ interface JudgeLabel {
   questionId: string;
   passFail: string;
   reasoning: string;
+  judgePrompt: string;
+}
+
+interface ConfirmationData {
+  status: 'PASS' | 'FAIL' | 'UNKNOWN';
+  reasoning: string;
 }
 
 function formatDate(dateStr: string | null): string {
@@ -22,6 +28,31 @@ function formatDate(dateStr: string | null): string {
   }
 }
 
+function generateJudgePrompt(question: QuestionWithAnswers, reasoning?: string, label?: string): string {
+  const isFreeText = question.type === 'FreeText' || question.type === 'free-text';
+
+  // TODO: Add few-shot examples here when available
+
+  let prompt = `Question: ${question.question}
+${question.tip ? `Tip: ${question.tip}\n` : ''}Type: ${question.type}
+Difficulty: ${question.difficulty}
+
+${isFreeText
+  ? `Correct Answer:\n${question.answers[0]?.answer || 'N/A'}`
+  : `Answer Options:\n${question.answers.map((answer, idx) => `${String.fromCharCode(65 + idx)}. ${answer.answer}${answer.isCorrect ? ' [CORRECT ANSWER]' : ' [INCORRECT ANSWER]'}`).join('\n')}`
+}`;
+
+  if (reasoning) {
+    prompt += `\n\nReasoning: ${reasoning}`;
+  }
+
+  if (label) {
+    prompt += `\nLabel: ${label}`;
+  }
+
+  return prompt;
+}
+
 export default function LabelingPage() {
   const [allQuestions, setAllQuestions] = useState<QuestionWithAnswers[]>([]);
   const [labels, setLabels] = useState<Map<string, JudgeLabel>>(new Map());
@@ -31,6 +62,7 @@ export default function LabelingPage() {
   const [loading, setLoading] = useState(true);
   const [saving, setSaving] = useState(false);
   const [selectedVersion, setSelectedVersion] = useState<VersionInfo | null>(null);
+  const [confirmationData, setConfirmationData] = useState<ConfirmationData | null>(null);
 
   // Load questions and existing labels
   useEffect(() => {
@@ -71,15 +103,20 @@ export default function LabelingPage() {
     }
   }, [currentQuestionIndex, currentLabel]);
 
-  const handleLabel = async (status: 'PASS' | 'FAIL' | 'UNKNOWN') => {
-    if (!currentQuestion) return;
+  const handleLabelClick = (status: 'PASS' | 'FAIL' | 'UNKNOWN') => {
+    setConfirmationData({ status, reasoning: reasoning.trim() });
+  };
+
+  const handleConfirmLabel = async () => {
+    if (!currentQuestion || !confirmationData) return;
 
     setSaving(true);
     try {
       const label: JudgeLabel = {
         questionId: currentQuestion.id,
-        passFail: status,
-        reasoning: reasoning.trim(),
+        passFail: confirmationData.status,
+        reasoning: confirmationData.reasoning,
+        judgePrompt: generateJudgePrompt(currentQuestion, confirmationData.reasoning, confirmationData.status),
       };
 
       const response = await fetch('/api/labels', {
@@ -94,6 +131,9 @@ export default function LabelingPage() {
       const newLabels = new Map(labels);
       newLabels.set(currentQuestion.id, label);
       setLabels(newLabels);
+
+      // Close confirmation modal
+      setConfirmationData(null);
 
       // Move to next unlabeled question or stay if updating
       if (!currentLabel && currentQuestionIndex !== null) {
@@ -166,6 +206,139 @@ export default function LabelingPage() {
           onClose={() => setSelectedVersion(null)}
         />
       )}
+
+      {/* Confirmation Modal */}
+      {confirmationData && currentQuestion && (
+        <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50 p-4">
+          <div className="bg-white rounded-lg shadow-2xl max-w-4xl w-full max-h-[90vh] overflow-y-auto">
+            <div className="sticky top-0 bg-white border-b border-gray-200 p-6 z-10">
+              <h2 className="text-2xl font-bold text-gray-900">Confirm Label</h2>
+              <p className="text-gray-600 mt-1">Please review all details before submitting</p>
+            </div>
+
+            <div className="p-6 space-y-6">
+              {/* Label Status */}
+              <div className="bg-gray-50 p-4 rounded-lg border-2 border-gray-300">
+                <h3 className="font-semibold text-gray-700 mb-2">Selected Label:</h3>
+                <span
+                  className={`inline-block px-4 py-2 text-lg font-bold rounded ${
+                    confirmationData.status === 'PASS'
+                      ? 'bg-green-600 text-white'
+                      : confirmationData.status === 'FAIL'
+                      ? 'bg-red-600 text-white'
+                      : 'bg-yellow-600 text-white'
+                  }`}
+                >
+                  {confirmationData.status}
+                </span>
+              </div>
+
+              {/* Question Text - Full question with all answer options */}
+              <div className="bg-blue-50 p-4 rounded-lg border-2 border-blue-300">
+                <h3 className="font-semibold text-blue-900 mb-3">Question Text:</h3>
+                <div className="space-y-3">
+                  <p className="text-gray-900 font-medium">{currentQuestion.question}</p>
+
+                  {currentQuestion.tip && (
+                    <div className="bg-blue-100 p-3 rounded border border-blue-200">
+                      <span className="text-sm font-semibold text-blue-900">Tip: </span>
+                      <span className="text-sm text-gray-900">{currentQuestion.tip}</span>
+                    </div>
+                  )}
+
+                  <div className="mt-3 space-y-2">
+                    <p className="text-sm font-semibold text-blue-900">
+                      {currentQuestion.type === 'FreeText' ? 'Expected Answer:' : 'Answer Options:'}
+                    </p>
+                    {currentQuestion.type === 'FreeText' ? (
+                      <div className="bg-green-100 border border-green-300 p-3 rounded">
+                        <div className="text-sm prose prose-sm max-w-none">
+                          <ReactMarkdown>{currentQuestion.answers[0]?.answer || 'N/A'}</ReactMarkdown>
+                        </div>
+                        <span className="text-green-700 font-bold text-sm mt-2 inline-block">✓ CORRECT ANSWER</span>
+                      </div>
+                    ) : (
+                      currentQuestion.answers.map((answer, idx) => (
+                        <div
+                          key={answer.answerId}
+                          className={`flex items-start gap-2 p-2 rounded ${
+                            answer.isCorrect
+                              ? 'bg-green-100 border border-green-300'
+                              : 'bg-white border border-gray-200'
+                          }`}
+                        >
+                          <span className="text-sm font-bold flex-shrink-0 mt-0.5">
+                            {String.fromCharCode(65 + idx)}.
+                          </span>
+                          <div className="flex-1 text-sm prose prose-sm max-w-none">
+                            <ReactMarkdown>{answer.answer}</ReactMarkdown>
+                          </div>
+                          {answer.isCorrect && (
+                            <span className="text-green-700 font-bold text-sm flex-shrink-0">✓ CORRECT</span>
+                          )}
+                        </div>
+                      ))
+                    )}
+                  </div>
+                </div>
+              </div>
+
+              {/* Judge Prompt - Formatted evaluation template */}
+              <div className="bg-purple-50 p-4 rounded-lg border-2 border-purple-300">
+                <h3 className="font-semibold text-purple-900 mb-3">Judge Prompt:</h3>
+                <div className="bg-white p-4 rounded border border-purple-200 font-mono text-xs whitespace-pre-wrap text-gray-900">
+                  {generateJudgePrompt(currentQuestion, confirmationData.reasoning, confirmationData.status)}
+                </div>
+              </div>
+
+              {/* Metadata */}
+              <div className="bg-gray-50 p-4 rounded-lg border border-gray-300">
+                <h3 className="font-semibold text-gray-700 mb-2">Additional Metadata:</h3>
+                <div className="grid grid-cols-2 gap-2 text-xs">
+                  <div><span className="font-medium">ID:</span> {currentQuestion.id}</div>
+                  <div><span className="font-medium">Course ID:</span> {currentQuestion.courseId}</div>
+                  <div><span className="font-medium">Topic ID:</span> {currentQuestion.topicId}</div>
+                  <div><span className="font-medium">Created:</span> {formatDate(currentQuestion.created)}</div>
+                  {currentQuestion.deleted && (
+                    <div className="col-span-2"><span className="font-medium">Deleted:</span> {formatDate(currentQuestion.deleted)}</div>
+                  )}
+                </div>
+              </div>
+
+              {/* Your Reasoning */}
+              <div className="bg-yellow-50 p-4 rounded-lg border-2 border-yellow-300">
+                <h3 className="font-semibold text-yellow-900 mb-2">Your Reasoning:</h3>
+                <p className="text-gray-900 whitespace-pre-wrap">{confirmationData.reasoning}</p>
+              </div>
+            </div>
+
+            {/* Action Buttons */}
+            <div className="sticky bottom-0 bg-white border-t border-gray-200 p-6 flex gap-4">
+              <button
+                onClick={() => setConfirmationData(null)}
+                disabled={saving}
+                className="flex-1 py-3 bg-gray-600 text-white text-lg font-semibold rounded-lg hover:bg-gray-700 disabled:bg-gray-300 disabled:cursor-not-allowed transition-colors"
+              >
+                Cancel
+              </button>
+              <button
+                onClick={handleConfirmLabel}
+                disabled={saving}
+                className={`flex-1 py-3 text-white text-lg font-semibold rounded-lg disabled:bg-gray-300 disabled:cursor-not-allowed transition-colors ${
+                  confirmationData.status === 'PASS'
+                    ? 'bg-green-600 hover:bg-green-700'
+                    : confirmationData.status === 'FAIL'
+                    ? 'bg-red-600 hover:bg-red-700'
+                    : 'bg-yellow-600 hover:bg-yellow-700'
+                }`}
+              >
+                {saving ? 'Saving...' : `Confirm ${confirmationData.status}`}
+              </button>
+            </div>
+          </div>
+        </div>
+      )}
+
       <div className="max-w-4xl mx-auto">
         {/* Header */}
         <div className="mb-6 flex justify-between items-center">
@@ -391,21 +564,21 @@ export default function LabelingPage() {
 
           <div className="flex gap-4">
             <button
-              onClick={() => handleLabel('PASS')}
+              onClick={() => handleLabelClick('PASS')}
               disabled={saving || !reasoning.trim()}
               className="flex-1 py-4 bg-green-600 text-white text-lg font-semibold rounded-lg hover:bg-green-700 disabled:bg-gray-300 disabled:cursor-not-allowed transition-colors"
             >
               PASS
             </button>
             <button
-              onClick={() => handleLabel('UNKNOWN')}
+              onClick={() => handleLabelClick('UNKNOWN')}
               disabled={saving || !reasoning.trim()}
               className="flex-1 py-4 bg-yellow-600 text-white text-lg font-semibold rounded-lg hover:bg-yellow-700 disabled:bg-gray-300 disabled:cursor-not-allowed transition-colors"
             >
               UNKNOWN
             </button>
             <button
-              onClick={() => handleLabel('FAIL')}
+              onClick={() => handleLabelClick('FAIL')}
               disabled={saving || !reasoning.trim()}
               className="flex-1 py-4 bg-red-600 text-white text-lg font-semibold rounded-lg hover:bg-red-700 disabled:bg-gray-300 disabled:cursor-not-allowed transition-colors"
             >
