@@ -67,15 +67,10 @@ function identifyBulkDeletes(questions: Question[]): Set<string> {
     });
 
   for (let i = 0; i < deletedQuestions.length; i++) {
-    const currentDate = parseDate(deletedQuestions[i].deleted!);
-    if (!currentDate) continue;
-
     const nearbyDeletes = deletedQuestions.filter((q, idx) => {
       if (idx === i) return false;
-      const qDate = parseDate(q.deleted!);
-      if (!qDate) return false;
-      const diffMs = Math.abs(currentDate.getTime() - qDate.getTime());
-      return diffMs <= 10000; // 10 seconds
+      // Compare deletion timestamps - must be exactly the same
+      return q.deleted === deletedQuestions[i].deleted;
     });
 
     if (nearbyDeletes.length > 0) {
@@ -186,24 +181,19 @@ export async function getQuestionsWithAnswers(): Promise<QuestionWithAnswers[]> 
     const isBulkDelete = bulkDeleteIds.has(question.id);
 
     if (isBulkDelete) {
-      const currentDate = parseDate(question.deleted!);
-      if (currentDate) {
-        const nearbyDeletes = questions.filter(q => {
-          if (q.id === question.id || !q.deleted) return false;
-          const qDate = parseDate(q.deleted);
-          if (!qDate) return false;
-          const diffMs = Math.abs(currentDate.getTime() - qDate.getTime());
-          return diffMs <= 10000; // 10 seconds
-        });
+      const nearbyDeletes = questions.filter(q => {
+        if (q.id === question.id || !q.deleted) return false;
+        // Compare deletion timestamps - must be exactly the same
+        return q.deleted === question.deleted;
+      });
 
-        bulkDeleteInfo = {
-          count: nearbyDeletes.length,
-          questions: nearbyDeletes.slice(0, 10).map(q => ({
-            id: q.id,
-            question: q.question.substring(0, 100),
-          })),
-        };
-      }
+      bulkDeleteInfo = {
+        count: nearbyDeletes.length,
+        questions: nearbyDeletes.slice(0, 10).map(q => ({
+          id: q.id,
+          question: q.question.substring(0, 100),
+        })),
+      };
     }
 
     return {

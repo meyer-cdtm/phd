@@ -149,7 +149,7 @@ export function QuestionCard({ question }: QuestionCardProps) {
               ⚠ Part of Bulk Delete
             </h4>
             <p className="text-sm text-gray-700 mb-2">
-              {question.bulkDeleteInfo.count} other question(s) deleted within 10 seconds:
+              {question.bulkDeleteInfo.count} other question(s) deleted at the same time:
             </p>
             <ul className="list-disc list-inside space-y-1 text-sm text-gray-600">
               {question.bulkDeleteInfo.questions.map((q) => (
