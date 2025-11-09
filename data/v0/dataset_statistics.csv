@@ -1,0 +1,24 @@
+Metric,Value,Category
+Total Questions,264,Basic Counts
+Total Answer Options,864,Basic Counts
+Average Answers per Question,3.27,Basic Counts
+Questions with 1 answers,104,Answer Distribution
+Questions with 3 answers,5,Answer Distribution
+Questions with 4 answers,67,Answer Distribution
+Questions with 5 answers,62,Answer Distribution
+Questions with 6 answers,23,Answer Distribution
+Questions with 7 answers,1,Answer Distribution
+Questions with 11 answers,2,Answer Distribution
+Published: False,195,Published Status
+Published: True,69,Published Status
+Deleted: True,150,Deleted Status
+Deleted: False,114,Deleted Status
+Language: en,133,Language
+Language: de,131,Language
+Type: multiple-choice,160,Question Type
+Type: free-text,104,Question Type
+Difficulty: hard,141,Difficulty
+Difficulty: medium,97,Difficulty
+Difficulty: easy,26,Difficulty
+Has Previous Version: False,216,Version Status
+Has Previous Version: True,48,Version Status
