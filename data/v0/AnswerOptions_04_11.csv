@@ -1,0 +1,1613 @@
+ID,Answer → ID,Answer → Answer,Answer → QuestionId,Answer → IsCorrect
+d316192a-8e2b-480c-9a17-261a849691e6,e154f05d-226b-4f04-a944-3bd1a82a4059,"- **Neuron doctrine**: Both synapses are sites of neuron-to-neuron communication, aligning with the idea that neurons are discrete units.
+- **Dynamic polarization**: Terminal synapses typically convey signals in one direction, supporting this principle.
+- **Connectional specificity**: Both synapse types form selective connections, reflecting non-random network organization.",d316192a-8e2b-480c-9a17-261a849691e6,true
+c1f894bb-a2bb-423d-8978-f72619bd17b3,c7a6e2fe-8ac4-405e-bee0-d83bb53a6639,"- Neurons are individual units (neuron doctrine), highlighting their role in signal processing and cellular interactions.
+- Dynamic polarization (signal directionality) emphasizes the importance of neuron structure in signal transmission.
+- Connectional specificity (specific connections) influences understanding of neural pathways and network formation.
+- Cellular compartments and synapses (terminal, en passant) enable complex signal integration and processing.",c1f894bb-a2bb-423d-8978-f72619bd17b3,true
+0dc6e82e-3308-42e0-b50d-3aa6d0d528e3,866420ca-4744-428a-bf23-f33b00bf6dee,"- Neurons transmit signals in a specific direction, from dendrites to axons.
+- Functional asymmetry: dendrites receive inputs, axons send outputs.
+- Axon initial segment (AIS) is crucial for action potential initiation.
+- Polarization ensures efficient communication in the neural network.",0dc6e82e-3308-42e0-b50d-3aa6d0d528e3,true
+6b904939-f1e6-4223-9fc1-77d2451d3f89,b30524c4-235b-40d7-a0f8-75c919c81a5f,"- Neuron doctrine: Neurons are individual cells and essential units of signal processing.
+- Principle of dynamic polarization: Neurons convey signals in a defined direction.
+- Connectional specificity: Neurons connect non-randomly to form networks.",6b904939-f1e6-4223-9fc1-77d2451d3f89,true
+37763f43-5e5a-45de-9827-ddf12f8c8c28,17b64102-f659-41cb-b159-a4fa25fc398c,- Santiago Ramón y Cajal,37763f43-5e5a-45de-9827-ddf12f8c8c28,true
+b8b9214c-8a63-4f5e-aa3b-c710a1a797f5,71ccd39c-7023-42d9-9569-4fc9fce7b366,Neurons ensure the directional propagation of signals through compartmentalization.,b8b9214c-8a63-4f5e-aa3b-c710a1a797f5,false
+b8b9214c-8a63-4f5e-aa3b-c710a1a797f5,479a4874-07f5-49ed-99f2-1e2d70a814a1,Neurons are individual cells that serve as the essential units of signal processing.,b8b9214c-8a63-4f5e-aa3b-c710a1a797f5,true
+b8b9214c-8a63-4f5e-aa3b-c710a1a797f5,bdb6cee4-6de7-47e6-af5c-f957fd9ac929,Neurons are non-randomly connected into networks for signal processing.,b8b9214c-8a63-4f5e-aa3b-c710a1a797f5,false
+b8b9214c-8a63-4f5e-aa3b-c710a1a797f5,25695433-4beb-41a5-be5b-583e32d47a7e,Neurons convey signals in a defined direction.,b8b9214c-8a63-4f5e-aa3b-c710a1a797f5,false
+93235e1a-a0a9-4f81-80ce-9fa8b864e32f,f4dc738c-8564-47ef-8626-d1fb14527335,The principle of dynamic polarization states that neuronal signals propagate from the dendrites and cell body to the axon terminal.,93235e1a-a0a9-4f81-80ce-9fa8b864e32f,true
+93235e1a-a0a9-4f81-80ce-9fa8b864e32f,cad58b88-fc2d-48de-a65c-7d57c5a17511,Dynamic polarization defines that signals travel unidirectionally from the soma and dendrites towards the axon terminal.,93235e1a-a0a9-4f81-80ce-9fa8b864e32f,true
+93235e1a-a0a9-4f81-80ce-9fa8b864e32f,ef82a4f6-b757-4b08-84d4-0e25c95ea3ce,The principle of dynamic polarization allows for bidirectional signal propagation within the neuron.,93235e1a-a0a9-4f81-80ce-9fa8b864e32f,false
+93235e1a-a0a9-4f81-80ce-9fa8b864e32f,45f6a55e-ffb4-4dbf-85ef-0f510d11d101,Dynamic polarization suggests that signals can start at any point in the neuron and travel in any direction.,93235e1a-a0a9-4f81-80ce-9fa8b864e32f,false
+93235e1a-a0a9-4f81-80ce-9fa8b864e32f,83f468e2-fd13-4add-910c-20027ebaf7ca,The principle of dynamic polarization indicates that signal strength is equal at all points within the neuron.,93235e1a-a0a9-4f81-80ce-9fa8b864e32f,false
+4cd2455e-ab48-4d12-9b1b-7bbecc301f9f,14ebb639-f1fe-4955-8915-0f4ecdba1b00,"Connectional specificity ensures that neurons form precise networks, enabling specific signal pathways crucial for proper neural function.",4cd2455e-ab48-4d12-9b1b-7bbecc301f9f,true
+4cd2455e-ab48-4d12-9b1b-7bbecc301f9f,d336b57b-8f83-41c0-8ed5-d9abfdae05eb,"It allows for the formation of specialized neural circuits, which are essential for specific brain functions.",4cd2455e-ab48-4d12-9b1b-7bbecc301f9f,true
+4cd2455e-ab48-4d12-9b1b-7bbecc301f9f,8eca6413-fb2b-4682-bde6-bf14e1f04235,"Connectional specificity ensures neurons are randomly connected, enhancing adaptability in neural networks.",4cd2455e-ab48-4d12-9b1b-7bbecc301f9f,false
+4cd2455e-ab48-4d12-9b1b-7bbecc301f9f,f82ed196-9c7e-4c94-ad81-f93a73812372,"It limits the diversity of connections, reducing the complexity of neural circuits.",4cd2455e-ab48-4d12-9b1b-7bbecc301f9f,false
+4cd2455e-ab48-4d12-9b1b-7bbecc301f9f,bb032703-b832-451d-a662-e2b26cebd4c9,"Connectional specificity primarily aids in neuron survival, but not in functional specialization.",4cd2455e-ab48-4d12-9b1b-7bbecc301f9f,false
+660ef6bd-1506-4747-9ca2-190642617282,698b3352-5c3b-43f4-a998-78922b967de8,"Terminal synapses are located at the end of an axon and release neurotransmitters to a specific target cell, whereas en passant synapses occur along the axon and can influence multiple cells.",660ef6bd-1506-4747-9ca2-190642617282,true
+660ef6bd-1506-4747-9ca2-190642617282,01e2726f-5768-4d2e-915f-5d786badf395,"Terminal synapses primarily facilitate one-to-one communication between neurons, while en passant synapses can create multiple contact points along the axon.",660ef6bd-1506-4747-9ca2-190642617282,true
+660ef6bd-1506-4747-9ca2-190642617282,264ea367-4c22-427f-a9a2-d92a2896f1fa,"Terminal synapses are not involved in neurotransmitter release, unlike en passant synapses which are.",660ef6bd-1506-4747-9ca2-190642617282,false
+660ef6bd-1506-4747-9ca2-190642617282,091e96ec-f6b6-4f2f-bb67-babcb64fddd4,"En passant synapses are located at the end of dendrites, whereas terminal synapses are found along the axon.",660ef6bd-1506-4747-9ca2-190642617282,false
+660ef6bd-1506-4747-9ca2-190642617282,3891c2ee-b58d-4aff-9df7-bb6114891b17,"Terminal synapses are only present in sensory neurons, whereas en passant synapses are found in motor neurons.",660ef6bd-1506-4747-9ca2-190642617282,false
+7085b991-5d51-4f20-bfa1-03d6a9e7fd80,4da56188-7545-4318-8d0b-895208656514,"- Local translation allows neurons to rapidly respond to local stimuli by synthesizing proteins directly at the site where they are needed.
+- It supports compartmentalization by ensuring specific proteins are produced in distinct neuronal regions (axons, dendrites).
+- Helps maintain neuronal polarity by regulating the local proteome based on environmental cues.
+- Facilitates efficient synaptic plasticity and adaptation.",7085b991-5d51-4f20-bfa1-03d6a9e7fd80,true
+d9ad7533-3bf5-42d2-93c8-540c2f4504f6,f51f4b79-6dd6-4f39-bdb0-cd33f1c5146e,"- AIS acts as a selective filter (gatekeeper) for axonal transport, maintaining axonal identity.
+- Microtubule polarity (""plus-end out"") in axons restricts dynein transport, aiding compartmentalization.
+- AIS and microtubule polarity regulate selective transport, supporting neuronal compartmentalization.",d9ad7533-3bf5-42d2-93c8-540c2f4504f6,true
+f2f40eef-450e-4d82-ac38-8b4de1aa39ee,e91e9549-c304-4484-bfd2-35ce9aaeb946,"- Glial cells maintain homeostasis and protect neurons.
+- They influence neuronal compartmentalization through secretion of signaling molecules.
+- Astrocytes regulate neurotransmitter levels and provide metabolic support.
+- Oligodendrocytes insulate axons with myelin, affecting signal transmission.
+- Microglia modulate synapse formation and elimination, impacting neuronal networks.",f2f40eef-450e-4d82-ac38-8b4de1aa39ee,true
+8c62cdc3-d411-47c5-a40b-12532cb933f9,67169932-0e43-4683-92db-48572a7a0fdc,Acts as a selective filter for axonal transport,8c62cdc3-d411-47c5-a40b-12532cb933f9,true
+8c62cdc3-d411-47c5-a40b-12532cb933f9,6e926ccc-fd9e-4f59-bf87-258084ce08ea,Maintains axonal identity by stabilizing microtubule polarity,8c62cdc3-d411-47c5-a40b-12532cb933f9,true
+8c62cdc3-d411-47c5-a40b-12532cb933f9,03c9d383-81b1-4b9f-b899-1563f2696978,Facilitates local translation of mRNAs,8c62cdc3-d411-47c5-a40b-12532cb933f9,false
+8c62cdc3-d411-47c5-a40b-12532cb933f9,c08fa4c9-6645-43ba-a9d8-6bc5af4b53a4,Initiates action potentials,8c62cdc3-d411-47c5-a40b-12532cb933f9,false
+8c62cdc3-d411-47c5-a40b-12532cb933f9,0a4bb096-469c-4ba3-8caf-77b382f896f9,Regulates synaptic vesicle release at the axon terminal,8c62cdc3-d411-47c5-a40b-12532cb933f9,false
+0ec0a46d-e7a4-4e3d-937d-659b961f3e05,b2540202-246f-47f8-9f85-fe1dce2bab58,Soma,0ec0a46d-e7a4-4e3d-937d-659b961f3e05,true
+0ec0a46d-e7a4-4e3d-937d-659b961f3e05,e6b67755-97b1-4446-9b36-6a496864ac7f,Dendrites,0ec0a46d-e7a4-4e3d-937d-659b961f3e05,true
+0ec0a46d-e7a4-4e3d-937d-659b961f3e05,9df8bf62-edbb-4844-a8bc-ef4b4e091895,Axons,0ec0a46d-e7a4-4e3d-937d-659b961f3e05,false
+0ec0a46d-e7a4-4e3d-937d-659b961f3e05,ee5d731a-ca36-42c5-8e7b-c007cd322947,Axon initial segment,0ec0a46d-e7a4-4e3d-937d-659b961f3e05,false
+0ec0a46d-e7a4-4e3d-937d-659b961f3e05,5a2c3f82-9718-40f2-854d-6297ab09baf7,Presynaptic boutons,0ec0a46d-e7a4-4e3d-937d-659b961f3e05,false
+439cce1e-f96a-4438-8ba3-99d2f6506b94,f3ba50f9-7ff9-4129-a2d6-ee2c99137116,Axonal compartment,439cce1e-f96a-4438-8ba3-99d2f6506b94,true
+439cce1e-f96a-4438-8ba3-99d2f6506b94,3aed6c9c-a412-48cf-92f3-0909746a0a80,Somato-dendritic compartment,439cce1e-f96a-4438-8ba3-99d2f6506b94,false
+439cce1e-f96a-4438-8ba3-99d2f6506b94,43252a8f-e851-41c2-829e-dfe3850ebfe6,Soma,439cce1e-f96a-4438-8ba3-99d2f6506b94,false
+439cce1e-f96a-4438-8ba3-99d2f6506b94,e43403f6-9662-405e-bb6a-0ee386a7dcb5,Dendrites,439cce1e-f96a-4438-8ba3-99d2f6506b94,false
+3c62ae0d-c55c-48c3-a633-3a7a3310eccf,d06a53e0-89e9-4cf7-b3bd-4f28cddedaeb,The axonal compartment is responsible for the propagation of action potentials and selective transport of cargoes along the axon.,3c62ae0d-c55c-48c3-a633-3a7a3310eccf,true
+3c62ae0d-c55c-48c3-a633-3a7a3310eccf,637a1643-0446-41e4-af3f-f1a3c543836b,The axonal compartment primarily functions in the reception of synaptic inputs and the integration of signals.,3c62ae0d-c55c-48c3-a633-3a7a3310eccf,false
+3c62ae0d-c55c-48c3-a633-3a7a3310eccf,970328c1-3bee-4a1a-ba31-1ba2e2775fff,The axonal compartment facilitates the synthesis of proteins through local translation of mRNAs.,3c62ae0d-c55c-48c3-a633-3a7a3310eccf,false
+3c62ae0d-c55c-48c3-a633-3a7a3310eccf,b5851eb3-3eda-4dfa-a4bd-23a52a7a8b9e,The axonal compartment is mainly involved in the degradation of cellular waste products through lysosomal activity.,3c62ae0d-c55c-48c3-a633-3a7a3310eccf,false
+f6aaf806-380b-434b-ac8f-7452c5c62fb2,44d71d87-1a33-4945-8de5-0fe190ea5ed2,Die Beschleunigung ist konstant und beträgt 5 m/s².,f6aaf806-380b-434b-ac8f-7452c5c62fb2,false
+f6aaf806-380b-434b-ac8f-7452c5c62fb2,1fe171ae-e23d-488b-8e32-6c2c40c6ca20,Die Beschleunigung ist null. ,f6aaf806-380b-434b-ac8f-7452c5c62fb2,false
+f6aaf806-380b-434b-ac8f-7452c5c62fb2,46568fd0-8aec-4450-a19b-63b5036558d8,Die Beschleunigung ist konstant und beträgt 3 m/s².,f6aaf806-380b-434b-ac8f-7452c5c62fb2,false
+f6aaf806-380b-434b-ac8f-7452c5c62fb2,5b594014-8442-481f-b2bd-47cb3fc7e670,Die Beschleunigung ist abhängig von der Zeit t. ,f6aaf806-380b-434b-ac8f-7452c5c62fb2,false
+2cca1368-100b-4d78-99eb-b1f83a1400ba,3306325f-77ab-4a5b-b154-ea4a0e363daf,Die Beschleunigung ist konstant und beträgt 5 m/s².,2cca1368-100b-4d78-99eb-b1f83a1400ba,true
+2cca1368-100b-4d78-99eb-b1f83a1400ba,bc4f3c84-ca07-4871-90b3-93c996096304,Die Beschleunigung ist null. ,2cca1368-100b-4d78-99eb-b1f83a1400ba,false
+2cca1368-100b-4d78-99eb-b1f83a1400ba,fecc7343-3b8a-4b90-9f43-2e58c374be50,Die Beschleunigung ist konstant und beträgt 3 m/s².,2cca1368-100b-4d78-99eb-b1f83a1400ba,false
+2cca1368-100b-4d78-99eb-b1f83a1400ba,bb8b04b4-5703-48a0-8b11-a4b0dfab2115,Die Beschleunigung ist abhängig von der Zeit t. ,2cca1368-100b-4d78-99eb-b1f83a1400ba,false
+1bcbd41b-ebc4-4d61-bf59-8c1598282124,a8430891-0b5f-4a6e-82b6-3eb55beb8d3a,Die Beschleunigung ist null. ,1bcbd41b-ebc4-4d61-bf59-8c1598282124,false
+1bcbd41b-ebc4-4d61-bf59-8c1598282124,d20e40e7-98aa-4b12-8302-1a1ef651729d,Die Beschleunigung ist konstant und beträgt 3 m/s².,1bcbd41b-ebc4-4d61-bf59-8c1598282124,false
+1bcbd41b-ebc4-4d61-bf59-8c1598282124,17cc1393-f37c-4159-8d49-822d5bb53dd2,Die Beschleunigung ist abhängig von der Zeit t. ,1bcbd41b-ebc4-4d61-bf59-8c1598282124,false
+1bcbd41b-ebc4-4d61-bf59-8c1598282124,7748c0ce-3343-485d-98b5-87208781877f,Die Beschleunigung ist konstant und beträgt 5 m/s².,1bcbd41b-ebc4-4d61-bf59-8c1598282124,true
+e5162307-64c3-4bb8-aab5-ea2fb6ab0d54,74b8e291-a0b4-4bb4-be0a-c31d93e91bf8,Die Beschleunigung ist die Ableitung der Geschwindigkeit nach der Zeit: $a(t) = \frac{d}{dt}(3t - 4) = 3$.,e5162307-64c3-4bb8-aab5-ea2fb6ab0d54,true
+b4a65231-8e06-4e22-8516-3297f75aad36,aaf73071-66bd-4a23-b416-eb95a96f874a,"- **Somato-dendritic compartment**: Includes soma and dendrites; contains RER, ribosomes, and Golgi apparatus.
+- **Axonal compartment**: Includes axon; lacks RER and Golgi apparatus.
+- **Compartmentalization mechanisms**: Transport selectivity and local translation define compartments.
+- **Axon Initial Segment (AIS)**: Acts as a filter, maintaining polarity by selective transport.
+- **Microtubule polarity**: Plus-end out in axons, influencing cargo transport.",b4a65231-8e06-4e22-8516-3297f75aad36,true
+5e17b8a8-89b5-42a3-9780-6a3ea1d928be,987c39cb-4db6-41a9-afb0-3f5050587cee,"- **Somato-dendritic compartment**: Includes soma and dendrites; contains RER, ribosomes, and Golgi apparatus.
+- **Axonal compartment**: Includes axon; lacks RER and Golgi apparatus.
+-**Presynapse**: axonal specialization that contains synaptic vesicles
+-**Postsynapse**: dendritic specialization that contains neurotransmitter receptors in the posysynaptic density, often 
+-**Node of Ranvier**: gap in myelination",5e17b8a8-89b5-42a3-9780-6a3ea1d928be,true
+7dfcc4f5-4c36-457b-9827-644f463ee7b7,d09f0112-d4b8-4920-8b23-53b012146a52,"- **Somato-dendritic compartment**: Includes soma and dendrites; contains RER, ribosomes, and Golgi apparatus.
+- **Axonal compartment**: Includes axon; lacks RER and Golgi apparatus.
+-**Presynapse**: axonal specialization that contains synaptic vesicles
+-**Postsynapse**: dendritic specialization that contains neurotransmitter receptors in the posysynaptic density, often within a dendritic spine
+-**Node of Ranvier**: gap in myelination",7dfcc4f5-4c36-457b-9827-644f463ee7b7,true
+b0afa540-bee4-4ae9-aeaf-97fcb35c86d7,2972ee12-169c-4f30-be67-3912ffc4d455,Mitochondria,b0afa540-bee4-4ae9-aeaf-97fcb35c86d7,true
+b0afa540-bee4-4ae9-aeaf-97fcb35c86d7,c5f33a6d-1d21-4513-98df-4def9c6bcca9,Lysosomes,b0afa540-bee4-4ae9-aeaf-97fcb35c86d7,true
+b0afa540-bee4-4ae9-aeaf-97fcb35c86d7,01a0f754-1c28-4a7d-8adc-16493962fc56,Golgi Apparatus,b0afa540-bee4-4ae9-aeaf-97fcb35c86d7,false
+b0afa540-bee4-4ae9-aeaf-97fcb35c86d7,91810211-dcab-4746-9f42-19157f68284c,Rough Endoplasmic Reticulum,b0afa540-bee4-4ae9-aeaf-97fcb35c86d7,false
+b0afa540-bee4-4ae9-aeaf-97fcb35c86d7,0e242ff8-b321-46a5-b366-bb089cf5639c,Ribosomes,b0afa540-bee4-4ae9-aeaf-97fcb35c86d7,false
+385422b1-a066-4965-b115-f90ac4388a17,9d5140b7-81ef-40c3-85f4-37a64fd99940,Local translation,385422b1-a066-4965-b115-f90ac4388a17,true
+385422b1-a066-4965-b115-f90ac4388a17,368ddee6-a055-4748-bca3-aabea37c9a3a,Microtubule polarity,385422b1-a066-4965-b115-f90ac4388a17,false
+385422b1-a066-4965-b115-f90ac4388a17,103c1efc-24e9-44ed-ad26-2fcb61f1fb00,Transport selectivity,385422b1-a066-4965-b115-f90ac4388a17,false
+385422b1-a066-4965-b115-f90ac4388a17,f7408157-213f-4d13-a217-543853a02af5,Posttranslational modifications of tubulin,385422b1-a066-4965-b115-f90ac4388a17,false
+4e0910f3-ecaa-4f72-8f8f-692f5261bc25,e704d246-bbdd-466b-a150-b8ed32925b4d,Axonal compartment,4e0910f3-ecaa-4f72-8f8f-692f5261bc25,true
+4e0910f3-ecaa-4f72-8f8f-692f5261bc25,907de4f6-1fc9-4e22-b6d6-f3593faf1c20,Somato-dendritic compartment,4e0910f3-ecaa-4f72-8f8f-692f5261bc25,false
+4e0910f3-ecaa-4f72-8f8f-692f5261bc25,967e6cfb-44c7-4fd3-9c30-36c1df5ee447,Soma,4e0910f3-ecaa-4f72-8f8f-692f5261bc25,false
+4e0910f3-ecaa-4f72-8f8f-692f5261bc25,755f95ef-0935-48b3-ac46-31865c29de5c,Dendritic spines,4e0910f3-ecaa-4f72-8f8f-692f5261bc25,false
+4e0910f3-ecaa-4f72-8f8f-692f5261bc25,2e5c7ef8-f0a6-466e-aa58-d9fda156c15b,Axon initial segment,4e0910f3-ecaa-4f72-8f8f-692f5261bc25,false
+b306d749-61ba-40cd-9677-22430096a5e6,a40db833-dd5b-4d84-970a-e929ff1ae115,"Microtubule-associated proteins regulate the stabilization of microtubule polarity, crucial for maintaining neuronal polarity.",b306d749-61ba-40cd-9677-22430096a5e6,true
+b306d749-61ba-40cd-9677-22430096a5e6,e1a9a413-9798-43a7-a46d-9b2d0a4398a8,They play a role in the sorting and transport of axonal cargoes by influencing motor protein activity.,b306d749-61ba-40cd-9677-22430096a5e6,true
+b306d749-61ba-40cd-9677-22430096a5e6,59c7d471-d577-4ed6-a33c-1b67740d8de9,Microtubule-associated proteins are primarily responsible for the generation of action potentials in neurons.,b306d749-61ba-40cd-9677-22430096a5e6,false
+b306d749-61ba-40cd-9677-22430096a5e6,593bb60e-eb17-4c62-bcb3-e552829e9865,They directly synthesize mRNA in the axonal compartments to maintain protein levels.,b306d749-61ba-40cd-9677-22430096a5e6,false
+b306d749-61ba-40cd-9677-22430096a5e6,b7dc8636-1cdd-49a4-a283-6460be9338b9,Microtubule-associated proteins are involved in the passive diffusion of organelles across neuronal compartments.,b306d749-61ba-40cd-9677-22430096a5e6,false
+e6d985aa-46d7-49e3-b59a-4d411c8e4d92,1156cf46-c3f3-4cfc-af9c-f9f6cab41472,"- Astrocytes encapsulate synapses and regulate neurotransmitter levels and provide metabolic support.
+- Oligodendrocytes insulate axons with myelin, creating nodes of Ranvier and signal transmission speed.
+- Microglia modulate synapse formation and elimination, impacting neuronal networks.",e6d985aa-46d7-49e3-b59a-4d411c8e4d92,true
+c96e2c84-225b-45f8-9337-39a509b8aeaa,83fe78a5-6df7-48df-81c2-84dbcd395a2d,Acts as a selective filter for axonal transport,c96e2c84-225b-45f8-9337-39a509b8aeaa,true
+c96e2c84-225b-45f8-9337-39a509b8aeaa,73bb0722-ac1c-40c6-8ca2-57f03feabc40,Maintains axonal identity by stabilizing microtubule polarity,c96e2c84-225b-45f8-9337-39a509b8aeaa,true
+c96e2c84-225b-45f8-9337-39a509b8aeaa,b384f4dd-a767-4f36-a6fc-5d0dd4d55f9f,Facilitates local translation of mRNAs,c96e2c84-225b-45f8-9337-39a509b8aeaa,false
+c96e2c84-225b-45f8-9337-39a509b8aeaa,13d489ee-3970-411d-8a5c-341f34dcd4f0,Initiates action potentials,c96e2c84-225b-45f8-9337-39a509b8aeaa,true
+c96e2c84-225b-45f8-9337-39a509b8aeaa,adebcdb3-c578-4f67-89ba-aa00f2497064,Regulates synaptic vesicle release at the axon terminal,c96e2c84-225b-45f8-9337-39a509b8aeaa,false
+0a265608-afb3-41d1-a498-8c78bf4325c2,8f386711-9723-454e-abb3-8c19020e7351,The axonal compartment is responsible for the propagation of action potentials and selective transport of cargoes along the axon.,0a265608-afb3-41d1-a498-8c78bf4325c2,true
+0a265608-afb3-41d1-a498-8c78bf4325c2,b6e82f26-9f15-42bb-8f0f-0544da816e82,The axonal compartment primarily functions in the reception of synaptic inputs and the integration of signals.,0a265608-afb3-41d1-a498-8c78bf4325c2,false
+0a265608-afb3-41d1-a498-8c78bf4325c2,3e5686e3-a7fa-4809-9390-985245edd30e,The axonal compartment facilitates the transport of ribosomes along the ER.,0a265608-afb3-41d1-a498-8c78bf4325c2,false
+0a265608-afb3-41d1-a498-8c78bf4325c2,142bc1af-7b71-4819-8d27-7e8051bd157e,The axonal compartment is mainly involved in the degradation of cellular waste products through shedding of vesicles.,0a265608-afb3-41d1-a498-8c78bf4325c2,false
+f97c51f2-1a7f-463c-87ad-1e27a2adbd2a,50ff9d7d-4068-4005-9620-fcbf3cb3ec19,"Die durchschnittliche Beschleunigung ist $a = \frac{v_f - v_i}{t} = \frac{25 \, \text{m/s} - 15 \, \text{m/s}}{10 \, \text{s}} = 1 \, \text{m/s}^2$.",f97c51f2-1a7f-463c-87ad-1e27a2adbd2a,true
+6bb2653f-be92-4d10-bad8-08c9c7ef678e,70539b88-a635-41f4-8229-9651ea60cd82,"Verwenden Sie die Formel $s=1/2 at^2 + v_i t$. Setzen Sie $v = 0$, $v_i = 10 \, \text{m/s}$ und $a = -9.81 \, \text{m/s}^2$ ein: $0 = (10)^2 + 2(-9.81)s$. Daraus folgt $s = \frac{100}{19.62} \approx 5.1 \, \text{m}$.",6bb2653f-be92-4d10-bad8-08c9c7ef678e,true
+cc12910f-64ca-4730-8e1f-6b0169c87d03,b0040201-42a1-4522-9021-ef3b45744b29,"Verwenden Sie die Formel $s=\frac{1}{2} at^2 + v_i t$. Setzen Sie $v = 0$, $v_i = 10 \, \text{m/s}$ und $a = -9.81 \, \text{m/s}^2$ ein: $0 = (10)^2 + 2(-9.81)s$. Daraus folgt $s = \frac{100}{19.62} \approx 5.1 \, \text{m}$.",cc12910f-64ca-4730-8e1f-6b0169c87d03,true
+9bb80008-3c4d-4ec0-90ce-e4f26adb6e4e,23aec1dc-88ab-4ef3-a7a5-f6cb69ec8613,"Es gibt zwei mögliche Ansätze: 
+Ansatz 1: Verwenden Sie die Formel $s=\frac{1}{2} at^2 + v_i t$ und $v=v_i t$. Lösen Sie die zweite Gleichung nach t auf: $t=\frac{v-v_i}{a}$ und setzen das in s ein. Dann erhalten Sie: $2as=v^2-v_i^2$, was Sie nach s umstellen können. 
+Ansatz 2: Verwenden Sie Energieerhaltung: $E_{kin,i} = E_{kin} + E_{pot}$. Setzen Sie die bekannten Formeln ein, erhalten Sie: $\frac{1}{2}mv_i^2 = \frac{1}{2}mv^2 + mgh$. Da $h=s$ und $a=-g$ , können Sie umstellen und erhalten: $2as=v_i^2-v^2$.
+Stellen Sie nun die Formel, die Sie aus beiden Ansätzen erhalten, nach s um, und verwenden Sie die gegebenen Werte: $v = 0$, $v_i = 10 \, \text{m/s}$ und $a = -9.81 \, \text{m/s}^2$ ein: $s = \frac{100}{19.62} \approx 5.1 \, \text{m}$.",9bb80008-3c4d-4ec0-90ce-e4f26adb6e4e,true
+0a251724-697a-4950-ac9c-8bc0140aa368,cd690c7e-d881-40f5-a90f-c02f69888b71,"- Cytoskeleton
+- Mitochondria
+- Lysosomes",0a251724-697a-4950-ac9c-8bc0140aa368,true
+ce6f00e9-828a-4efc-9213-3910d4b3da8e,c95c723d-de1e-4c47-9c0d-5db87b32b101,Cytoskeleton,ce6f00e9-828a-4efc-9213-3910d4b3da8e,true
+ce6f00e9-828a-4efc-9213-3910d4b3da8e,18edd795-eccb-4d83-a452-b8362b146e63,RER (Rough Endoplasmic Reticulum),ce6f00e9-828a-4efc-9213-3910d4b3da8e,true
+ce6f00e9-828a-4efc-9213-3910d4b3da8e,44b4ab4d-7e64-4dab-95c4-da698c5086b0,ER (Endoplasmic Reticulum),ce6f00e9-828a-4efc-9213-3910d4b3da8e,true
+ce6f00e9-828a-4efc-9213-3910d4b3da8e,251df067-e1f5-400b-ac56-eaccabf5b6e0,Ribosomes,ce6f00e9-828a-4efc-9213-3910d4b3da8e,true
+ce6f00e9-828a-4efc-9213-3910d4b3da8e,c226aadb-54a9-46ad-8515-2e1b1de786c6,Golgi Apparatus,ce6f00e9-828a-4efc-9213-3910d4b3da8e,true
+ce6f00e9-828a-4efc-9213-3910d4b3da8e,221761fc-a496-40fa-96de-f508ac110865,Mitochondria,ce6f00e9-828a-4efc-9213-3910d4b3da8e,true
+ce6f00e9-828a-4efc-9213-3910d4b3da8e,675b2840-2c1e-4ab2-a883-276be67c5041,Lysosomes,ce6f00e9-828a-4efc-9213-3910d4b3da8e,true
+ce6f00e9-828a-4efc-9213-3910d4b3da8e,7f2d5c89-5adc-4036-b4e4-a150a511279a,Nucleus,ce6f00e9-828a-4efc-9213-3910d4b3da8e,false
+ce6f00e9-828a-4efc-9213-3910d4b3da8e,56ba62f1-8260-4f3c-b926-fea65d824014,Centrioles,ce6f00e9-828a-4efc-9213-3910d4b3da8e,false
+ce6f00e9-828a-4efc-9213-3910d4b3da8e,51a7d6a0-83b4-49d8-9cc7-875b34801d42,Peroxisomes,ce6f00e9-828a-4efc-9213-3910d4b3da8e,false
+ce6f00e9-828a-4efc-9213-3910d4b3da8e,15ce2d95-a7aa-4c82-9c50-04c061ebc901,Plasma Membrane,ce6f00e9-828a-4efc-9213-3910d4b3da8e,false
+ef12b82f-24df-470a-b7fc-b8769d27ff2a,d387af83-3c59-405f-ab7d-49b5959ebb85,Cytoskeleton,ef12b82f-24df-470a-b7fc-b8769d27ff2a,true
+ef12b82f-24df-470a-b7fc-b8769d27ff2a,48cf4c0e-4bd5-4635-bdd2-ac0929749bfc,RER (Rough Endoplasmic Reticulum),ef12b82f-24df-470a-b7fc-b8769d27ff2a,false
+ef12b82f-24df-470a-b7fc-b8769d27ff2a,7b4a35c0-659d-4ebd-b728-53d1ac621a91,Golgi apparatus,ef12b82f-24df-470a-b7fc-b8769d27ff2a,false
+ef12b82f-24df-470a-b7fc-b8769d27ff2a,6d344948-881c-4582-8cb9-c4390487750e,Ribosomes,ef12b82f-24df-470a-b7fc-b8769d27ff2a,false
+ed873520-22c0-4185-bdfa-20c482d5514a,7786dbc6-5d3a-439c-97fb-8e327d79c059,Peroxisomes,ed873520-22c0-4185-bdfa-20c482d5514a,false
+ed873520-22c0-4185-bdfa-20c482d5514a,ea552102-a816-47ad-8ba6-581c1548e0cb,Cytoskeleton,ed873520-22c0-4185-bdfa-20c482d5514a,true
+ed873520-22c0-4185-bdfa-20c482d5514a,c27d3e50-195c-4545-86a3-8b86c042dd26,RER (Rough Endoplasmic Reticulum),ed873520-22c0-4185-bdfa-20c482d5514a,true
+ed873520-22c0-4185-bdfa-20c482d5514a,b9a4f096-cb0d-4ac6-ac1a-3276f03aea06,ER (Endoplasmic Reticulum),ed873520-22c0-4185-bdfa-20c482d5514a,true
+ed873520-22c0-4185-bdfa-20c482d5514a,266e4bed-32f8-46cf-8cc6-84be895bd048,Ribosomes,ed873520-22c0-4185-bdfa-20c482d5514a,true
+ed873520-22c0-4185-bdfa-20c482d5514a,09f22c55-f5ab-47be-b221-6e63a9a29b93,Golgi Apparatus,ed873520-22c0-4185-bdfa-20c482d5514a,true
+ed873520-22c0-4185-bdfa-20c482d5514a,34c11d0c-9dd8-461a-934c-e04e73b47de3,Mitochondria,ed873520-22c0-4185-bdfa-20c482d5514a,true
+ed873520-22c0-4185-bdfa-20c482d5514a,f3051e6b-f466-4fae-a1a4-a108eeae1428,Lysosomes,ed873520-22c0-4185-bdfa-20c482d5514a,true
+ed873520-22c0-4185-bdfa-20c482d5514a,fe4bf523-70ae-4afc-b934-6d8ec2f2ae89,Centrioles,ed873520-22c0-4185-bdfa-20c482d5514a,false
+ed873520-22c0-4185-bdfa-20c482d5514a,570b019b-b9a1-48e5-bb5c-b39b5f02a484,Nucleolus,ed873520-22c0-4185-bdfa-20c482d5514a,false
+ed873520-22c0-4185-bdfa-20c482d5514a,5fc35c8f-f758-46a4-a895-42129a9f5204,Cell Wall,ed873520-22c0-4185-bdfa-20c482d5514a,false
+e830c0d0-1aff-4d8d-9644-52ad92a3e832,adb584ea-12e5-493c-9a3c-dadfee09dee4,Cytoskeleton,e830c0d0-1aff-4d8d-9644-52ad92a3e832,true
+e830c0d0-1aff-4d8d-9644-52ad92a3e832,2a73d896-6f21-4d06-a802-fbc133694884,Mitochondria,e830c0d0-1aff-4d8d-9644-52ad92a3e832,true
+e830c0d0-1aff-4d8d-9644-52ad92a3e832,2ef10b04-3c89-46c9-9b21-b0957d9911b8,Lysosomes,e830c0d0-1aff-4d8d-9644-52ad92a3e832,true
+e830c0d0-1aff-4d8d-9644-52ad92a3e832,3f64c787-daaf-434c-bf17-dd49d65393b2,RER (Rough Endoplasmic Reticulum),e830c0d0-1aff-4d8d-9644-52ad92a3e832,false
+e830c0d0-1aff-4d8d-9644-52ad92a3e832,6fbe7f63-b24a-421c-a4a9-3c4032a2a94e,Golgi Apparatus,e830c0d0-1aff-4d8d-9644-52ad92a3e832,false
+e830c0d0-1aff-4d8d-9644-52ad92a3e832,ddb7e133-53ad-4fef-b7b3-a9d55cb88864,Ribosomes,e830c0d0-1aff-4d8d-9644-52ad92a3e832,false
+e3b5af35-38ce-441b-a962-e4b52c55fbed,7a6e11f2-5ecb-451a-a2ea-dd03895f93f4,"Es gibt zwei mögliche Ansätze: 
+Ansatz 1: Verwenden Sie die Formel $s=\frac{1}{2} at^2 + v_i t$ und $v=v_i t$. Lösen Sie die zweite Gleichung nach t auf: $t=\frac{v-v_i}{a}$ und setzen das in s ein. Dann erhalten Sie: $2as=v^2-v_i^2$, was Sie nach s umstellen können. 
+Ansatz 2: Verwenden Sie Energieerhaltung: $E_{kin,i} = E_{kin} + E_{pot}$. Setzen Sie die bekannten Formeln ein, erhalten Sie: $\frac{1}{2}mv_i^2 = \frac{1}{2}mv^2 + mgh$. Da $h=s$ und $a=-g$ , können Sie umstellen und erhalten: $2as=v_i^2-v^2$.
+Stellen Sie nun die Formel, die Sie aus beiden Ansätzen erhalten, nach s um, und verwenden Sie die gegebenen Werte: $v = 0$, $v_i = 10 \, \text{m/s}$ und $a = -9.81 \, \text{m/s}^2$ ein: $s = \frac{100}{19.62} \approx 5.1 \, \text{m}$.
+
+
+Ansatz 1: Kinematischer Ansatz
+Aus den Gleichungen
+\[
+s = \tfrac{1}{2} a t^2 + v_i t
+\quad \text{und} \quad
+v = v_i + a t
+\]
+lösen wir die zweite Gleichung nach \( t \) auf:
+\[
+t = \frac{v - v_i}{a}.
+\]
+
+Einsetzen in die Gleichung für \( s \) ergibt:
+\[
+s = \tfrac{1}{2} a \left( \frac{v - v_i}{a} \right)^2 + v_i \frac{v - v_i}{a}.
+\]
+
+Nach Vereinfachung folgt:
+\[
+2 a s = v^2 - v_i^2,
+\]
+bzw.
+\[
+s = \frac{v^2 - v_i^2}{2 a}.
+\]
+
+Ansatz 2: Energetischer Ansatz
+
+Nach dem Energieerhaltungssatz gilt:
+\[
+E_{\text{kin},i} = E_{\text{kin}} + E_{\text{pot}}.
+\]
+
+Setzen wir die bekannten Formeln ein:
+\[
+\tfrac{1}{2} m v_i^2 = \tfrac{1}{2
+",e3b5af35-38ce-441b-a962-e4b52c55fbed,true
+0ca01b2f-2ba8-4447-9bc8-5f4afc60e7f6,ba4af625-d6e4-4295-bc86-90de903b81de,"- ER
+- Mitochondria
+- Lysosomes
+- Autophagosomes",0ca01b2f-2ba8-4447-9bc8-5f4afc60e7f6,true
+dc6d26d2-8d32-42ec-9425-4c97f7bb77c9,da34b20a-6c3c-4a60-b44d-d9ec87bb5240,"- Cytoskeleton
+- Mitochondria
+- Lysosomes",dc6d26d2-8d32-42ec-9425-4c97f7bb77c9,true
+e965c533-43b3-4e5f-a35a-f3a9c575fbba,be7f78f0-b5f5-4538-a792-f63aa89994df,"- Cytoskeleton
+- RER (Rough Endoplasmic Reticulum)
+- ER (Endoplasmic Reticulum)
+- Ribosomes
+- Golgi apparatus
+- Mitochondria
+- Lysosomes",e965c533-43b3-4e5f-a35a-f3a9c575fbba,true
+f631d9fa-31b8-467f-88f0-3bc3bcf1e490,76ddb781-a72f-40fc-bfe8-ffad7f85f94d,Cytoskeleton,f631d9fa-31b8-467f-88f0-3bc3bcf1e490,true
+f631d9fa-31b8-467f-88f0-3bc3bcf1e490,3b7c0fda-38bb-433d-ac12-297868b35b7d,RER (Rough Endoplasmic Reticulum),f631d9fa-31b8-467f-88f0-3bc3bcf1e490,false
+f631d9fa-31b8-467f-88f0-3bc3bcf1e490,cc2776db-00ed-46e0-a7f3-7437423f99ac,Golgi Apparatus,f631d9fa-31b8-467f-88f0-3bc3bcf1e490,false
+f631d9fa-31b8-467f-88f0-3bc3bcf1e490,5f8f06a2-282e-4ec7-8b16-76e8484a1c94,Ribosomes,f631d9fa-31b8-467f-88f0-3bc3bcf1e490,false
+dd458f7a-bbbc-4a03-88ef-cd0442162bbf,fe6808ff-6849-4584-a6c8-69ff58b6395e,"Es gibt zwei mögliche Ansätze: 
+
+Ansatz 1: Kinematischer Ansatz
+Aus den Gleichungen
+\[
+s = \tfrac{1}{2} a t^2 + v_i t
+\quad \text{und} \quad
+v = v_i + a t
+\]
+lösen wir die zweite Gleichung nach \( t \) auf:
+\[
+t = \frac{v - v_i}{a}.
+\]
+
+Einsetzen in die Gleichung für \( s \) ergibt:
+\[
+s = \tfrac{1}{2} a \left( \frac{v - v_i}{a} \right)^2 + v_i \frac{v - v_i}{a}.
+\]
+
+Nach Vereinfachung folgt:
+\[
+2 a s = v^2 - v_i^2,
+\]
+bzw.
+\[
+s = \frac{v^2 - v_i^2}{2 a}.
+\]
+
+Ansatz 2: Energetischer Ansatz
+
+Aus der Energieerhaltung gilt:
+\[
+E_{\text{kin},i} = E_{\text{kin}} + E_{\text{pot}}
+\]
+\[
+\tfrac{1}{2} m v_i^2 = \tfrac{1}{2} m v^2 + m g h
+\]
+Da \( h = s \) und \( a = -g \), erhält man:
+\[
+2 a s = v_i^2 - v^2
+\]
+und somit wieder
+\[
+s = \frac{v^2 - v_i^2}{2a}
+\]
+
+Berechnung:
+
+Für die gegebenen Werte
+\[
+v = 0, \quad v_i = \SI{10}{m/s}, \quad a = \SI{-9.81}{m/s^2}
+\]
+ergibt sich:
+\[
+s = \frac{0^2 - 10^2}{2 \cdot (-9.81)} = \frac{100}{19.62} \approx \SI{5.1}{m}
+\]
+",dd458f7a-bbbc-4a03-88ef-cd0442162bbf,true
+32ef011d-53fa-4e7b-815c-e6df6ec9e974,50389263-71b8-44ca-90e1-580a654e1c7b,Cytoskeleton,32ef011d-53fa-4e7b-815c-e6df6ec9e974,true
+32ef011d-53fa-4e7b-815c-e6df6ec9e974,0ea9789e-19b8-4b94-9481-90e51baf803e,Mitochondria,32ef011d-53fa-4e7b-815c-e6df6ec9e974,true
+32ef011d-53fa-4e7b-815c-e6df6ec9e974,98fcad89-309b-4514-954e-03b35287756e,Lysosomes,32ef011d-53fa-4e7b-815c-e6df6ec9e974,true
+32ef011d-53fa-4e7b-815c-e6df6ec9e974,5d74ac13-c376-49dd-9ff8-a3f4d0171b08,RER (Rough Endoplasmic Reticulum),32ef011d-53fa-4e7b-815c-e6df6ec9e974,false
+32ef011d-53fa-4e7b-815c-e6df6ec9e974,ffe1aa86-c9bb-4fbf-9b6a-43444979bb29,Golgi Apparatus,32ef011d-53fa-4e7b-815c-e6df6ec9e974,false
+32ef011d-53fa-4e7b-815c-e6df6ec9e974,5992979e-10c4-4c6a-8872-9163b503efce,Ribosomes,32ef011d-53fa-4e7b-815c-e6df6ec9e974,false
+14359c7a-0b39-4250-8284-8604c766fd2e,e424745f-3ca3-49f2-b328-cb62e12766c1,Cytoskeleton,14359c7a-0b39-4250-8284-8604c766fd2e,true
+14359c7a-0b39-4250-8284-8604c766fd2e,d5493f71-abe2-41e3-a770-55244856bea5,Mitochondria,14359c7a-0b39-4250-8284-8604c766fd2e,true
+14359c7a-0b39-4250-8284-8604c766fd2e,0900bffb-a6b0-40bf-8945-c39c3104a8cd,Lysosomes,14359c7a-0b39-4250-8284-8604c766fd2e,true
+14359c7a-0b39-4250-8284-8604c766fd2e,4a259c49-7420-45a2-8218-d4946020c675,RER (Rough Endoplasmic Reticulum),14359c7a-0b39-4250-8284-8604c766fd2e,false
+14359c7a-0b39-4250-8284-8604c766fd2e,a40170e8-e2d4-49a3-ab66-870d1b50f82d,Golgi Apparatus,14359c7a-0b39-4250-8284-8604c766fd2e,false
+5c7c048d-0f86-4b9f-83cf-c1a9b3f41392,8833d50b-134d-437c-b2f5-ed17bb905723,Cytoskeleton,5c7c048d-0f86-4b9f-83cf-c1a9b3f41392,true
+5c7c048d-0f86-4b9f-83cf-c1a9b3f41392,6799ee54-b2a5-4329-badc-277ef45c1c7f,Rough Endoplasmic Reticulum,5c7c048d-0f86-4b9f-83cf-c1a9b3f41392,false
+5c7c048d-0f86-4b9f-83cf-c1a9b3f41392,62c84dad-4fb3-43d4-b193-0e0840239543,Golgi Apparatus,5c7c048d-0f86-4b9f-83cf-c1a9b3f41392,false
+5c7c048d-0f86-4b9f-83cf-c1a9b3f41392,853a0acb-0e23-4ff8-a033-e34528e86b4b,Ribosomes,5c7c048d-0f86-4b9f-83cf-c1a9b3f41392,false
+32929e8a-3d46-4351-9213-28038d222746,4adec33f-5031-4a2c-ad76-e44d01819f3c,Cytoskeleton,32929e8a-3d46-4351-9213-28038d222746,true
+32929e8a-3d46-4351-9213-28038d222746,af1b73be-966e-44e1-8221-30d408d68264,RER (Rough Endoplasmic Reticulum),32929e8a-3d46-4351-9213-28038d222746,true
+32929e8a-3d46-4351-9213-28038d222746,99520074-c282-4cc4-b452-0aac55ba5a62,Ribosomes,32929e8a-3d46-4351-9213-28038d222746,true
+32929e8a-3d46-4351-9213-28038d222746,1805a01b-d3e4-4147-8ef4-953ff37a1890,Golgi Apparatus,32929e8a-3d46-4351-9213-28038d222746,false
+32929e8a-3d46-4351-9213-28038d222746,4b6f211a-3597-4408-8bd3-26c76316a1e9,ER (Endoplasmic Reticulum),32929e8a-3d46-4351-9213-28038d222746,false
+32929e8a-3d46-4351-9213-28038d222746,a0b9446a-439d-4a02-9a77-f982da110297,Lysosomes,32929e8a-3d46-4351-9213-28038d222746,false
+00b50654-0cf7-48f2-9cf0-a01c98933c52,0ca5fc95-959e-4240-8bc2-e693b8817ac7,"- Cytoskeleton
+- RER (Rough Endoplasmic Reticulum)
+- ER (Endoplasmic Reticulum)
+- Ribosomes
+- Golgi apparatus
+- Mitochondria
+- Lysosomes",00b50654-0cf7-48f2-9cf0-a01c98933c52,true
+5ceccc71-eedd-43a3-9896-70ee6d3ca28e,cf7b0df6-75f5-4c63-b899-6cc674497869,"Es gibt zwei mögliche Ansätze: 
+
+Ansatz 1: Kinematischer Ansatz
+Aus den Gleichungen
+\[
+s = \tfrac{1}{2} a t^2 + v_i t
+\quad \text{und} \quad
+v = v_i + a t
+\]
+lösen wir die zweite Gleichung nach \( t \) auf:
+\[
+t = \frac{v - v_i}{a}.
+\]
+
+Einsetzen in die Gleichung für \( s \) ergibt:
+\[
+s = \tfrac{1}{2} a \left( \frac{v - v_i}{a} \right)^2 + v_i \frac{v - v_i}{a}.
+\]
+
+Nach Vereinfachung folgt:
+\[
+2 a s = v^2 - v_i^2,
+\]
+bzw.
+\[
+s = \frac{v^2 - v_i^2}{2 a}.
+\]
+
+Ansatz 2: Energetischer Ansatz
+
+Aus der Energieerhaltung gilt:
+\[
+E_{\text{kin},i} = E_{\text{kin}} + E_{\text{pot}}
+\]
+\[
+\tfrac{1}{2} m v_i^2 = \tfrac{1}{2} m v^2 + m g h
+\]
+Da \( h = s \) und \( a = -g \), erhält man:
+\[
+2 a s = v_i^2 - v^2
+\]
+und somit wieder
+\[
+s = \frac{v^2 - v_i^2}{2a}
+\]
+
+Berechnung:
+
+Für die gegebenen Werte
+\[
+v = 0, \quad v_i = 10 \, \text{m/s}, \quad a = -9.81 \, \text{m/s}
+\]
+ergibt sich:
+\[
+s = \frac{0^2 - 10^2}{2 \cdot (-9.81)} = \frac{100}{19.62} \approx \SI{5.1}{m}
+\]
+",5ceccc71-eedd-43a3-9896-70ee6d3ca28e,true
+4c4be36b-8737-4610-8a28-18c2c9359238,dd724003-0626-4fc9-ba5c-ff6cb457c5e2,"Es gibt zwei mögliche Ansätze: 
+
+Ansatz 1: Kinematischer Ansatz
+Aus den Gleichungen
+\[
+s = \tfrac{1}{2} a t^2 + v_i t
+\quad \text{und} \quad
+v = v_i + a t
+\]
+lösen wir die zweite Gleichung nach \( t \) auf:
+\[
+t = \frac{v - v_i}{a}.
+\]
+
+Einsetzen in die Gleichung für \( s \) ergibt:
+\[
+s = \tfrac{1}{2} a \left( \frac{v - v_i}{a} \right)^2 + v_i \frac{v - v_i}{a}.
+\]
+
+Nach Vereinfachung folgt:
+\[
+2 a s = v^2 - v_i^2,
+\]
+bzw.
+\[
+s = \frac{v^2 - v_i^2}{2 a}.
+\]
+
+Ansatz 2: Energetischer Ansatz
+
+Aus der Energieerhaltung gilt:
+\[
+E_{\text{kin},i} = E_{\text{kin}} + E_{\text{pot}}
+\]
+\[
+\tfrac{1}{2} m v_i^2 = \tfrac{1}{2} m v^2 + m g h
+\]
+Da \( h = s \) und \( a = -g \), erhält man:
+\[
+2 a s = v_i^2 - v^2
+\]
+und somit wieder
+\[
+s = \frac{v^2 - v_i^2}{2a}
+\]
+
+Berechnung:
+
+Für die gegebenen Werte
+\[
+v = 0, \quad v_i = 10 \, \text{m/s}, \quad a = -9.81 \, \text{m/s}
+\]
+ergibt sich:
+\[
+s = \frac{0^2 - 10^2}{2 \cdot (-9.81)} = \frac{100}{19.62} \approx 5.1 \, m
+\]
+",4c4be36b-8737-4610-8a28-18c2c9359238,true
+1b636db9-2f25-4e05-8d78-2d8059d1a7ab,36183ae9-b4bf-4c59-8d94-d7cbc1da9776,"- Deliver necessary components (proteins, organelles) to support neurotransmission.
+- Clear aged or defective synaptic components.
+- Maintain presynaptic homeostasis (balance).
+- Enable long-distance transport in neurons.",1b636db9-2f25-4e05-8d78-2d8059d1a7ab,true
+1804eb34-085f-42e5-8a7e-ef43903abfb5,a6cf11f0-c5b8-4839-bae7-b8820bb8914c,"- Kinesin
+- Dynein",1804eb34-085f-42e5-8a7e-ef43903abfb5,true
+858d32bf-2396-461a-8379-895975620e8c,644facad-9faf-496c-ac4d-2afac6b073c0,"- Kinesin transports cargo toward the plus ends of microtubules.
+- Moves organelles, proteins, and other materials from the cell body to the axon terminal.
+- Essential for presynaptic maintenance by delivering synaptic vesicles and mitochondria.
+- Facilitates the anterograde transport necessary for neuronal function.",858d32bf-2396-461a-8379-895975620e8c,true
+d52cb64a-a3b6-4319-a061-e8ef0bd7bbca,40474966-806f-48cc-b7fa-78fa58f0308f,Tau (MAPT).,d52cb64a-a3b6-4319-a061-e8ef0bd7bbca,true
+8f85e771-1cc6-4da7-b3bb-4bd9eb91d89f,ba44b543-70ed-42e7-84de-ee32ff6b4b87,Cytoplasmic dynein,8f85e771-1cc6-4da7-b3bb-4bd9eb91d89f,true
+8f85e771-1cc6-4da7-b3bb-4bd9eb91d89f,f5015175-8224-4fe2-b95f-1558cbedd836,Kinesin-1,8f85e771-1cc6-4da7-b3bb-4bd9eb91d89f,false
+8f85e771-1cc6-4da7-b3bb-4bd9eb91d89f,dd2031d4-4bed-45cd-8792-b0c0eb7ccddf,Myosin II,8f85e771-1cc6-4da7-b3bb-4bd9eb91d89f,false
+8f85e771-1cc6-4da7-b3bb-4bd9eb91d89f,10db4fe1-ae22-4c22-91a1-ada53bd56c82,Dynactin,8f85e771-1cc6-4da7-b3bb-4bd9eb91d89f,false
+bbbe285a-7ac0-4c2f-a76f-eaa970381ea9,199e6877-5613-4ea1-9731-becaef3f4661,13,bbbe285a-7ac0-4c2f-a76f-eaa970381ea9,true
+bbbe285a-7ac0-4c2f-a76f-eaa970381ea9,cbc68d20-e6bb-412b-b5e5-50b78aa8686d,11,bbbe285a-7ac0-4c2f-a76f-eaa970381ea9,false
+bbbe285a-7ac0-4c2f-a76f-eaa970381ea9,3c75ee54-952f-4862-a78e-ebd1fd4fad45,14,bbbe285a-7ac0-4c2f-a76f-eaa970381ea9,false
+bbbe285a-7ac0-4c2f-a76f-eaa970381ea9,f7c6a83b-f888-428f-9fdf-84fa616e9532,15,bbbe285a-7ac0-4c2f-a76f-eaa970381ea9,false
+bbbe285a-7ac0-4c2f-a76f-eaa970381ea9,727836d4-5fc4-42c5-aaf1-e51949c99343,12,bbbe285a-7ac0-4c2f-a76f-eaa970381ea9,false
+1611a566-f422-4ada-b1db-8fccd5857ec1,c03c7902-58a7-4dd4-b312-7727ac799f9e,"Dendritic microtubules have mixed polarity, with both plus and minus ends directed towards the cell body.",1611a566-f422-4ada-b1db-8fccd5857ec1,true
+1611a566-f422-4ada-b1db-8fccd5857ec1,f4aeeb77-c25a-482e-a38b-7a315dda154b,Dendritic microtubules are uniformly polarized with plus ends directed distally.,1611a566-f422-4ada-b1db-8fccd5857ec1,false
+1611a566-f422-4ada-b1db-8fccd5857ec1,1e90c824-c744-472a-96fe-4b67b0ccae9d,"Dendritic microtubules are organized in a single, linear orientation.",1611a566-f422-4ada-b1db-8fccd5857ec1,false
+1611a566-f422-4ada-b1db-8fccd5857ec1,38a5bdd5-877f-49aa-86ca-124bfaa460c5,Dendritic microtubules have uniform polarity with minus ends directed distally.,1611a566-f422-4ada-b1db-8fccd5857ec1,false
+0e4e60a4-4ab4-4659-a200-db15f03e0cc3,42f3a61d-98b4-46c3-9258-c09e59b30665,Tau,0e4e60a4-4ab4-4659-a200-db15f03e0cc3,true
+0e4e60a4-4ab4-4659-a200-db15f03e0cc3,18e5c62f-98dd-4125-92de-fd979282809d,MAP1B,0e4e60a4-4ab4-4659-a200-db15f03e0cc3,false
+0e4e60a4-4ab4-4659-a200-db15f03e0cc3,c80b97ca-4dfd-45e4-b3d1-7b6ab01ad7b0,MAP6,0e4e60a4-4ab4-4659-a200-db15f03e0cc3,false
+0e4e60a4-4ab4-4659-a200-db15f03e0cc3,97980165-1e1e-4f9a-a416-199dc83565fd,MAP2,0e4e60a4-4ab4-4659-a200-db15f03e0cc3,false
+0e4e60a4-4ab4-4659-a200-db15f03e0cc3,dbb30ecc-4ce5-4c30-bb9e-42fb4e1dc0b7,Drebrin,0e4e60a4-4ab4-4659-a200-db15f03e0cc3,false
+3e4a87e1-529e-434e-9b07-08ad4b5654bb,8ef3e36e-0180-4f06-9847-f1d34b421088,Kinesin,3e4a87e1-529e-434e-9b07-08ad4b5654bb,true
+3e4a87e1-529e-434e-9b07-08ad4b5654bb,76273614-1415-4b62-94fe-2bf4179e10ce,Dynein,3e4a87e1-529e-434e-9b07-08ad4b5654bb,false
+3e4a87e1-529e-434e-9b07-08ad4b5654bb,61837bed-bc56-4a31-85cc-bf4077f0007e,Myosin,3e4a87e1-529e-434e-9b07-08ad4b5654bb,false
+3e4a87e1-529e-434e-9b07-08ad4b5654bb,11300c7a-d16c-4e87-8469-04bb29783a53,Actin,3e4a87e1-529e-434e-9b07-08ad4b5654bb,false
+3e4a87e1-529e-434e-9b07-08ad4b5654bb,2cb779c4-97d1-49cd-b471-992fe362c82b,Tubulin,3e4a87e1-529e-434e-9b07-08ad4b5654bb,false
+7d39342c-98e5-4718-94de-f3e7dde2bbd1,c582abbf-b60c-4807-9a88-cfa00e1c4f1c,Complexity of microtubule dynamics and stabilization,7d39342c-98e5-4718-94de-f3e7dde2bbd1,true
+7d39342c-98e5-4718-94de-f3e7dde2bbd1,62159c2c-eace-4786-95fe-137440677d14,Uniform microtubule polarity in axons,7d39342c-98e5-4718-94de-f3e7dde2bbd1,false
+7d39342c-98e5-4718-94de-f3e7dde2bbd1,3a753fc2-ab7f-4872-b785-d53725f7b3f5,Single motor protein involvement in transport,7d39342c-98e5-4718-94de-f3e7dde2bbd1,false
+7d39342c-98e5-4718-94de-f3e7dde2bbd1,d993b9ec-8f1d-42a1-8c78-68a739418631,Lack of motor protein diversity,7d39342c-98e5-4718-94de-f3e7dde2bbd1,false
+8e5e1f04-e14d-4cd0-bac0-c7cce437e9ec,752b57a7-fcb6-46db-8569-675cb513ab31,"Es gibt zwei mögliche Ansätze: 
+
+Ansatz 1: Kinematischer Ansatz
+Aus den Gleichungen
+\[
+s = \tfrac{1}{2} a t^2 + v_i t
+\quad \text{und} \quad
+v = v_i + a t
+\]
+lösen wir die zweite Gleichung nach \( t \) auf:
+\[
+t = \frac{v - v_i}{a}.
+\]
+
+Einsetzen in die Gleichung für \( s \) ergibt:
+\[
+s = \tfrac{1}{2} a \left( \frac{v - v_i}{a} \right)^2 + v_i \frac{v - v_i}{a}.
+\]
+
+Nach Vereinfachung folgt:
+\[
+2 a s = v^2 - v_i^2,
+\]
+bzw.
+\[
+s = \frac{v^2 - v_i^2}{2 a}.
+\]
+
+Ansatz 2: Energetischer Ansatz
+
+Aus der Energieerhaltung gilt:
+\[
+E_{\text{kin},i} = E_{\text{kin}} + E_{\text{pot}}
+\]
+\[
+\tfrac{1}{2} m v_i^2 = \tfrac{1}{2} m v^2 + m g h
+\]
+Da \( h = s \) und \( a = -g \), erhält man:
+\[
+2 a s = v_i^2 - v^2
+\]
+und somit wieder
+\[
+s = \frac{v^2 - v_i^2}{2a}
+\]
+
+Berechnung:
+
+Für die gegebenen Werte
+\[
+v = 0, \quad v_i = 10 \, \text{m/s}, \quad a = -9.81 \, \text{m/s^2}
+\]
+ergibt sich:
+\[
+s = \frac{0^2 - 10^2}{2 \cdot (-9.81)} = \frac{100}{19.62} \approx 5.1 \, m
+\]
+",8e5e1f04-e14d-4cd0-bac0-c7cce437e9ec,true
+d5254b99-e054-4921-a10c-50eef1cf8137,7bca97dd-90fe-435d-b050-5aebfbe8012b,"The γ-tubulin ring complex (γTuRC) is involved in the nucleation of microtubules, helping to establish and maintain their polarity in neurons.",d5254b99-e054-4921-a10c-50eef1cf8137,true
+d5254b99-e054-4921-a10c-50eef1cf8137,2181d0e1-c51b-4bdb-9623-4391705dde45,The γ-tubulin ring complex (γTuRC) is responsible for the degradation of microtubules in neurons.,d5254b99-e054-4921-a10c-50eef1cf8137,false
+d5254b99-e054-4921-a10c-50eef1cf8137,90d36a84-b23b-48b8-a2bd-be55b98da938,The γ-tubulin ring complex (γTuRC) facilitates the transport of neurotransmitters along the axon.,d5254b99-e054-4921-a10c-50eef1cf8137,false
+d5254b99-e054-4921-a10c-50eef1cf8137,8610b697-a0b8-4edf-9258-cc2cec40f45b,The γ-tubulin ring complex (γTuRC) is involved in the stabilization of synaptic vesicles in neurons.,d5254b99-e054-4921-a10c-50eef1cf8137,false
+3ff36da7-80d5-4073-9a9c-5dcc55ad736c,430f8034-6573-4e4d-9cb6-acc5608b6b58,Axonal transport,3ff36da7-80d5-4073-9a9c-5dcc55ad736c,true
+3ff36da7-80d5-4073-9a9c-5dcc55ad736c,70fd8bcf-2c15-403b-bdd7-7f2f6257202c,Protein synthesis,3ff36da7-80d5-4073-9a9c-5dcc55ad736c,false
+3ff36da7-80d5-4073-9a9c-5dcc55ad736c,d7508952-9c62-45fb-b876-5ad8636279ec,Synaptic pruning,3ff36da7-80d5-4073-9a9c-5dcc55ad736c,false
+3ff36da7-80d5-4073-9a9c-5dcc55ad736c,c7e976c9-13eb-431c-aea1-36b9fe298a5d,Neurotransmitter diffusion,3ff36da7-80d5-4073-9a9c-5dcc55ad736c,false
+4ed0a8fb-9350-4372-a348-e0271358a674,90f78ddf-71a8-4c38-8675-1b8256921e58,"Es gibt zwei mögliche Ansätze: 
+
+Ansatz 1: Kinematischer Ansatz
+Aus den Gleichungen
+\[
+s = \tfrac{1}{2} a t^2 + v_i t
+\quad \text{und} \quad
+v = v_i + a t
+\]
+lösen wir die zweite Gleichung nach \( t \) auf:
+\[
+t = \frac{v - v_i}{a}.
+\]
+
+Einsetzen in die Gleichung für \( s \) ergibt:
+\[
+s = \tfrac{1}{2} a \left( \frac{v - v_i}{a} \right)^2 + v_i \frac{v - v_i}{a}.
+\]
+
+Nach Vereinfachung folgt:
+\[
+2 a s = v^2 - v_i^2,
+\]
+bzw.
+\[
+s = \frac{v^2 - v_i^2}{2 a}.
+\]
+
+Ansatz 2: Energetischer Ansatz
+
+Aus der Energieerhaltung gilt:
+\[
+E_{\text{kin},i} = E_{\text{kin}} + E_{\text{pot}}
+\]
+\[
+\tfrac{1}{2} m v_i^2 = \tfrac{1}{2} m v^2 + m g h
+\]
+Da \( h = s \) und \( a = -g \), erhält man:
+\[
+2 a s = v_i^2 - v^2
+\]
+und somit wieder
+\[
+s = \frac{v^2 - v_i^2}{2a}
+\]
+
+Berechnung:
+
+Für die gegebenen Werte
+\[
+v = 0, \quad v_i = 10 \, \text{m/s}, \quad a = -9.81 \, \text{m/s}^2
+\]
+ergibt sich:
+\[
+s = \frac{0^2 - 10^2}{2 \cdot (-9.81)} = \frac{100}{19.62} \approx 5.1 \, m
+\]
+",4ed0a8fb-9350-4372-a348-e0271358a674,true
+a2e0ac7f-8203-49e6-b2ba-1360c131b36b,cedf04ef-d8b0-4dbf-9f6f-aa6e62284fd7,"Es gibt zwei mögliche Ansätze: 
+
+\subsection{Ansatz 1: Kinematischer Ansatz}
+Aus den Gleichungen
+\[
+s = \tfrac{1}{2} a t^2 + v_i t
+\quad \text{und} \quad
+v = v_i + a t
+\]
+lösen wir die zweite Gleichung nach \( t \) auf:
+\[
+t = \frac{v - v_i}{a}.
+\]
+
+Einsetzen in die Gleichung für \( s \) ergibt:
+\[
+s = \tfrac{1}{2} a \left( \frac{v - v_i}{a} \right)^2 + v_i \frac{v - v_i}{a}.
+\]
+
+Nach Vereinfachung folgt:
+\[
+2 a s = v^2 - v_i^2,
+\]
+bzw.
+\[
+s = \frac{v^2 - v_i^2}{2 a}.
+\]
+
+Ansatz 2: Energetischer Ansatz
+
+Aus der Energieerhaltung gilt:
+\[
+E_{\text{kin},i} = E_{\text{kin}} + E_{\text{pot}}
+\]
+\[
+\tfrac{1}{2} m v_i^2 = \tfrac{1}{2} m v^2 + m g h
+\]
+Da \( h = s \) und \( a = -g \), erhält man:
+\[
+2 a s = v_i^2 - v^2
+\]
+und somit wieder
+\[
+s = \frac{v^2 - v_i^2}{2a}
+\]
+
+Berechnung:
+
+Für die gegebenen Werte
+\[
+v = 0, \quad v_i = 10 \, \text{m/s}, \quad a = -9.81 \, \text{m/s}^2
+\]
+ergibt sich:
+\[
+s = \frac{0^2 - 10^2}{2 \cdot (-9.81)} = \frac{100}{19.62} \approx 5.1 \, m
+\]
+",a2e0ac7f-8203-49e6-b2ba-1360c131b36b,true
+7fadec45-eb7e-4ccb-b26a-28c47b571a75,696b81d9-ea5f-443e-bbf9-758987727de0,"- Provides mechanical support to axons, preventing collapse under stress.
+- Actin/spectrin rings create a periodic scaffold, stabilizing the axonal membrane.
+- Allows flexibility while maintaining structural integrity.
+- May influence axonal conduction by organizing ion channels (not confirmed).",7fadec45-eb7e-4ccb-b26a-28c47b571a75,true
+6fbc09eb-7511-4e74-8536-ccde2cc20464,890cee93-0649-4696-8df0-235e44ee35a7,"- Microtubules serve as tracks for motor proteins like kinesin and dynein.
+- Kinesin moves cargo towards the plus end; dynein moves cargo towards the minus end.
+- Microtubules are composed of α- and β-tubulin heterodimers.
+- Interactions with motor proteins enable long-distance intracellular transport in neurons.",6fbc09eb-7511-4e74-8536-ccde2cc20464,true
+3e36c6ed-089a-4f08-82d9-ea95e2257ef6,f636e1ae-75a2-416f-a7d3-b10967dcb875,Microtubules serve as tracks for kinesin and dynein to facilitate long-distance transport in neurons.,3e36c6ed-089a-4f08-82d9-ea95e2257ef6,true
+3e36c6ed-089a-4f08-82d9-ea95e2257ef6,f8cf58c8-dc95-447d-ae29-f07362a97858,Microtubules are only composed of α-tubulin dimers in neurons.,3e36c6ed-089a-4f08-82d9-ea95e2257ef6,false
+3e36c6ed-089a-4f08-82d9-ea95e2257ef6,f18f23eb-4f46-4045-8f8a-1684a188aa1f,Kinesin motors transport cargo toward the minus end of microtubules.,3e36c6ed-089a-4f08-82d9-ea95e2257ef6,false
+3e36c6ed-089a-4f08-82d9-ea95e2257ef6,4c5e7e79-b36f-49ad-915a-c5cc9d3ec5de,Dynein motors are specific for anterograde transport in neurons.,3e36c6ed-089a-4f08-82d9-ea95e2257ef6,false
+910828c9-7f97-404e-a240-bbeea4503f3f,a5fca82b-565f-48be-be86-60c887dd7cee,To provide mechanical support and maintain axonal stability,910828c9-7f97-404e-a240-bbeea4503f3f,true
+910828c9-7f97-404e-a240-bbeea4503f3f,33466e60-acd4-4120-9834-d4ce7f32c444,To facilitate rapid axonal transport,910828c9-7f97-404e-a240-bbeea4503f3f,false
+910828c9-7f97-404e-a240-bbeea4503f3f,fef9d487-504a-41cc-b7ec-4eac33539041,To enhance synaptic transmission,910828c9-7f97-404e-a240-bbeea4503f3f,false
+910828c9-7f97-404e-a240-bbeea4503f3f,21085d53-7a53-4b90-a5fb-4b917bd6eb16,To regulate ion channel distribution,910828c9-7f97-404e-a240-bbeea4503f3f,false
+7b0a0aba-fa61-4cb9-838c-85cbed64e874,ca4da5f2-960a-4ecc-b1d8-f949b9a61a14,Phosphorylation can regulate the speed and direction of neuronal transport by altering motor protein activity.,7b0a0aba-fa61-4cb9-838c-85cbed64e874,true
+7b0a0aba-fa61-4cb9-838c-85cbed64e874,94622195-7fa8-4273-9bc7-de92262c0177,"Phosphorylation can affect the interaction of motor proteins with microtubules, influencing transport efficiency.",7b0a0aba-fa61-4cb9-838c-85cbed64e874,true
+7b0a0aba-fa61-4cb9-838c-85cbed64e874,6e70d7c4-6139-47c9-8c12-322126e38afe,"Phosphorylation only affects the structural integrity of microtubules, not motor proteins.",7b0a0aba-fa61-4cb9-838c-85cbed64e874,false
+7b0a0aba-fa61-4cb9-838c-85cbed64e874,f65c73fe-5b5c-43fb-a105-40398d205ecd,"Phosphorylation enhances the binding of all motor proteins to cargo, regardless of their type.",7b0a0aba-fa61-4cb9-838c-85cbed64e874,false
+7b0a0aba-fa61-4cb9-838c-85cbed64e874,04229325-f3ab-459d-8c3a-f0995badaaa9,"Phosphorylation has no effect on neuronal transport, as it only impacts cell signaling pathways.",7b0a0aba-fa61-4cb9-838c-85cbed64e874,false
+1e19b84e-5173-4d50-aa2c-a7971b1bed64,da12c86f-c078-44ab-b0b8-dd24b3234761,Microtubule-associated proteins (MAPs),1e19b84e-5173-4d50-aa2c-a7971b1bed64,true
+1e19b84e-5173-4d50-aa2c-a7971b1bed64,0ddce694-5378-4483-a151-8d146c02e1c7,Actin filament structure,1e19b84e-5173-4d50-aa2c-a7971b1bed64,false
+1e19b84e-5173-4d50-aa2c-a7971b1bed64,8687029d-06c9-43fc-826c-bb077d9234e7,Spectrin ring formation,1e19b84e-5173-4d50-aa2c-a7971b1bed64,false
+1e19b84e-5173-4d50-aa2c-a7971b1bed64,c3dba90e-637e-439b-a972-5cd7db63af93,GTP-tubulin incorporation,1e19b84e-5173-4d50-aa2c-a7971b1bed64,false
+1e19b84e-5173-4d50-aa2c-a7971b1bed64,c41afbd9-2373-4bbc-ba8b-cad3bb7e508a,Ankyrin G binding sites,1e19b84e-5173-4d50-aa2c-a7971b1bed64,false
+af14dcc8-2cb3-4980-bcd9-63adc5eb71b1,2f7b997b-da9c-4d1d-91ef-68f64f63417a,"Es gibt zwei mögliche Ansätze: 
+
+Ansatz 1: Kinematischer Ansatz
+Aus den Gleichungen
+\[
+s = \tfrac{1}{2} a t^2 + v_i t
+\quad \text{und} \quad
+v = v_i + a t
+\]
+lösen wir die zweite Gleichung nach \( t \) auf:
+\[
+t = \frac{v - v_i}{a}.
+\]
+
+Einsetzen in die Gleichung für \( s \) ergibt:
+\[
+s = \tfrac{1}{2} a \left( \frac{v - v_i}{a} \right)^2 + v_i \frac{v - v_i}{a}.
+\]
+
+Nach Vereinfachung folgt:
+\[
+2 a s = v^2 - v_i^2,
+\]
+bzw.
+\[
+s = \frac{v^2 - v_i^2}{2 a}.
+\]
+
+Ansatz 2: Energetischer Ansatz
+
+Aus der Energieerhaltung gilt:
+\[
+E_{\text{kin},i} = E_{\text{kin}} + E_{\text{pot}}
+\]
+\[
+\tfrac{1}{2} m v_i^2 = \tfrac{1}{2} m v^2 + m g h
+\]
+Da \( h = s \) und \( a = -g \), erhält man:
+\[
+2 a s = v_i^2 - v^2
+\]
+und somit wieder
+\[
+s = \frac{v^2 - v_i^2}{2a}
+\]
+
+Berechnung:
+
+Für die gegebenen Werte
+\[
+v = 0, \quad v_i = 10 \, \text{m/s}, \quad a = -9.81 \, \text{m/s}^2
+\]
+ergibt sich:
+\[
+s = \frac{0^2 - 10^2}{2 \cdot (-9.81)} = \frac{100}{19.62} \approx 5.1 \, m
+\]
+",af14dcc8-2cb3-4980-bcd9-63adc5eb71b1,true
+4eb22b16-db8d-4654-a6e4-0e69389e1dd2,cbf2ff38-2f21-4609-87e5-bb1970651792,Microtubules are composed of α- and β-tubulin heterodimers forming protofilaments,4eb22b16-db8d-4654-a6e4-0e69389e1dd2,true
+4eb22b16-db8d-4654-a6e4-0e69389e1dd2,deddb5d9-4d0b-41e1-a5a6-7d6b421efece,Microtubules are composed of actin and spectrin rings,4eb22b16-db8d-4654-a6e4-0e69389e1dd2,false
+4eb22b16-db8d-4654-a6e4-0e69389e1dd2,de96cbbf-bb97-4da9-8df7-cb76ee93a903,Microtubules are composed of kinesin and dynein molecules,4eb22b16-db8d-4654-a6e4-0e69389e1dd2,false
+4eb22b16-db8d-4654-a6e4-0e69389e1dd2,57eb7073-824a-4972-a8b1-3fc95d1bacc0,Microtubules are composed of ankyrin and spectrin filaments,4eb22b16-db8d-4654-a6e4-0e69389e1dd2,false
+32bce61f-632c-414d-aa55-42126c57696b,a44496e4-2590-48bc-a730-6f65f4977078,"- AIS plays a key role in maintaining axonal polarity by organizing cytoskeletal elements and anchoring ion channels.
+- It acts as a selective filter for cargo, ensuring proper sorting and transport direction.
+- AIS stabilizes microtubules, influencing neuronal transport and maintaining distinct axonal and somatic compartments.
+- It recruits proteins like ankyrin G and spectrins to organize the cytoskeleton.",32bce61f-632c-414d-aa55-42126c57696b,true
+d8736d69-f471-4b6e-a322-8060090255b6,156ab129-d54b-462f-a099-bca405f46c76,"- Defects in axonal transport disrupt the delivery of essential materials (e.g., proteins, organelles) to neurons, leading to dysfunction.
+- Microtubule or motor protein (kinesin, dynein) defects can cause neurodegenerative diseases like ALS, Alzheimer's, and Huntington's.
+- Impaired transport leads to accumulation of damaged proteins and organelles, contributing to neuronal death.",d8736d69-f471-4b6e-a322-8060090255b6,true
+8ded5608-09f6-4e39-9ac5-ff1cfad42530,e66f482c-3583-4dc8-8775-66203b058143,Kinesin transports cargos toward the axon terminal (plus-end directed).,8ded5608-09f6-4e39-9ac5-ff1cfad42530,true
+8ded5608-09f6-4e39-9ac5-ff1cfad42530,bd28abbb-bc56-4996-8921-00d02334c34e,Dynein transports cargos toward the cell body (minus-end directed).,8ded5608-09f6-4e39-9ac5-ff1cfad42530,true
+8ded5608-09f6-4e39-9ac5-ff1cfad42530,0b2657bb-c583-4348-b463-cb357dc7d287,Kinesin transports cargos toward the cell body (minus-end directed).,8ded5608-09f6-4e39-9ac5-ff1cfad42530,false
+8ded5608-09f6-4e39-9ac5-ff1cfad42530,699ee1ea-eaa7-4e90-a503-c30964bab811,Dynein transports cargos toward the axon terminal (plus-end directed).,8ded5608-09f6-4e39-9ac5-ff1cfad42530,false
+8ded5608-09f6-4e39-9ac5-ff1cfad42530,2b81a95d-920b-4992-9e04-e6abd95afcb2,Kinesin and dynein both transport cargos exclusively toward the axon terminal.,8ded5608-09f6-4e39-9ac5-ff1cfad42530,false
+8ded5608-09f6-4e39-9ac5-ff1cfad42530,c048aebb-0ed6-4900-8b6f-f3bab327d1ac,Dynein and kinesin are involved in short-range transport within the synapse.,8ded5608-09f6-4e39-9ac5-ff1cfad42530,false
+8253e0b8-003e-4516-af11-55d442b0bc39,6fe128f1-5b46-4038-90d8-c49796bac7e9,"MAPs regulate motor protein activity by stabilizing microtubule tracks, affecting the speed and direction of transport.",8253e0b8-003e-4516-af11-55d442b0bc39,true
+8253e0b8-003e-4516-af11-55d442b0bc39,3f19bbcd-019f-4b5d-9d92-39d3294381ff,MAPs influence transport by selectively recruiting specific motor proteins to microtubules.,8253e0b8-003e-4516-af11-55d442b0bc39,true
+8253e0b8-003e-4516-af11-55d442b0bc39,191b44d9-d5f0-4c5b-8fa5-48b6368beaff,"MAPs can alter the phosphorylation state of motor proteins, thereby modulating their activity along microtubules.",8253e0b8-003e-4516-af11-55d442b0bc39,true
+8253e0b8-003e-4516-af11-55d442b0bc39,4c2ece3c-011e-45fc-9a45-5c76454d3210,MAPs primarily influence transport by changing the polarity of the microtubules.,8253e0b8-003e-4516-af11-55d442b0bc39,false
+8253e0b8-003e-4516-af11-55d442b0bc39,6ee27fed-b4ab-4010-9d8f-8f5befa07ff4,"MAPs only affect the structural integrity of microtubules, not transport dynamics.",8253e0b8-003e-4516-af11-55d442b0bc39,false
+1335b1ce-fabe-4fb8-b718-23d0901ffcc7,0f5415aa-66e4-4967-90ee-7d1bde96146d,"Dynein is responsible for retrograde transport, moving cargo toward the soma.",1335b1ce-fabe-4fb8-b718-23d0901ffcc7,true
+1335b1ce-fabe-4fb8-b718-23d0901ffcc7,eabda92e-de72-4755-8d2d-b15de4c3cd6c,Dynein primarily moves along actin filaments for long-distance transport.,1335b1ce-fabe-4fb8-b718-23d0901ffcc7,false
+1335b1ce-fabe-4fb8-b718-23d0901ffcc7,ae71a92e-490b-474d-a1a1-c9aeff9d3596,"Dynein is responsible for anterograde transport, moving cargo away from the soma.",1335b1ce-fabe-4fb8-b718-23d0901ffcc7,false
+1335b1ce-fabe-4fb8-b718-23d0901ffcc7,c460787d-7be8-4e2d-a0bc-7febeb04f03a,Dynein functions independently of any adaptors for cargo specificity.,1335b1ce-fabe-4fb8-b718-23d0901ffcc7,false
+630f1361-1f3d-45c1-b69c-c8269d2487d6,e4f31588-afc1-4aa6-bff4-3a7814ceaa6a,"- Facilitate lipid exchange (transfer) and calcium ion ($\text{Ca}^{2+}$) homeostasis.
+- Coordinate mitochondrial fission/fusion and biogenesis.
+- Enable metabolic interactions (e.g., cholesterol, iron transfer).
+- Support reactive oxygen species (ROS) regulation.
+- Essential for axonal homeostasis and synaptic function.",630f1361-1f3d-45c1-b69c-c8269d2487d6,true
+a9bdbe50-342e-4e70-adff-11b50e32ce42,e3608cf0-905f-4107-b079-34dfbe51fc63,"- Peroxisomes contain catalase, which decomposes hydrogen peroxide (H₂O₂) into water and oxygen.
+- They perform β-oxidation, generating ROS, but also neutralize them.
+- Peroxisomes work with mitochondria to maintain ROS balance.
+- They detoxify ROS from cytoplasm, preventing oxidative stress in neurons.",a9bdbe50-342e-4e70-adff-11b50e32ce42,true
+fe673e10-9e61-4822-ba28-228049dd3e66,04155644-e5b1-4297-95b2-c0573e2c9ad9,Peroxisome,fe673e10-9e61-4822-ba28-228049dd3e66,true
+fe673e10-9e61-4822-ba28-228049dd3e66,619a4348-f503-419f-b759-cd2a5c8d5a21,Mitochondrion,fe673e10-9e61-4822-ba28-228049dd3e66,false
+fe673e10-9e61-4822-ba28-228049dd3e66,7e76a9de-a18c-4b67-b0d3-e16cbb1cde45,Lysosome,fe673e10-9e61-4822-ba28-228049dd3e66,false
+fe673e10-9e61-4822-ba28-228049dd3e66,85a1ca6b-9268-497c-b4fb-b05bcbba68a8,Endoplasmic reticulum,fe673e10-9e61-4822-ba28-228049dd3e66,false
+08d67759-d1e8-4e92-b25f-e86c15fb4d2e,b82591d0-48b2-4222-9e54-2cf55d4241a9,Endoplasmic reticulum,08d67759-d1e8-4e92-b25f-e86c15fb4d2e,true
+08d67759-d1e8-4e92-b25f-e86c15fb4d2e,3f42bd85-0130-4a35-b8a9-fc5157b5d7a5,Mitochondria,08d67759-d1e8-4e92-b25f-e86c15fb4d2e,false
+08d67759-d1e8-4e92-b25f-e86c15fb4d2e,e2dd2233-b440-4b01-80ab-652511963124,Lysosomes,08d67759-d1e8-4e92-b25f-e86c15fb4d2e,false
+08d67759-d1e8-4e92-b25f-e86c15fb4d2e,512956ff-1877-4f2b-90bd-fd2c991c686e,Golgi apparatus,08d67759-d1e8-4e92-b25f-e86c15fb4d2e,false
+08d67759-d1e8-4e92-b25f-e86c15fb4d2e,6b9d5fba-6a95-4029-98c3-3fd9cbb901a0,Nucleus,08d67759-d1e8-4e92-b25f-e86c15fb4d2e,false
+d2652613-e6b4-4653-8a08-018cbb4f2210,300246f5-dfe8-40bf-87b9-f80d591df18f,Mitochondrial dynamics,d2652613-e6b4-4653-8a08-018cbb4f2210,true
+d2652613-e6b4-4653-8a08-018cbb4f2210,2437f7ff-bd36-4b4f-9f37-a784dd9a27a7,Autophagy,d2652613-e6b4-4653-8a08-018cbb4f2210,false
+d2652613-e6b4-4653-8a08-018cbb4f2210,87c397a6-d94b-4575-9869-007b74f3a465,Exocytosis,d2652613-e6b4-4653-8a08-018cbb4f2210,false
+d2652613-e6b4-4653-8a08-018cbb4f2210,38d98331-fd4e-471b-95cd-7b60db6e87aa,Endocytosis,d2652613-e6b4-4653-8a08-018cbb4f2210,false
+e6454efc-7159-4c1c-9202-9ad78165f4bc,244cae52-03b8-4f06-b6b6-e11535453ec3,Endoplasmic reticulum,e6454efc-7159-4c1c-9202-9ad78165f4bc,true
+e6454efc-7159-4c1c-9202-9ad78165f4bc,f47846b4-f4e9-4427-b7cc-d7a7ba67e2f4,Golgi apparatus,e6454efc-7159-4c1c-9202-9ad78165f4bc,false
+e6454efc-7159-4c1c-9202-9ad78165f4bc,f1faf4af-bfba-4ab9-af37-c01054ca862b,Mitochondria,e6454efc-7159-4c1c-9202-9ad78165f4bc,false
+e6454efc-7159-4c1c-9202-9ad78165f4bc,65977dbc-8483-4348-a701-b4784c722b16,Lysosome,e6454efc-7159-4c1c-9202-9ad78165f4bc,false
+0b36f6e2-d3a0-4738-8b7c-0682568ce3c7,71cbc9fd-ad8a-4afc-a626-9dc54857e592,Rough endoplasmic reticulum,0b36f6e2-d3a0-4738-8b7c-0682568ce3c7,true
+0b36f6e2-d3a0-4738-8b7c-0682568ce3c7,161e61c4-22a4-4042-8a71-44a36ef90078,Smooth endoplasmic reticulum,0b36f6e2-d3a0-4738-8b7c-0682568ce3c7,false
+0b36f6e2-d3a0-4738-8b7c-0682568ce3c7,ce7c74b2-b34b-4440-b204-5212c23ef139,Golgi apparatus,0b36f6e2-d3a0-4738-8b7c-0682568ce3c7,false
+0b36f6e2-d3a0-4738-8b7c-0682568ce3c7,830c3cbb-df25-4f3e-9993-aa1c9757f3b3,Mitochondria,0b36f6e2-d3a0-4738-8b7c-0682568ce3c7,false
+8f8418a6-c1fa-490e-9653-17bc7b46bca9,c1892555-5add-4413-a492-b9edb64349b4,Smooth endoplasmic reticulum,8f8418a6-c1fa-490e-9653-17bc7b46bca9,true
+8f8418a6-c1fa-490e-9653-17bc7b46bca9,a374fb51-83c3-4f0f-a494-e89fb7311c61,Rough endoplasmic reticulum,8f8418a6-c1fa-490e-9653-17bc7b46bca9,false
+8f8418a6-c1fa-490e-9653-17bc7b46bca9,1773f866-aa2e-45d8-be1a-6a1540fad4b4,Mitochondria,8f8418a6-c1fa-490e-9653-17bc7b46bca9,false
+8f8418a6-c1fa-490e-9653-17bc7b46bca9,0696a2a9-ac6b-409d-b7a6-63e5785134a5,Golgi apparatus,8f8418a6-c1fa-490e-9653-17bc7b46bca9,false
+34e55e00-29a3-4b21-92eb-2cfa006901fc,70f3a689-bae6-4739-88f8-0b58bb9caca9,Endoplasmic reticulum,34e55e00-29a3-4b21-92eb-2cfa006901fc,true
+34e55e00-29a3-4b21-92eb-2cfa006901fc,a7625810-17ea-4715-a9dc-c753b1f21db5,Mitochondria,34e55e00-29a3-4b21-92eb-2cfa006901fc,false
+34e55e00-29a3-4b21-92eb-2cfa006901fc,ebdd6de6-3927-46c5-bee0-94828752b67e,Lysosomes,34e55e00-29a3-4b21-92eb-2cfa006901fc,false
+34e55e00-29a3-4b21-92eb-2cfa006901fc,3562fe45-1638-410b-9454-48ba343c7b24,Golgi apparatus,34e55e00-29a3-4b21-92eb-2cfa006901fc,false
+34e55e00-29a3-4b21-92eb-2cfa006901fc,d8c54dd8-d566-4da7-b493-34ed1209e5b8,Nucleus,34e55e00-29a3-4b21-92eb-2cfa006901fc,false
+c975482f-cd51-47e1-9095-620c76cdd890,a2b5a776-7f74-4180-9bc3-17b084671c50,"- The ER serves as a calcium (Ca²⁺) reservoir.
+- It releases Ca²⁺ into the cytoplasm through channels like ryanodine receptors and IP₃ receptors.
+- ER regulates intracellular Ca²⁺ levels, crucial for neuronal signaling.
+- Membrane contact sites between ER and other organelles facilitate Ca²⁺ exchange.
+- Maintains calcium homeostasis (balance) in neurons.",c975482f-cd51-47e1-9095-620c76cdd890,true
+3f6a20e0-6a48-4549-aea0-047fbbbd5145,72bfc640-5016-4c2f-90e8-1043df55b062,"- Mitochondria provide energy (ATP) for axonal transport via oxidative phosphorylation (OXPHOS).
+- Dysfunction leads to impaired transport, affecting neurotransmitter release and synaptic function.
+- Mitochondrial dysfunction (e.g., in fission/fusion) can cause accumulation of damaged organelles, contributing to neurodegeneration.
+- Imbalance in reactive oxygen species (ROS) and calcium also disrupts cellular homeostasis.",3f6a20e0-6a48-4549-aea0-047fbbbd5145,true
+7747b522-1adb-48d3-aa08-5b04cc7eb418,566fa0ed-87e2-4afe-bfc8-ca99897bf128,Microtubules facilitate the transport of mitochondria along the axon.,7747b522-1adb-48d3-aa08-5b04cc7eb418,true
+7747b522-1adb-48d3-aa08-5b04cc7eb418,a77894b2-299f-482b-9b28-2ad43bedb5a0,Microtubules help position mitochondria at sites of high energy demand in the axon.,7747b522-1adb-48d3-aa08-5b04cc7eb418,true
+7747b522-1adb-48d3-aa08-5b04cc7eb418,6b430bf2-df74-4a37-9e59-e93a1ab58d9a,Microtubules are responsible for the fusion of axonal mitochondria.,7747b522-1adb-48d3-aa08-5b04cc7eb418,false
+7747b522-1adb-48d3-aa08-5b04cc7eb418,3a051045-0983-4ab9-9d99-42e19b57d9f5,Microtubules regulate the calcium exchange between mitochondria and the endoplasmic reticulum.,7747b522-1adb-48d3-aa08-5b04cc7eb418,false
+7747b522-1adb-48d3-aa08-5b04cc7eb418,ae7f5e7b-6bb6-451f-a0da-9b83f7fc1915,Microtubules initiate the biogenesis of new mitochondria in the axon.,7747b522-1adb-48d3-aa08-5b04cc7eb418,false
+129e2c09-23ef-4726-a47d-a17e87ecba2a,90207a7a-9eda-4127-9566-2ad14e43b0f2,Peroxisomes,129e2c09-23ef-4726-a47d-a17e87ecba2a,true
+129e2c09-23ef-4726-a47d-a17e87ecba2a,a0cd2c73-56b6-4965-a36c-61e599a295c4,Lysosomes,129e2c09-23ef-4726-a47d-a17e87ecba2a,false
+129e2c09-23ef-4726-a47d-a17e87ecba2a,865dae42-b7b7-4b82-9b2b-fa1cca7ef28f,Endosomes,129e2c09-23ef-4726-a47d-a17e87ecba2a,false
+129e2c09-23ef-4726-a47d-a17e87ecba2a,6eca2b3b-30f9-4343-800b-1b692f9cc9a6,Golgi apparatus,129e2c09-23ef-4726-a47d-a17e87ecba2a,false
+338034a5-37f4-481a-8ecf-b96f73ad6998,fa85db21-b72c-41b5-9cd7-6fe293be31c3,"- Local translation at synapses allows rapid protein synthesis in response to stimuli, essential for synaptic plasticity.
+- It supports long-term potentiation (LTP) and long-term depression (LTD), critical for learning and memory.
+- Overcomes slow protein transport from the cell body, maintaining synaptic function.
+- Local translation ensures timely, spatially-restricted protein production.",338034a5-37f4-481a-8ecf-b96f73ad6998,true
+bbdc34e5-981c-44d4-b6ea-5634a7097a0e,a6987b42-98e9-41ab-88c5-2b792770d5f6,"Local protein synthesis occurs in axons, allowing for rapid mitochondrial protein turnover.",bbdc34e5-981c-44d4-b6ea-5634a7097a0e,true
+bbdc34e5-981c-44d4-b6ea-5634a7097a0e,b490317e-3e1d-4260-82ed-676f92d04742,Mitochondrial proteins are exclusively synthesized in the soma and transported to axons.,bbdc34e5-981c-44d4-b6ea-5634a7097a0e,false
+bbdc34e5-981c-44d4-b6ea-5634a7097a0e,4ada7eb2-78c5-484b-bbb1-6bc6740864df,Axonal mitochondria rely solely on proteins synthesized in dendrites.,bbdc34e5-981c-44d4-b6ea-5634a7097a0e,false
+bbdc34e5-981c-44d4-b6ea-5634a7097a0e,91cd5a94-8302-49c8-a25b-043e99ac8945,"All mitochondrial proteins have long half-lives, eliminating the need for rapid synthesis.",bbdc34e5-981c-44d4-b6ea-5634a7097a0e,false
+bbdc34e5-981c-44d4-b6ea-5634a7097a0e,277f5285-9d48-4531-b247-dd8df2bbc4be,Axonal protein synthesis is unnecessary due to the abundance of ribosomes in axons.,bbdc34e5-981c-44d4-b6ea-5634a7097a0e,false
+2e394d25-b152-457b-ae8c-9c44f339c10f,d117d249-fcb0-4c51-b62d-d93f8ddd0eed,Local translation,2e394d25-b152-457b-ae8c-9c44f339c10f,true
+2e394d25-b152-457b-ae8c-9c44f339c10f,5d9beebe-b025-413e-ba51-0c619418977c,Transport selectivity,2e394d25-b152-457b-ae8c-9c44f339c10f,true
+2e394d25-b152-457b-ae8c-9c44f339c10f,d4f27eb7-d1d8-4c77-a866-4e64513dcbf1,Axonal ribosome replication,2e394d25-b152-457b-ae8c-9c44f339c10f,false
+2e394d25-b152-457b-ae8c-9c44f339c10f,a6b2791c-7f5e-47d4-9480-35d64590f8cd,Mitochondrial fusion,2e394d25-b152-457b-ae8c-9c44f339c10f,false
+2e394d25-b152-457b-ae8c-9c44f339c10f,ccef1ef6-bd2b-410a-8c1e-485db757b496,Cytoskeletal reorganization,2e394d25-b152-457b-ae8c-9c44f339c10f,false
+f6a20622-48f9-47d1-9d70-d1a8d236d861,4d4c076a-9028-4c79-97a5-253b988359b6,"- Axonal translation allows for rapid synthesis of short-lived mitochondrial proteins critical for function.
+- Ensures timely replacement of proteins like COX4, avoiding slow transport from the cell body.
+- Supports mitochondrial biogenesis by synthesizing proteins required for mitochondrial DNA replication.
+- Helps maintain mitochondrial membrane potential, supporting axonal health and function.",f6a20622-48f9-47d1-9d70-d1a8d236d861,true
+b0f1056b-953b-4f8e-94e4-1e120b9d5696,5c8f3949-5867-4ca4-9bac-37b9005a2078,"- Axonal translation allows for rapid synthesis of short-lived mitochondrial proteins critical for function.
+- Ensures timely replacement of short lived proteins, avoiding slow transport from the cell body.
+- Supports mitochondrial biogenesis by synthesizing proteins required for mitochondrial DNA replication.
+- Helps maintain mitochondrial membrane potential, supporting axonal health and function.",b0f1056b-953b-4f8e-94e4-1e120b9d5696,true
+ab9b3247-f742-415b-90f0-e61f7cb19699,de145bbc-d2f9-48dc-9d48-eff4d4acf328,Mitochondria,ab9b3247-f742-415b-90f0-e61f7cb19699,true
+ab9b3247-f742-415b-90f0-e61f7cb19699,01995840-c203-4222-b5ab-938bcc210e8d,Rough Endoplasmic Reticulum (RER),ab9b3247-f742-415b-90f0-e61f7cb19699,false
+ab9b3247-f742-415b-90f0-e61f7cb19699,bf17bcc7-5c2f-4299-b73c-fd4518dff0be,Golgi Apparatus,ab9b3247-f742-415b-90f0-e61f7cb19699,false
+ab9b3247-f742-415b-90f0-e61f7cb19699,a9724cc1-0079-4504-91fc-d7f771c658da,Lysosomes,ab9b3247-f742-415b-90f0-e61f7cb19699,false
+ab9b3247-f742-415b-90f0-e61f7cb19699,f219c030-cf7e-4273-839b-194040debd29,Endoplasmic Reticulum (ER),ab9b3247-f742-415b-90f0-e61f7cb19699,false
+f37690a2-aae0-4fac-85bc-f1467788df96,06e99198-f2a4-480f-93ee-39cab2909558,"- Local mRNA translation allows rapid response to stimuli by producing proteins where needed.
+- Supports synaptic plasticity (adaptability) by modifying local protein synthesis.
+- Efficiently maintains protein supply in distant neuronal parts, overcoming slow transport from the cell body.
+- Facilitates organellar homeostasis, especially for mitochondria, ensuring energy supply and metabolic function.",f37690a2-aae0-4fac-85bc-f1467788df96,true
+b1ccc30c-3af1-4669-8dc3-b584c356b1f5,eeffe6eb-91e1-4e14-b76e-43fe808af1d7,"- Neurons face challenges due to their size and distance of axons from the cell body.
+- Protein synthesis in the cell body can't meet local demands due to slow transport.
+- Local translation in axons ensures timely protein synthesis.
+- It maintains mitochondrial function and supports axonal growth and repair.
+- Axonal ribosomes synthesize proteins locally from transported mRNA.",b1ccc30c-3af1-4669-8dc3-b584c356b1f5,true
+836852f6-7e42-43f1-a79d-a4574bfbdd5c,72d3a453-7731-44bb-b2f9-9b2d0d956c70,Local translation of mRNA,836852f6-7e42-43f1-a79d-a4574bfbdd5c,true
+836852f6-7e42-43f1-a79d-a4574bfbdd5c,eceb950a-23c0-43ba-a262-c95e9e8a9d9e,Axonal transport of proteins,836852f6-7e42-43f1-a79d-a4574bfbdd5c,false
+836852f6-7e42-43f1-a79d-a4574bfbdd5c,06d448e3-a45c-4f00-9f52-cae4899c6583,Synaptic vesicle fusion,836852f6-7e42-43f1-a79d-a4574bfbdd5c,false
+836852f6-7e42-43f1-a79d-a4574bfbdd5c,75f9cf75-ceb4-4290-8214-cb2618632b0b,Retrograde axonal transport,836852f6-7e42-43f1-a79d-a4574bfbdd5c,false
+836852f6-7e42-43f1-a79d-a4574bfbdd5c,5e97a485-c13a-4d85-a100-4f1215a92aca,Synaptic plasticity,836852f6-7e42-43f1-a79d-a4574bfbdd5c,false
+0bb97385-e00a-4287-bdfd-857f9bb17128,ebe5d3fc-8580-4ea5-95cd-d0e996ef1d36,RNA binding proteins,0bb97385-e00a-4287-bdfd-857f9bb17128,true
+0bb97385-e00a-4287-bdfd-857f9bb17128,86a3426a-f1f3-4ad8-8828-300a042e0bc4,Ribosomes,0bb97385-e00a-4287-bdfd-857f9bb17128,true
+0bb97385-e00a-4287-bdfd-857f9bb17128,f5adbedb-9da2-41f4-bc9d-36d7f2ffa3eb,mRNA,0bb97385-e00a-4287-bdfd-857f9bb17128,true
+0bb97385-e00a-4287-bdfd-857f9bb17128,96e032cb-2ac0-464b-afdd-cd0be153f023,Mitochondria,0bb97385-e00a-4287-bdfd-857f9bb17128,false
+0bb97385-e00a-4287-bdfd-857f9bb17128,d2052d35-5d7f-4447-b384-e5250796c8db,DNA polymerase,0bb97385-e00a-4287-bdfd-857f9bb17128,false
+0bb97385-e00a-4287-bdfd-857f9bb17128,d0ba9803-8439-4960-aca3-fe36755571b1,Golgi apparatus,0bb97385-e00a-4287-bdfd-857f9bb17128,false
+c1d11ae0-8b85-4815-ab14-685b172aa63e,77e3ae20-8660-4267-94f3-c5f4a60f0c95,Regulating synaptic plasticity,c1d11ae0-8b85-4815-ab14-685b172aa63e,true
+c1d11ae0-8b85-4815-ab14-685b172aa63e,bb7c4fbd-3c52-4cc7-8078-52d32a804f2e,Supporting axonal regeneration after injury,c1d11ae0-8b85-4815-ab14-685b172aa63e,true
+c1d11ae0-8b85-4815-ab14-685b172aa63e,7c4b63e5-cce5-4233-9e44-e5141cee31dd,Maintaining mitochondrial function in axons,c1d11ae0-8b85-4815-ab14-685b172aa63e,true
+c1d11ae0-8b85-4815-ab14-685b172aa63e,c6398e81-37ca-4246-afa3-00bcf24aa158,Facilitating fast transport of proteins from the cell body,c1d11ae0-8b85-4815-ab14-685b172aa63e,false
+c1d11ae0-8b85-4815-ab14-685b172aa63e,fc7d8e57-a371-4c9a-ac7d-d88f51e64219,Increasing the half-life of all mitochondrial proteins,c1d11ae0-8b85-4815-ab14-685b172aa63e,false
+c1d11ae0-8b85-4815-ab14-685b172aa63e,37719e47-7107-4139-ba98-4ec66bb5f03d,Enhancing the passive diffusion of neurotransmitters across synapses,c1d11ae0-8b85-4815-ab14-685b172aa63e,false
+27d69a12-284d-4ca1-8dc6-35832ec1bfad,b24b42af-f284-4e00-b4d8-9ae5ba91baa7,"Local translation allows neurons to rapidly synthesize proteins at distant sites like synapses, crucial for processes like synaptic plasticity and quick response to stimuli.",27d69a12-284d-4ca1-8dc6-35832ec1bfad,true
+27d69a12-284d-4ca1-8dc6-35832ec1bfad,e846a58e-28dd-44e6-b37c-a1a1f4aa0915,"Local translation supports mitochondrial function and health in axons by synthesizing necessary proteins on-site, which is essential given the slow transport from the cell body.",27d69a12-284d-4ca1-8dc6-35832ec1bfad,true
+27d69a12-284d-4ca1-8dc6-35832ec1bfad,54e4e06c-cab9-4347-a3b8-34d569b6edb9,"Local translation occurs only in the cell body, which is sufficient for maintaining neuronal function across the entire neuron.",27d69a12-284d-4ca1-8dc6-35832ec1bfad,false
+27d69a12-284d-4ca1-8dc6-35832ec1bfad,4092adf5-252b-49f3-a9c0-78cff043504e,The primary role of local translation is to enable rapid axonal transport of synthesized proteins to the synapse.,27d69a12-284d-4ca1-8dc6-35832ec1bfad,false
+27d69a12-284d-4ca1-8dc6-35832ec1bfad,3e10cd53-ab48-4387-9cd1-db66ac94e15a,Local translation is mainly involved in the degradation of proteins rather than their synthesis in neuronal compartments.,27d69a12-284d-4ca1-8dc6-35832ec1bfad,false
+eb04c783-2c0c-43cb-848a-8821d590753d,fa17d0e0-96d8-4f8e-8453-08f9655b39b3,Regulating synaptic plasticity by modulating mRNA translation at synapses,eb04c783-2c0c-43cb-848a-8821d590753d,true
+eb04c783-2c0c-43cb-848a-8821d590753d,0f8cfe28-144b-4ee4-80e1-d6253137a45e,"Directing protein synthesis in response to local stimuli, such as growth cone guidance",eb04c783-2c0c-43cb-848a-8821d590753d,true
+eb04c783-2c0c-43cb-848a-8821d590753d,4993cfed-17e7-4d92-ad7b-25b572fd7b48,Maintaining mitochondrial function by synthesizing specific proteins locally in axons,eb04c783-2c0c-43cb-848a-8821d590753d,true
+eb04c783-2c0c-43cb-848a-8821d590753d,b198072e-8d38-477a-b7f4-a20d3569fff0,Facilitating rapid axonal transport of proteins synthesized in the cell body,eb04c783-2c0c-43cb-848a-8821d590753d,false
+eb04c783-2c0c-43cb-848a-8821d590753d,dc24cb80-5516-485b-b4ad-5d26f1e61472,Enhancing global protein synthesis throughout the neuron,eb04c783-2c0c-43cb-848a-8821d590753d,false
+eb04c783-2c0c-43cb-848a-8821d590753d,33ad7389-b7ae-4bf2-adef-e5d100b8e51d,Transporting proteins across the synaptic cleft,eb04c783-2c0c-43cb-848a-8821d590753d,false
+240d0a0e-40ee-4116-b022-9e2ebf575c96,b2f0e4ab-406a-4d75-9c4d-b8ef50648c6b,"- Der Impuls eines Systems bleibt konstant, solange keine äußeren Kräfte wirken: $\sum \vec{p}_{\text{vor}} = \sum \vec{p}_{\text{nach}}$.
+- Bei Stoßprozessen ermöglicht es die Vorhersage der Nach-Stoß-Geschwindigkeiten.
+- Kritisch für die Analyse von elastischen und inelastischen Stößen.
+- Erhaltungssatz gilt unabhängig von der Art des Stoßes.",240d0a0e-40ee-4116-b022-9e2ebf575c96,true
+c45e2df2-c658-481a-ba4b-8f9a057e5bf4,b2fc2b9a-8fa3-45c7-93aa-31bd9e71dbf1,"- Der Schwerpunkt bewegt sich gleichförmig weiter, da der Gesamtimpuls erhalten bleibt.
+- Nach der Kollision bleibt der Schwerpunkt unverändert, was die Analyse der Bewegungen vereinfacht.
+- Die Bewegung der Massen relativ zum Schwerpunkt zeigt die interne Dynamik des Systems.",c45e2df2-c658-481a-ba4b-8f9a057e5bf4,true
+d6a48bbe-9286-4b33-b50c-25fb47f546f5,d05f1af7-121c-4bf2-985c-349cc5a40b31,"- Die Masseverteilung beeinflusst den Schwerpunkt, indem sie bestimmt, wo der Punkt liegt, an dem die gesamte Masse des Systems konzentriert scheint.
+- Der Gesamtimpuls ist die Summe aller Einzelimpulse im System und hängt von der Geschwindigkeit und Masseverteilung ab.
+- Eine ungleichmäßige Masseverteilung kann den Schwerpunkt verschieben und den Gesamtimpuls beeinflussen.",d6a48bbe-9286-4b33-b50c-25fb47f546f5,true
+d053eb0a-338d-41fe-a957-57de908ba0af,ca8e6a0a-58b1-4269-8c84-31e690aa5650,"- Verwende zwei Wagen auf einer Luftkissenbahn.
+- Stelle sicher, dass die Wagen keine äußeren Kräfte erfahren.
+- Messe die Geschwindigkeit der Wagen vor und nach dem Stoß.
+- Berechne den Impuls $
+- \vec{p} = m \cdot \vec{v}$ für beide Wagen.
+- Zeige, dass die Summe der Impulse vor und nach dem Stoß gleich ist.",d053eb0a-338d-41fe-a957-57de908ba0af,true
+10c33dbc-b6fc-4390-85b4-9a6d8df50d0c,1a0f3bf7-9aa1-4d3e-82ff-146ffc6afc2e,"- Linearimpuls ($\vec{p} = m \cdot \vec{v}$) und Drehimpuls ($\vec{L} = \vec{r} \times \vec{p}$) sind gleichberechtigt.
+- Beide beschreiben Erhaltungsgrößen: Linearimpuls in geradlinigen Bewegungen, Drehimpuls in rotatorischen.
+- Beide sind fundamental in der Mechanik, ähnlich wichtig wie Energie.
+- Beide haben Erhaltungssätze, die in abgeschlossenen Systemen gelten.",10c33dbc-b6fc-4390-85b4-9a6d8df50d0c,true
+b35bf914-036c-4136-bc83-5428c82847df,140bf1ab-d6f1-479b-ac1e-9459159945f9,"Der Schwerpunkt ermöglicht es, ein komplexes Objekt als Punkt zu betrachten, um den Impuls und die Stoßprozesse zu analysieren.",b35bf914-036c-4136-bc83-5428c82847df,true
+b35bf914-036c-4136-bc83-5428c82847df,21815678-a6b2-4534-97d2-628301cfa1fe,"Der Schwerpunkt ist irrelevant für die Analyse von Stoßprozessen, da er nur bei Drehbewegungen eine Rolle spielt.",b35bf914-036c-4136-bc83-5428c82847df,false
+b35bf914-036c-4136-bc83-5428c82847df,fdd306f2-07d2-4d7d-a14b-60f7d50bca03,Der Schwerpunkt beeinflusst die Geschwindigkeit eines Objekts während eines Stoßprozesses direkt.,b35bf914-036c-4136-bc83-5428c82847df,false
+b35bf914-036c-4136-bc83-5428c82847df,9a14ebb8-c65a-483c-96e8-c7cf33726ee3,"Der Schwerpunkt ist nur bei der Energieerhaltung von Bedeutung, nicht bei der Impulserhaltung.",b35bf914-036c-4136-bc83-5428c82847df,false
+b35bf914-036c-4136-bc83-5428c82847df,f5964397-e6dc-4516-8c89-973ca9aecb8c,Der Schwerpunkt kann nur bei symmetrischen Objekten zur Analyse von Stoßprozessen verwendet werden.,b35bf914-036c-4136-bc83-5428c82847df,false
+ecdbeaa6-3ce9-483d-addb-2347c0490cb5,58340b76-97e7-4697-b71b-a7e709f12e5c,Das System ist abgeschlossen und keine äußeren Kräfte wirken.,ecdbeaa6-3ce9-483d-addb-2347c0490cb5,true
+ecdbeaa6-3ce9-483d-addb-2347c0490cb5,c7f5f59d-8029-45d8-bc69-165238b971bd,"Die äußeren Kräfte sind im Gleichgewicht, sodass die resultierende Kraft null ist.",ecdbeaa6-3ce9-483d-addb-2347c0490cb5,true
+ecdbeaa6-3ce9-483d-addb-2347c0490cb5,fd9f85ba-d7ac-4f2f-a75d-5d71ea96c8db,Das System hat eine konstante Geschwindigkeit.,ecdbeaa6-3ce9-483d-addb-2347c0490cb5,false
+ecdbeaa6-3ce9-483d-addb-2347c0490cb5,f8178542-b016-43bb-ae5d-9ca39c269a92,Die kinetische Energie des Systems bleibt konstant.,ecdbeaa6-3ce9-483d-addb-2347c0490cb5,false
+ecdbeaa6-3ce9-483d-addb-2347c0490cb5,a2be414f-dd99-4838-baaa-0b01bc9f9e8d,Die Masse des Systems verändert sich nicht.,ecdbeaa6-3ce9-483d-addb-2347c0490cb5,false
+6aedb6e6-90db-4e24-88cd-36e25e878d34,89e36970-1605-497c-8f43-860c47ee5c63,Kraft,6aedb6e6-90db-4e24-88cd-36e25e878d34,true
+6aedb6e6-90db-4e24-88cd-36e25e878d34,ca6e3c08-e3cc-4ce3-82e7-070ffc6f53cc,Masse,6aedb6e6-90db-4e24-88cd-36e25e878d34,false
+6aedb6e6-90db-4e24-88cd-36e25e878d34,fab0ebc2-a4cd-471d-8b0e-e8a09f0a2131,Geschwindigkeit,6aedb6e6-90db-4e24-88cd-36e25e878d34,false
+6aedb6e6-90db-4e24-88cd-36e25e878d34,bc9cd400-f297-4afd-bf04-920088cac4f3,Bewegungsrichtung,6aedb6e6-90db-4e24-88cd-36e25e878d34,false
+0880875a-b258-4788-861d-41b1532274cc,39a4c19d-b5cc-4e94-8116-4675c2e4c8a8,"- Linearimpuls ist eine Erhaltungsgröße bei Kollisionen, Energie bei Umwandlungen.
+- Linearimpuls $
+abla p = m \cdot \vec{v}$ ist gerichtet, Energie ist skalare Größe.
+- Linearimpuls bleibt in geschlossenen Systemen bei Kollisionen konstant.
+- Energieerhaltung gilt auch bei Umwandlungen zwischen Energieformen.
+- Linearimpuls beschreibt Bewegung, Energie beschreibt Fähigkeit zur Arbeit.",0880875a-b258-4788-861d-41b1532274cc,true
+896f6c9f-dc56-4eb2-b79a-110248b90195,cbba9006-cda5-4842-ad3a-fffa75857a9f,"- Im Alltag wird „Schwung“ oft mit Geschwindigkeit assoziiert, nicht mit der Produktformel $\vec{p} = m \cdot \vec{v}$.
+- „Wucht“ suggeriert eine Kraftwirkung, während Impuls ein Erhaltungssatz ist.
+- Missverständnis: Linearimpuls wird als weniger grundlegend als Masse oder Geschwindigkeit betrachtet.
+- Linearimpuls ist fundamental mit Erhaltungssatz, nicht nur eine Kombination von $m$ und $\vec{v}$. 
+- Beide Begriffe werden nicht als physikalische Größen erkannt.",896f6c9f-dc56-4eb2-b79a-110248b90195,true
+13fa7f0d-f34c-4a48-97e3-2e81909ca8d6,73fe10a4-9f1e-41ad-a0eb-42d23187e0b0,"- Der Schwerpunkt ermöglicht es, ein komplexes System als Punktmasse zu behandeln.
+- Linearimpuls des Gesamtsystems: $\vec{P} = M \cdot \vec{v}_{\text{cm}}$ mit $M$ als Gesamtmasse und $\vec{v}_{\text{cm}}$ als Geschwindigkeit des Schwerpunkts.
+- Erhaltung des Linearimpulses: Gesamtimpuls bleibt konstant, wenn keine äußeren Kräfte wirken.",13fa7f0d-f34c-4a48-97e3-2e81909ca8d6,true
+8b3fe7d9-dd3f-4785-bc6c-c79a1bd03a92,aaccd403-0714-44ac-b4bf-05ef97c6dfae,"Linearimpuls bezieht sich auf geradlinige Bewegungen, während Drehimpuls mit Drehbewegungen zu tun hat.",8b3fe7d9-dd3f-4785-bc6c-c79a1bd03a92,true
+8b3fe7d9-dd3f-4785-bc6c-c79a1bd03a92,52859610-a6be-420d-97ae-2d5c5a1644b9,Linearimpuls ist eine Unterklasse des Drehimpulses und beschreibt spezifische Drehbewegungen.,8b3fe7d9-dd3f-4785-bc6c-c79a1bd03a92,false
+8b3fe7d9-dd3f-4785-bc6c-c79a1bd03a92,c2fb7496-9ef0-4cfb-b29b-fb1e2f57b4d7,"Drehimpuls wird nur bei der Betrachtung von Massenpunkten verwendet, während Linearimpuls für feste Körper gilt.",8b3fe7d9-dd3f-4785-bc6c-c79a1bd03a92,false
+8b3fe7d9-dd3f-4785-bc6c-c79a1bd03a92,f68ef770-1fab-4420-95b5-b5106294bc79,"Linearimpuls beschreibt die Energie eines Objekts, während Drehimpuls dessen Geschwindigkeit beschreibt.",8b3fe7d9-dd3f-4785-bc6c-c79a1bd03a92,false
+8b3fe7d9-dd3f-4785-bc6c-c79a1bd03a92,9b786980-e0f6-43d3-aafb-920db65e015c,"Drehimpuls ist grundlegend für die Erhaltung der Masse, während Linearimpuls sich auf die Erhaltung der Energie bezieht.",8b3fe7d9-dd3f-4785-bc6c-c79a1bd03a92,false
+754dadce-65c8-40ad-8f3d-859c25e77be1,bf5aeea4-8b48-47a6-8cd4-1510330b40fa,Der Gesamtimpuls vor und nach der Kollision bleibt konstant.,754dadce-65c8-40ad-8f3d-859c25e77be1,true
+754dadce-65c8-40ad-8f3d-859c25e77be1,c9e8d984-0c1a-466e-ab5c-44a6db08a75f,Der Impuls jeder einzelnen Masse bleibt während der Kollision konstant.,754dadce-65c8-40ad-8f3d-859c25e77be1,false
+754dadce-65c8-40ad-8f3d-859c25e77be1,d8373d4c-210b-43e7-b28d-bd8a06a52a46,"Der Gesamtimpuls kann sich ändern, wenn die Massen unterschiedliche Geschwindigkeiten haben.",754dadce-65c8-40ad-8f3d-859c25e77be1,false
+754dadce-65c8-40ad-8f3d-859c25e77be1,656077d9-c497-4a50-896c-6f6a90c93c89,Der Impuls ist nur in einem elastischen Stoß erhalten.,754dadce-65c8-40ad-8f3d-859c25e77be1,false
+754dadce-65c8-40ad-8f3d-859c25e77be1,3373b335-4e58-4194-8750-4834e649ff58,"Die Impulserhaltung gilt nur, wenn keine Reibungskräfte wirken.",754dadce-65c8-40ad-8f3d-859c25e77be1,false
+690c641c-6665-4b89-a4f2-210466c00a7c,4678c1d9-d1a5-4b8e-8131-b56620c12230,Die Positionen der einzelnen Massen im System.,690c641c-6665-4b89-a4f2-210466c00a7c,true
+690c641c-6665-4b89-a4f2-210466c00a7c,c6f02e9f-57cc-4052-826d-34fead694548,Die Massen der einzelnen Objekte im System.,690c641c-6665-4b89-a4f2-210466c00a7c,true
+690c641c-6665-4b89-a4f2-210466c00a7c,2ff0b1ea-216c-4d6f-b453-a2d8d7022a00,Die allgemeine Verteilung der Massen im Raum.,690c641c-6665-4b89-a4f2-210466c00a7c,true
+690c641c-6665-4b89-a4f2-210466c00a7c,4890c382-b655-4211-a9f7-5ec2209d44f8,Die Geschwindigkeit der einzelnen Massen.,690c641c-6665-4b89-a4f2-210466c00a7c,false
+690c641c-6665-4b89-a4f2-210466c00a7c,77d9197b-7b25-43b0-be7e-6bc5598d59e3,Der Linearimpuls der einzelnen Massen.,690c641c-6665-4b89-a4f2-210466c00a7c,false
+690c641c-6665-4b89-a4f2-210466c00a7c,a3c423a5-4df8-416e-95d5-3ea0198b95f6,Die Temperatur der Umgebung des Systems.,690c641c-6665-4b89-a4f2-210466c00a7c,false
+38b9d107-6ade-4283-8f16-77e3bb08f8f8,e2b07b16-6cd1-425c-9338-ad27e821b5c1,Die Gesamtmasse des Systems,38b9d107-6ade-4283-8f16-77e3bb08f8f8,false
+38b9d107-6ade-4283-8f16-77e3bb08f8f8,48868a25-c956-40c3-b54c-f973c1ef4d43,Die Temperatur des Systems,38b9d107-6ade-4283-8f16-77e3bb08f8f8,true
+38b9d107-6ade-4283-8f16-77e3bb08f8f8,6843d9d3-c93a-46e6-b5de-321998ea097b,Die Geschwindigkeit der einzelnen Massen,38b9d107-6ade-4283-8f16-77e3bb08f8f8,false
+38b9d107-6ade-4283-8f16-77e3bb08f8f8,189f3fa5-d2b7-4f2c-a2e4-939699631988,Die Richtung der Bewegung der Massen,38b9d107-6ade-4283-8f16-77e3bb08f8f8,false
+38b9d107-6ade-4283-8f16-77e3bb08f8f8,d4ef993f-909e-4f48-9999-84480912cc2e,Die Wechselwirkungen zwischen den Massen im System,38b9d107-6ade-4283-8f16-77e3bb08f8f8,false
+df320853-fe63-45ed-abfd-ace9ca6dacc6,5e443f9c-faec-4539-be29-033b4f5f896e,Der Gesamtimpuls des Systems ist die Vektorsumme der Impulse der einzelnen Massen.,df320853-fe63-45ed-abfd-ace9ca6dacc6,true
+df320853-fe63-45ed-abfd-ace9ca6dacc6,95fedbc8-35f0-4c62-9985-76642e908989,"Unterschiedliche Geschwindigkeiten führen zu unterschiedlichen Impulsen, die sich vektoriell summieren.",df320853-fe63-45ed-abfd-ace9ca6dacc6,true
+df320853-fe63-45ed-abfd-ace9ca6dacc6,ac5d6bc8-aef8-44e3-97fa-3c2e193faa0c,"Der Gesamtimpuls des Systems bleibt unverändert, unabhängig von den Geschwindigkeiten der Massen.",df320853-fe63-45ed-abfd-ace9ca6dacc6,false
+df320853-fe63-45ed-abfd-ace9ca6dacc6,a0301903-2118-452b-b55d-a65041a86052,Der Gesamtimpuls des Systems ist das Produkt der Massen und der Geschwindigkeiten.,df320853-fe63-45ed-abfd-ace9ca6dacc6,false
+df320853-fe63-45ed-abfd-ace9ca6dacc6,71f31d1b-d5c8-4e1a-80c7-0addde756d24,Der Gesamtimpuls des Systems ist nur von der schwereren Masse abhängig.,df320853-fe63-45ed-abfd-ace9ca6dacc6,false
+0975fe30-7d7f-4423-8368-28d5b61bbe1b,6c08408f-bab7-4758-8385-664816e9a839,"- Nach dem elastischen Stoß sind die Geschwindigkeiten:
+- $v_1' = \frac{(m_1 - m_2) v_1 + 2 m_2 v_2}{m_1 + m_2}$
+- $v_2' = \frac{(m_2 - m_1) v_2 + 2 m_1 v_1}{m_1 + m_2}$",0975fe30-7d7f-4423-8368-28d5b61bbe1b,true
+2295464f-b149-4b06-b1c8-55155f6b80e1,9125ae9b-469e-46f6-baec-7680e878aa03,"- Gleichung: $m_1 v_1 + m_2 \cdot 0 = (m_1 + m_2) v$
+- Geschwindigkeit $v$: $v = \frac{m_1 v_1}{m_1 + m_2}$",2295464f-b149-4b06-b1c8-55155f6b80e1,true
+b4afebe0-a5d9-422d-ae74-a86e8ede56b8,1bd600b6-7042-4100-98cb-afed014b3035,"- Gesamtimpuls vor dem Stoß: $p_{vor} = m \cdot v$
+- Gesamtimpuls nach dem Stoß: $p_{nach} = m \cdot (-v)$
+- Da der Betrag des Impulses gleich bleibt ($|p_{vor}| = |p_{nach}|$), ist der Impuls erhalten.
+- Der Impuls ist eine Erhaltungsgröße (Konservierung), daher bleibt er in einem abgeschlossenen System konstant.",b4afebe0-a5d9-422d-ae74-a86e8ede56b8,true
+090a18c7-3a77-41f1-a17c-381caf738867,5f985535-6aef-49bd-af89-bf8f5bf18923,"- Geschwindigkeit des Schwerpunkts: $v_{cm} = \frac{m_1 \cdot v_1 + m_2 \cdot v_2}{m_1 + m_2}$
+- $v_{cm}$ bleibt konstant, da keine äußeren Kräfte wirken.",090a18c7-3a77-41f1-a17c-381caf738867,true
+107a79eb-dcd7-4f79-ba8e-aaf06405f76c,99292d75-0370-473f-b2ef-a5fc623f27e3,"- Der Gesamtimpuls vor dem Stoß ist $p_{ges,vor} = m \cdot v - M \cdot V$.
+- Der Gesamtimpuls nach dem Stoß bleibt gleich: $p_{ges,nach} = p_{ges,vor}$.
+- Der Schwerpunkt ändert seine Geschwindigkeit, wenn $m \neq M$ und $v \neq V$.
+- Wenn $m = M$ und $v = V$, bleibt der Schwerpunkt in Ruhe.",107a79eb-dcd7-4f79-ba8e-aaf06405f76c,true
+b0f50ace-25c7-4fac-a32a-703ad8caa639,de34e6e8-099a-4f7a-b8ef-3458982f40d7,- $v_{cm} = \frac{m_1 v_1 + m_2 v_2}{m_1 + m_2}$,b0f50ace-25c7-4fac-a32a-703ad8caa639,true
+e7937d06-49d0-46f2-a00d-687d4a8e8163,41e90040-0cc1-436a-934e-2840fb73c26f,"- Vor dem Stoß: $v_{cm} = \frac{mv}{m+M}$
+- Nach dem Stoß: $v'_{cm} = \frac{mv}{m+M}$",e7937d06-49d0-46f2-a00d-687d4a8e8163,true
+3030a743-396e-4e87-8c2d-e2c64c326d95,acadea7b-9472-4551-ad24-51be4e6b0143,- $v = \frac{m_1 \cdot v_1 + m_2 \cdot v_2}{m_1 + m_2}$,3030a743-396e-4e87-8c2d-e2c64c326d95,true
+b26bfba5-df49-494b-8718-0033592e7950,35b9a6db-1ff9-4aeb-829e-738fc4f90370,"Der Linearimpuls ist eine fundamentale Erhaltungsgröße, die für Masse und Geschwindigkeit einzeln nicht gilt.",b26bfba5-df49-494b-8718-0033592e7950,true
+b26bfba5-df49-494b-8718-0033592e7950,5f460b9f-2aff-4db3-b8c7-b4a256337c6a,Linearimpuls wird berechnet als das Produkt aus Masse und Geschwindigkeit.,b26bfba5-df49-494b-8718-0033592e7950,true
+b26bfba5-df49-494b-8718-0033592e7950,e762946c-4b1e-4e73-97fc-894a4cd44474,Der Linearimpuls ist eine Unterkategorie des Drehimpulses.,b26bfba5-df49-494b-8718-0033592e7950,false
+b26bfba5-df49-494b-8718-0033592e7950,c4b65578-79a5-4576-8adb-944fb72bddfa,Linearimpuls ist weniger wichtig als Energie.,b26bfba5-df49-494b-8718-0033592e7950,false
+b26bfba5-df49-494b-8718-0033592e7950,0845efcc-49d4-45d9-b69d-6b6db24969b9,Der Linearimpuls ist direkt proportional zur Beschleunigung.,b26bfba5-df49-494b-8718-0033592e7950,false
+50e4a799-cc28-4159-ab8b-a30d07d475d5,5b037dcb-9d0e-4252-ad30-d41e2a6eed75,Der Linearimpuls $\vec{p}$ ist das Produkt aus der Masse $m$ und der Geschwindigkeit $\vec{v}$: $\vec{p} = m \cdot \vec{v}$.,50e4a799-cc28-4159-ab8b-a30d07d475d5,true
+50e4a799-cc28-4159-ab8b-a30d07d475d5,caba7ec6-0d77-49f1-9435-5ad955bcb9e8,Der Linearimpuls $\vec{p}$ ist das Produkt aus der Masse $m$ und der Beschleunigung $\vec{a}$: $\vec{p} = m \cdot \vec{a}$.,50e4a799-cc28-4159-ab8b-a30d07d475d5,false
+50e4a799-cc28-4159-ab8b-a30d07d475d5,c94579bd-1ca1-4046-9cac-98e0e9cc9377,Der Linearimpuls $\vec{p}$ ist das Produkt aus der Geschwindigkeit $\vec{v}$ und der Kraft $\vec{F}$: $\vec{p} = \vec{v} \cdot \vec{F}$.,50e4a799-cc28-4159-ab8b-a30d07d475d5,false
+50e4a799-cc28-4159-ab8b-a30d07d475d5,4ddc8986-c288-4a59-877e-1ec7e87a4d5d,Der Linearimpuls $\vec{p}$ ist das Produkt aus der Masse $m$ und der Energie $E$: $\vec{p} = m \cdot E$.,50e4a799-cc28-4159-ab8b-a30d07d475d5,false
+416ce61a-e386-49b1-8bff-d2fccaec40b4,b6ff0c81-6b68-46a1-a39f-a4262bc22ad4,Linearimpuls (Impuls),416ce61a-e386-49b1-8bff-d2fccaec40b4,true
+416ce61a-e386-49b1-8bff-d2fccaec40b4,b04a666e-f6a8-4fe4-b356-d689b82cd3fc,Gesamte kinetische Energie,416ce61a-e386-49b1-8bff-d2fccaec40b4,true
+416ce61a-e386-49b1-8bff-d2fccaec40b4,578bdca4-7205-45a7-8aa1-f3bc32c3d12d,Einzelne Geschwindigkeiten,416ce61a-e386-49b1-8bff-d2fccaec40b4,false
+416ce61a-e386-49b1-8bff-d2fccaec40b4,7ca01044-5ee3-463a-9a6e-8fdaa2c857bf,Einzelne kinetische Energien,416ce61a-e386-49b1-8bff-d2fccaec40b4,false
+416ce61a-e386-49b1-8bff-d2fccaec40b4,5e3088c5-fde1-46f3-9d0a-30d358259bbd,Masse der einzelnen Objekte,416ce61a-e386-49b1-8bff-d2fccaec40b4,false
+9bf76ec9-e8ae-42b4-9e9a-75e1eff7b2ff,7822c825-59f4-4406-847e-0de43da8c2f5,"Der Gesamtimpuls des Systems bleibt konstant, solange keine äußeren Kräfte wirken.",9bf76ec9-e8ae-42b4-9e9a-75e1eff7b2ff,true
+9bf76ec9-e8ae-42b4-9e9a-75e1eff7b2ff,c2d93178-4de2-46bd-9421-76d8738130cf,"Der Impuls des Systems ist nur dann konstant, wenn die Massen der Objekte gleich sind.",9bf76ec9-e8ae-42b4-9e9a-75e1eff7b2ff,false
+9bf76ec9-e8ae-42b4-9e9a-75e1eff7b2ff,74174362-2b69-47ec-bbaa-4d4e5ceb7c55,Der Impuls des Systems ändert sich proportional zur Geschwindigkeit des schwereren Objekts.,9bf76ec9-e8ae-42b4-9e9a-75e1eff7b2ff,false
+9bf76ec9-e8ae-42b4-9e9a-75e1eff7b2ff,9f8cc51a-b5d9-4b7d-aedf-095cc28f8c90,"Der Impuls des Systems bleibt konstant, solange die Geschwindigkeiten der Objekte gleich bleiben.",9bf76ec9-e8ae-42b4-9e9a-75e1eff7b2ff,false
+9bf76ec9-e8ae-42b4-9e9a-75e1eff7b2ff,87b7a80b-e011-4d44-bf35-91f7e6fee777,Der Impuls des Systems ist unabhängig von äußeren Kräften.,9bf76ec9-e8ae-42b4-9e9a-75e1eff7b2ff,false
+70b14964-9f69-461a-9082-884a6527d967,d610c57f-a69a-4d90-9031-9e678c1c9d87,"Das System ist abgeschlossen, d.h. es gibt keine äußeren Kräfte.",70b14964-9f69-461a-9082-884a6527d967,true
+70b14964-9f69-461a-9082-884a6527d967,0b244c19-1ccf-442d-a2a6-e4df92c896ae,Die Summe der äußeren Kräfte auf das System ist null.,70b14964-9f69-461a-9082-884a6527d967,true
+70b14964-9f69-461a-9082-884a6527d967,3e2e2461-43ec-4115-9a15-fc7f24bc31cc,Die Gesamtenergie des Systems bleibt konstant.,70b14964-9f69-461a-9082-884a6527d967,false
+70b14964-9f69-461a-9082-884a6527d967,0cde5dd2-44b3-4e95-a6c7-0bda99374207,Die Geschwindigkeit aller Objekte im System ist konstant.,70b14964-9f69-461a-9082-884a6527d967,false
+70b14964-9f69-461a-9082-884a6527d967,22cd62c0-7621-464e-a205-dafa0203c087,Der Drehimpuls des Systems bleibt konstant.,70b14964-9f69-461a-9082-884a6527d967,false
+7a15af2f-cb13-481b-af5a-8c6ebe1699af,41a26bcd-94c0-42d9-8e5a-ae596bab9019,"Der Gesamtimpuls bleibt erhalten, aber der Impuls der einzelnen Objekte ändert sich.",7a15af2f-cb13-481b-af5a-8c6ebe1699af,true
+7a15af2f-cb13-481b-af5a-8c6ebe1699af,5dae7fc9-9bea-4258-8dbe-a1996334b12b,"Der Impuls des Systems bleibt konstant, während kinetische Energie verloren geht.",7a15af2f-cb13-481b-af5a-8c6ebe1699af,true
+7a15af2f-cb13-481b-af5a-8c6ebe1699af,96a65d69-83d7-4373-8fc3-590e4516c448,Der Gesamtimpuls und die kinetische Energie bleiben beide unverändert.,7a15af2f-cb13-481b-af5a-8c6ebe1699af,false
+7a15af2f-cb13-481b-af5a-8c6ebe1699af,3bdac9f0-935f-41bc-8e85-380393960a1b,"Der Impuls der einzelnen Objekte bleibt konstant, aber die kinetische Energie ändert sich.",7a15af2f-cb13-481b-af5a-8c6ebe1699af,false
+7a15af2f-cb13-481b-af5a-8c6ebe1699af,e8bc16a1-a956-4fe0-9b8a-695a781c73db,"Nur die kinetische Energie ändert sich, der Impuls bleibt in beiden Objekten gleich.",7a15af2f-cb13-481b-af5a-8c6ebe1699af,false
+5e82736d-951b-4da9-9989-d2ad530d6291,ce145589-ca2b-428c-a0de-5d1f7b970838,"Der Impuls des Balls ändert sich durch die Wechselwirkung mit dem Boden, wobei die Richtung des Impulses nach dem Aufprall umgekehrt wird.",5e82736d-951b-4da9-9989-d2ad530d6291,true
+5e82736d-951b-4da9-9989-d2ad530d6291,e2ccf20f-9a1e-4fa8-86d9-5267b9a34b31,"Der Impuls des Balls bleibt konstant, da die Geschwindigkeit des Balls nach dem Aufprall gleich bleibt.",5e82736d-951b-4da9-9989-d2ad530d6291,false
+5e82736d-951b-4da9-9989-d2ad530d6291,a6a576c4-ae81-4c88-8752-5d404ddfb24e,"Der Impulswechsel des Balls ist vernachlässigbar, da die Masse des Balls im Vergleich zur Erde sehr klein ist.",5e82736d-951b-4da9-9989-d2ad530d6291,false
+5e82736d-951b-4da9-9989-d2ad530d6291,832b1bc8-c7e8-4274-be91-e7ebf5c48e0b,"Der Impuls des Balls nimmt nach dem Aufprall zu, da die Geschwindigkeit nach dem Abprallen größer ist als zuvor.",5e82736d-951b-4da9-9989-d2ad530d6291,false
+5e82736d-951b-4da9-9989-d2ad530d6291,2b44eb9d-ff59-42e3-9fdd-387bdb82543a,"Der Impuls des Balls wird vollständig auf den Boden übertragen, sodass der Ball nach dem Aufprall keinen Impuls mehr hat.",5e82736d-951b-4da9-9989-d2ad530d6291,false
+c65c472b-94bd-4bd4-9b22-30c34bf4b549,7e7337d8-f933-415e-903c-5e680e0e68b2,"Zwei Eiskunstläufer stoßen sich voneinander ab und bewegen sich in entgegengesetzte Richtungen, wobei die Summe ihrer Impulse gleich bleibt.",c65c472b-94bd-4bd4-9b22-30c34bf4b549,true
+c65c472b-94bd-4bd4-9b22-30c34bf4b549,4e89b727-d38b-4197-ab2d-8033a94bb123,Zwei Kugeln kollidieren elastisch und kommen beide zum Stillstand.,c65c472b-94bd-4bd4-9b22-30c34bf4b549,false
+c65c472b-94bd-4bd4-9b22-30c34bf4b549,ba29aa4b-e770-46e5-b9c3-380200f4afe3,Ein Auto fährt mit konstanter Geschwindigkeit auf einer geraden Straße und erhöht seine Geschwindigkeit plötzlich.,c65c472b-94bd-4bd4-9b22-30c34bf4b549,false
+c65c472b-94bd-4bd4-9b22-30c34bf4b549,0442feb5-7786-4fa9-bd4e-9004e449dabc,Ein Ball fällt aus einer Höhe von 10 Metern und prallt ohne Energieverlust vom Boden ab.,c65c472b-94bd-4bd4-9b22-30c34bf4b549,false
+95eb4604-7840-4f8a-998f-a7365f0dce25,7398f39b-364a-4d7b-9c91-83d27dfc5431,"- Geschwindigkeit des Schwerpunkts: $v_{cm} = \frac{m_1 \cdot v_1 + m_2 \cdot v_2}{m_1 + m_2}$
+- $v_{cm}$ bleibt konstant, da keine äußeren Kräfte wirken.",95eb4604-7840-4f8a-998f-a7365f0dce25,true
+aa9e26fb-71c6-4eba-91ab-9dc00c23b6c1,7636a5bf-b911-4fae-b2a2-c454029cc888,"
+Zwei Kugeln mit den Massen $m_1$ und $m_2$ bewegen sich in entgegengesetzte Richtungen mit den Geschwindigkeiten $v_1$ und $v_2$ und prallen elastisch zusammen. Gesucht sind die Geschwindigkeiten nach dem Stoß $v_1'$ und $v_2'$.
+
+Impulserhaltung:
+$$
+m_1 v_1 + m_2 v_2 = m_1 v_1' + m_2 v_2'
+$$
+
+Energieerhaltung:
+$$
+\tfrac{1}{2} m_1 v_1^2 + \tfrac{1}{2} m_2 v_2^2 = \tfrac{1}{2} m_1 {v_1'}^2 + \tfrac{1}{2} m_2 {v_2'}^2
+$$
+
+Elastischer Stoß in 1D – Differenzgeschwindigkeit:
+$$
+v_1 - v_2 = -(v_1' - v_2')
+$$
+
+Lösung für die Endgeschwindigkeiten:
+$$
+v_1' = \frac{(m_1 - m_2)v_1 + 2 m_2 v_2}{m_1 + m_2}
+$$
+$$
+v_2' = \frac{(m_2 - m_1)v_2 + 2 m_1 v_1}{m_1 + m_2}
+$$
+
+- Nach dem elastischen Stoß sind die Geschwindigkeiten:
+- $v_1' = \frac{(m_1 - m_2) v_1 + 2 m_2 v_2}{m_1 + m_2}$
+- $v_2' = \frac{(m_2 - m_1) v_2 + 2 m_1 v_1}{m_1 + m_2}$",aa9e26fb-71c6-4eba-91ab-9dc00c23b6c1,true
+d7d5727f-a727-4420-94bf-d306990b50a4,b1d276ee-4ee0-419c-8dc8-185a179dba70,"
+Zwei Kugeln mit den Massen $m_1$ und $m_2$ bewegen sich in entgegengesetzte Richtungen mit den Geschwindigkeiten $v_1$ und $v_2$ und prallen elastisch zusammen. Gesucht sind die Geschwindigkeiten nach dem Stoß $v_1'$ und $v_2'$.
+
+Impulserhaltung:
+$$
+m_1 v_1 + m_2 v_2 = m_1 v_1' + m_2 v_2'
+$$
+
+Energieerhaltung:
+$$
+\tfrac{1}{2} m_1 v_1^2 + \tfrac{1}{2} m_2 v_2^2 = \tfrac{1}{2} m_1 {v_1'}^2 + \tfrac{1}{2} m_2 {v_2'}^2
+$$
+
+Elastischer Stoß in 1D – Differenzgeschwindigkeit:
+$$
+v_1 - v_2 = -(v_1' - v_2')
+$$
+
+Lösung für die Endgeschwindigkeiten:
+$$
+v_1' = \frac{(m_1 - m_2)v_1 + 2 m_2 v_2}{m_1 + m_2}
+$$
+$$
+v_2' = \frac{(m_2 - m_1)v_2 + 2 m_1 v_1}{m_1 + m_2}
+$$",d7d5727f-a727-4420-94bf-d306990b50a4,true
+9906e0fa-12da-45cc-8778-4fa96b7cf7a6,7b80da6c-fcbe-45c0-8d66-be671ff3f869,"
+Zwei Kugeln mit den Massen $m_1$ und $m_2$ bewegen sich in entgegengesetzte Richtungen mit den Geschwindigkeiten $v_1$ und $v_2$ und prallen elastisch zusammen. Gesucht sind die Geschwindigkeiten nach dem Stoß $v_1'$ und $v_2'$.
+
+Impulserhaltung:
+$$
+m_1 v_1 + m_2 v_2 = m_1 v_1' + m_2 v_2'
+$$
+
+Energieerhaltung:
+$$
+\tfrac{1}{2} m_1 v_1^2 + \tfrac{1}{2} m_2 v_2^2 = \tfrac{1}{2} m_1 {v_1'}^2 + \tfrac{1}{2} m_2 {v_2'}^2
+$$
+
+Elastischer Stoß in 1D – Differenzgeschwindigkeit:
+$$
+v_1 - v_2 = -(v_1' - v_2')
+$$
+
+Lösung für die Endgeschwindigkeiten:
+$$
+v_1' = \frac{(m_1 - m_2)v_1 + 2 m_2 v_2}{m_1 + m_2}
+$$
+$$
+v_2' = \frac{(m_2 - m_1)v_2 + 2 m_1 v_1}{m_1 + m_2}
+$$",9906e0fa-12da-45cc-8778-4fa96b7cf7a6,true
+9f99fc6d-5cb5-4a33-89a2-f0c5b7a3f64f,b81d83c5-0db0-4ba6-901d-fc61e8317438,"- Der Gesamtimpuls vor dem Stoß ist $p_{ges,vor} = m \cdot v - M \cdot V$.
+- Der Gesamtimpuls nach dem Stoß bleibt gleich: $p_{ges,nach} = p_{ges,vor}$.
+- Der Schwerpunkt ändert seine Geschwindigkeit, wenn $m \neq M$ und $v \neq V$.
+- Wenn $m = M$ und $v = V$, bleibt der Schwerpunkt in Ruhe.",9f99fc6d-5cb5-4a33-89a2-f0c5b7a3f64f,true
+e24a0eeb-1421-4175-a093-63fb9e89d637,dc706a2f-df47-4bfa-9b13-df85d177cac6,"- Der Gesamtimpuls vor dem Stoß ist $p_{ges,vor} = m_1 \cdot v_1 - m_2 \cdot v_2$.
+- Der Gesamtimpuls nach dem Stoß bleibt gleich: $p_{ges,nach} = p_{ges,vor}$.
+- Der Schwerpunkt ändert seine Geschwindigkeit, wenn $m_1 \neq m_2$ und $v_1 \neq v_2$.
+- Wenn $m_1 = m_2$ und $v_1 = v_2$, bleibt der Schwerpunkt in Ruhe.",e24a0eeb-1421-4175-a093-63fb9e89d637,true
+da9995a9-9a16-400f-849f-98f6c9efd1c2,9a37b46a-7b5d-4116-851d-d07bf104c44b,"- Gleichung: $m_1 v_1 + m_2 \cdot 0 = (m_1 + m_2) v$
+- Geschwindigkeit $v$: $v = \frac{m_1 v_1}{m_1 + m_2}$",da9995a9-9a16-400f-849f-98f6c9efd1c2,true
+48a0462d-7f17-4822-9994-abe080f15e23,9b8ffa70-1d4d-44d6-b4b3-10077ad4c2a3,"- Gleichung: $m_1 v_1 + m_2 \cdot 0 = (m_1 + m_2) v$
+- Geschwindigkeit $v$: $v = \frac{m_1 v_1}{m_1 + m_2}$",48a0462d-7f17-4822-9994-abe080f15e23,true
+10367fda-4f01-4306-8f19-048aaa47c75e,67a5f21f-e269-4814-aaca-e294ebaefb86,"- Gleichung: $m_1 v_1 + m_2 \cdot 0 = (m_1 + m_2) v$
+- Geschwindigkeit $v$: $v = \frac{m_1 v_1}{m_1 + m_2}$",10367fda-4f01-4306-8f19-048aaa47c75e,true
+c09b5b57-46c1-44cf-b6e4-7b8c00ff3aa4,32f7330e-cfb7-40fa-8e4a-2e3d289e3261,"- Gleichung: $m_1 v_1 + m_2 \cdot 0 = (m_1 + m_2) v$
+- Geschwindigkeit $v$: $v = \frac{m_1 v_1}{m_1 + m_2}$",c09b5b57-46c1-44cf-b6e4-7b8c00ff3aa4,true
+6df77ee8-c0a4-43f6-a2bc-0515209fe355,9be61d45-e1ca-4bf0-b1c5-cc29424f5629,"- Gleichung: $m_1 v_1 + m_2 \cdot 0 = (m_1 + m_2) v$
+- Geschwindigkeit $v$: $v = \frac{m_1 v_1}{m_1 + m_2} = \frac{800\, \text{kg} \cdot 11.1\, \text{m/s}}{800\, \text{kg} + 1800\, \text{kg}}$",6df77ee8-c0a4-43f6-a2bc-0515209fe355,true
+d07c9342-3dcd-4f97-8f8d-98629235476e,19863cb3-882a-4815-817b-b3d6c5d8a9f8,"- Gleichung: $m_1 v_1 + m_2 \cdot 0 = (m_1 + m_2) v$
+- Geschwindigkeit $v$: $v = \frac{m_1 v_1}{m_1 + m_2} = \frac{800\, \text{kg} \cdot 11.1\, \text{m/s}}{800\, \text{kg} + 1800\, \text{kg}} = $",d07c9342-3dcd-4f97-8f8d-98629235476e,true
+c0a36588-f021-4cd3-b09d-763681c7167f,ad8770bd-db83-4975-8922-71177d94dabf,"- Gleichung: $m_1 v_1 + m_2 \cdot 0 = (m_1 + m_2) v$
+- Geschwindigkeit $v$: $v = \frac{m_1 v_1}{m_1 + m_2} = \frac{800\, \text{kg} \cdot 11.1\, \text{m/s}}{800\, \text{kg} + 1800\, \text{kg}} = 3.42\, \text{m/s}}$",c0a36588-f021-4cd3-b09d-763681c7167f,true
+b2b59f73-2793-4f7d-ab4e-85c2ecc48e06,0ebd5539-96c6-4c40-8d84-e4b893b93d10,"- Gleichung: $m_1 v_1 + m_2 \cdot 0 = (m_1 + m_2) v$
+- Geschwindigkeit $v$: $v = \frac{m_1 v_1}{m_1 + m_2} = \frac{800\, \text{kg} \cdot 11.1\, \text{m/s}}{800\, \text{kg} + 1800\, \text{kg}} = 3.42\, \text{m/s}$",b2b59f73-2793-4f7d-ab4e-85c2ecc48e06,true
+b82b571a-181b-46f7-94e1-3b5e85db8a35,ca9c0d20-1e4d-4d8f-a574-051814f8bd14,"- Gleichung: $m_1 v_1 + m_2 \cdot 0 = (m_1 + m_2) v$
+- Geschwindigkeit $v$: $v = \frac{m_1 v_1}{m_1 + m_2} = \frac{800\, \text{kg} \cdot 11.1\, \text{m/s}}{800\, \text{kg} + 1800\, \text{kg}} = 3.4\, \text{m/s}$",b82b571a-181b-46f7-94e1-3b5e85db8a35,true
+a4de5a7e-2c82-49ff-a37d-19a4499595c7,6e94d86c-517b-4973-96bf-6be1aadcace0,Linearimpuls (Impuls),a4de5a7e-2c82-49ff-a37d-19a4499595c7,true
+a4de5a7e-2c82-49ff-a37d-19a4499595c7,10ac474a-01e6-4349-aa3d-26bb0bba79e8,Gesamte kinetische Energie,a4de5a7e-2c82-49ff-a37d-19a4499595c7,true
+a4de5a7e-2c82-49ff-a37d-19a4499595c7,9d3bd3bc-9e85-48f3-b9cc-ce0cadf30086,Einzelne Geschwindigkeiten,a4de5a7e-2c82-49ff-a37d-19a4499595c7,false
+a4de5a7e-2c82-49ff-a37d-19a4499595c7,f4993998-78e6-4cfe-802a-a36c594f12dd,Einzelne kinetische Energien,a4de5a7e-2c82-49ff-a37d-19a4499595c7,false
+1841779a-4a73-410d-a695-29ed55894f3d,e60e0831-e64a-4086-ad16-edf079dcfaf6,"- Symmetrie: Kugelsymmetrie ⇒ $\vec g=g(r)\,\hat r$ (radial | zentral); nur $r$-Abhängigkeit.
+- Gauß-Fläche: Kugel $S_r$ ums Zentrum (Gaussian surface | Integrationsfläche); $\vec n=\hat r$; $|\vec g|$ konstant.
+- Annahmen: Newtonsche Gravitation; $\nabla\cdot\vec g=-4\pi G\rho$ (Gauß | Poisson); statisch.
+- Fluss: $\oint_{S_r}\vec g\cdot d\vec S=g(r)\,4\pi r^2=-4\pi G\,M_{\text{enc}}(r)$.
+- Außen: $M_{\text{enc}}=M\Rightarrow \vec g(r)=-\dfrac{GM}{r^2}\hat r$; für beide identisch.",1841779a-4a73-410d-a695-29ed55894f3d,true
+4c05ce55-946e-4747-9859-1c7e46afc8bf,f6486fb0-0303-48f7-a4ba-9a31eb0fba06,"- Neurons transmit signals in a specific direction, from dendrites to axons.
+- Functional asymmetry: dendrites receive inputs, axons send outputs.
+- Axon initial segment (AIS) is crucial for action potential initiation.
+- Polarization ensures efficient communication in the neural network.",4c05ce55-946e-4747-9859-1c7e46afc8bf,true
+2f9a0ba6-1a38-47bc-8c3c-7aa322192859,bcfacc6f-6cc8-4d35-b075-e853c2a007c9,"- Connectional specificity means neurons form precise (non-random) connections.
+- Each neuron connects with specific target neurons, not randomly.
+- This specificity ensures accurate signal transmission.
+- Terminal synapses and en passant synapses illustrate different connection roles.
+- Supports complex functions by creating organized neural networks.",2f9a0ba6-1a38-47bc-8c3c-7aa322192859,true
+ac473a3b-213b-4f0b-92d0-50ee73659fbf,21c74588-15d8-4640-a850-284baffa89e1,"- Yes, they were controversial.
+- The neuron doctrine challenged the previous reticular theory (neurons as a continuous network).
+- Dynamic polarization contradicted ideas of bidirectional signal flow.
+- Connectional specificity opposed the view of random neuronal connections.
+- These principles redefined understanding of brain function and neural communication.",ac473a3b-213b-4f0b-92d0-50ee73659fbf,true
+df6adf9e-1e01-48fa-9e8e-930bbd5c1530,3fd1fbbe-8228-45a2-8ad2-7fcd70965c27,"- Neurons are individual, distinct cells.
+- Serve as the basic unit of signal processing in the nervous system.
+- Each neuron is a separate entity that processes and transmits information.
+- Neurons are connected through specific, non-random synaptic connections.",df6adf9e-1e01-48fa-9e8e-930bbd5c1530,true
+8dbdb47e-fd4e-45f9-ad88-9bc89b33c229,240413d5-29d3-4787-9ee7-d522af6a908c,Neurons are non-polarized cells that convey signals in multiple directions.,8dbdb47e-fd4e-45f9-ad88-9bc89b33c229,true
+8dbdb47e-fd4e-45f9-ad88-9bc89b33c229,3ac067a4-dbe1-4005-bdab-24fae8b0c491,Neurons are non-randomly connected into networks of cells that pass signals between each other.,8dbdb47e-fd4e-45f9-ad88-9bc89b33c229,false
+8dbdb47e-fd4e-45f9-ad88-9bc89b33c229,7d334723-767c-419a-ae63-c5b8be52ab07,Neurons are individual cells and serve as the essential cellular unit of signal processing.,8dbdb47e-fd4e-45f9-ad88-9bc89b33c229,false
+8dbdb47e-fd4e-45f9-ad88-9bc89b33c229,faebfe12-8731-4ad8-8c05-b4bec5c0bdab,Neurons convey signals in a defined direction.,8dbdb47e-fd4e-45f9-ad88-9bc89b33c229,false
+430a1484-6b0a-40ec-adc1-5355ebabd515,8cde85a7-d2a2-4c49-a4f0-3ce3fabfe30f,Neurons are individual cells and serve as the essential cellular unit of signal processing.,430a1484-6b0a-40ec-adc1-5355ebabd515,true
+430a1484-6b0a-40ec-adc1-5355ebabd515,0fdd4cd0-d19a-481f-acfe-4ed3182c8afa,Neurons are polarized cells that convey signals in a defined direction.,430a1484-6b0a-40ec-adc1-5355ebabd515,true
+430a1484-6b0a-40ec-adc1-5355ebabd515,6eacf07d-34bc-4b97-ae51-b2d74b1fb460,Neurons are non-randomly connected into networks of cells that pass signals between each other.,430a1484-6b0a-40ec-adc1-5355ebabd515,true
+430a1484-6b0a-40ec-adc1-5355ebabd515,7ee1036f-fd2c-4887-8fa5-95ee23e5550a,Neurons communicate primarily through electrical synapses.,430a1484-6b0a-40ec-adc1-5355ebabd515,false
+430a1484-6b0a-40ec-adc1-5355ebabd515,ea09f83f-8bf4-4b5f-8199-d6e958b4a944,Neurons in a network are randomly connected to optimize signal processing.,430a1484-6b0a-40ec-adc1-5355ebabd515,false
+430a1484-6b0a-40ec-adc1-5355ebabd515,f126c318-2802-44fc-ba1d-66422a471b88,Neurons are uniform in structure and function across different brain regions.,430a1484-6b0a-40ec-adc1-5355ebabd515,false
+d79abbec-5e91-4f62-87a9-59ce54eb321b,1c7405f0-6f63-4c06-9afc-3e25954016b0,Santiago Ramón y Cajal,d79abbec-5e91-4f62-87a9-59ce54eb321b,true
+d79abbec-5e91-4f62-87a9-59ce54eb321b,7c50fab9-510f-4e19-b4a6-d17f5e464320,Camillo Golgi,d79abbec-5e91-4f62-87a9-59ce54eb321b,false
+d79abbec-5e91-4f62-87a9-59ce54eb321b,8b18536c-5ed5-485f-938f-3d963ffed6a4,Charles Sherrington,d79abbec-5e91-4f62-87a9-59ce54eb321b,false
+d79abbec-5e91-4f62-87a9-59ce54eb321b,907f5302-33fd-4a2e-a890-31e661a3a2a2,Hodgkin and Huxley,d79abbec-5e91-4f62-87a9-59ce54eb321b,false
+8bd4c755-fb4c-4632-98b5-5b66725a8329,976e09e5-9f15-4d34-9b99-777acbea2cce,They challenged the prevailing idea that the nervous system was a continuous network rather than composed of individual cells.,8bd4c755-fb4c-4632-98b5-5b66725a8329,true
+8bd4c755-fb4c-4632-98b5-5b66725a8329,63c1cfa5-633c-4d56-ba1c-efaff5cb3d51,The concept of connectional specificity contradicted the belief that neuronal connections were random and diffuse.,8bd4c755-fb4c-4632-98b5-5b66725a8329,true
+8bd4c755-fb4c-4632-98b5-5b66725a8329,bc0fcb68-5299-42a6-8b63-e90009e9a687,"They proposed that neurons could regenerate, which opposed the accepted view that neurons were static.",8bd4c755-fb4c-4632-98b5-5b66725a8329,false
+8bd4c755-fb4c-4632-98b5-5b66725a8329,bbe6f86a-1f20-4288-96df-b7c2d7d61537,"The principles suggested that neurons could operate independently of synaptic inputs, which was against the established understanding.",8bd4c755-fb4c-4632-98b5-5b66725a8329,false
+8bd4c755-fb4c-4632-98b5-5b66725a8329,ced9141d-70b1-4cbf-9e61-5a46424792d1,"They argued that neurons could transmit signals bi-directionally, conflicting with the known unidirectional nature of signal transmission.",8bd4c755-fb4c-4632-98b5-5b66725a8329,false
+6edcf53d-dbca-47d6-86a3-cbcad7118377,cb97a711-01e9-48d0-bf98-803c1a73b1c9,"Bohrpfähle (Ø 0,8–1,2 m) durch den Schluff, Pfahlspitzen ≥2 m im dichten Sand; Lastabtrag überwiegend über Spitzendruck im Sand",6edcf53d-dbca-47d6-86a3-cbcad7118377,true
+6edcf53d-dbca-47d6-86a3-cbcad7118377,b81618eb-11cf-4942-bdad-b5fb43f65045,"Plattenfundament auf 2,5–3,0 m Tiefe mit Vorbelastung/Wickeldrainagen; Lastabtrag im Schluff, Setzungen reduziert",6edcf53d-dbca-47d6-86a3-cbcad7118377,false
+6edcf53d-dbca-47d6-86a3-cbcad7118377,2959360a-a74c-40eb-b529-e01bfd16397c,"Rüttelstopfsäulen (Baugrundverbesserung) bis ca. 7 m mit Bodenplatte; Lastabtrag primär über Verbund im verbesserten Schluff, nicht über Endauflager im Sand",6edcf53d-dbca-47d6-86a3-cbcad7118377,false
+6edcf53d-dbca-47d6-86a3-cbcad7118377,2482920f-cf8c-4a96-9f83-a925142edb6e,"Mikropfähle (Ø 150–300 mm) im Schluff verpresst, Enden oberhalb 6 m; Lastabtrag nur über Mantelreibung im Schluff",6edcf53d-dbca-47d6-86a3-cbcad7118377,false
+80cc3cc4-2e36-427f-9f9a-37be4b12d74a,9fc5092d-b213-490e-b83a-4c3a7694dfe0,"Die Unterscheidung Flach- vs. Tiefgründung bezieht sich auf die Tiefe der Lastübertragung; ""Flächengründung"" beschreibt die flächige Kontaktfläche und kann sowohl flach als auch tief auftreten (z. B. Brunnen/Pfeiler).",80cc3cc4-2e36-427f-9f9a-37be4b12d74a,true
+80cc3cc4-2e36-427f-9f9a-37be4b12d74a,4c2a14c9-cde4-4d57-b3c4-613b89f77b57,Pfahlgründungen sind typischerweise Tiefgründungen mit punktförmiger Lastabtragung; an der Pfahlsohle wird idealisiert vorwiegend die zentrische Normalkraft übertragen.,80cc3cc4-2e36-427f-9f9a-37be4b12d74a,true
+80cc3cc4-2e36-427f-9f9a-37be4b12d74a,215260bb-b5ef-4517-8210-006eeaa4e399,"Flächengründungen sind immer Flachgründungen, weil die Sohlfläche horizontal ist und flächige Sohldrücke auftreten.",80cc3cc4-2e36-427f-9f9a-37be4b12d74a,false
+80cc3cc4-2e36-427f-9f9a-37be4b12d74a,82db4134-c819-44fe-aad6-200e2bfc09d2,Tiefgründungen werden ausschließlich mit Pfählen hergestellt; Brunnen- oder Pfeilergründungen gehören daher zur Flachgründung.,80cc3cc4-2e36-427f-9f9a-37be4b12d74a,false
+80cc3cc4-2e36-427f-9f9a-37be4b12d74a,926c5c7c-ed74-4279-a077-948c80818b7e,"Die Frosttiefe (ca. 0,8 m) ist das klare Trennkriterium: Gründungen tiefer als 0,8 m gelten automatisch als Tiefgründungen.",80cc3cc4-2e36-427f-9f9a-37be4b12d74a,false
+80cc3cc4-2e36-427f-9f9a-37be4b12d74a,c0be9e8d-cbf4-46d0-8962-2cc61f8c5431,Bei Flachgründungen werden nur vertikale Sohldrücke übertragen; tangentiale Kräfte sind erst bei Tiefgründungen relevant.,80cc3cc4-2e36-427f-9f9a-37be4b12d74a,false
+e295361e-6b54-42dc-804d-a355d5ebb905,abe042e9-e38f-4b43-9e55-56a99a4f1fe9,Die Mantelspannung t(z) bzw. Spitzenspannung q(z) hängt jeweils nur von der lokalen Relativverschiebung (bzw. Spitzensetzung) ab; es gibt keine Fernkopplung entlang des Pfahls (Winkler-Annahme).,e295361e-6b54-42dc-804d-a355d5ebb905,true
+e295361e-6b54-42dc-804d-a355d5ebb905,6a810eac-6509-41f5-a7d5-747a36292532,"Der Pfahl wird als axial beanspruchter, linear-elastischer Stab mit konstantem EA modelliert; berücksichtigt werden nur axiale Verformungen (keine Biegung/Kopplung).",e295361e-6b54-42dc-804d-a355d5ebb905,true
+e295361e-6b54-42dc-804d-a355d5ebb905,78a73775-1fc4-4f9e-9a5f-0a1db360643d,"Im GZG (SLS) wird der Boden als linear-elastisch angesetzt, sodass t–z- und q–z-Beziehungen linear sind und direkt aus E und ν ohne Kalibrierung abgeleitet werden können.",e295361e-6b54-42dc-804d-a355d5ebb905,false
+e295361e-6b54-42dc-804d-a355d5ebb905,7dd04c35-8233-48ba-ae60-b7fdcabc6937,Mantel- und Spitzentraganteil folgen derselben z-Abhängigkeit und können mit einer einzigen einheitlichen t/q–z-Kurve beschrieben werden.,e295361e-6b54-42dc-804d-a355d5ebb905,false
+e295361e-6b54-42dc-804d-a355d5ebb905,fc349915-d680-4ba7-a8b1-54095056266c,Die Bodenreaktion entlang des Pfahls ist kontinuierlich gekoppelt; die Reaktion an einem Ort hängt wesentlich vom Verformungszustand des gesamten Pfahls ab.,e295361e-6b54-42dc-804d-a355d5ebb905,false
+f6917063-e2e8-46c3-a9a7-0b10dd14d508,abad4157-7227-484c-ad57-68883a6c5ddd,Erhöhte effektive Vertikalspannungen infolge der 2 m Sandauflast ansetzen und daraus die negative Mantelreibung (β/α‑Methode) nach Konsolidation bestimmen.,f6917063-e2e8-46c3-a9a7-0b10dd14d508,true
+f6917063-e2e8-46c3-a9a7-0b10dd14d508,cb0ce62f-e3f9-4150-916c-e97e032c486e,Neutralebene neu festlegen (tiefer liegend) und die daraus resultierende zusätzliche Drucknormalkraft (Dragload) im Pfahl mitbemessen.,f6917063-e2e8-46c3-a9a7-0b10dd14d508,true
+f6917063-e2e8-46c3-a9a7-0b10dd14d508,fa50877c-4176-4ed8-a186-850c21851eaa,Oberhalb der Neutralebene keine positive Mantelreibung als Widerstand anrechnen; Basis- und unterer Schaftwiderstand müssen Bauwerkslast plus Dragload tragen.,f6917063-e2e8-46c3-a9a7-0b10dd14d508,true
+f6917063-e2e8-46c3-a9a7-0b10dd14d508,7543314c-2109-40c8-ade1-4e88bf6e7686,"Negative Mantelreibung als zusätzlichen Tragwiderstand ansetzen, der die Pfahlbasis entlastet.",f6917063-e2e8-46c3-a9a7-0b10dd14d508,false
+f6917063-e2e8-46c3-a9a7-0b10dd14d508,9335bc39-8077-4fd2-9539-44d894358876,Bemessung der Mantelreibung ausschließlich mit undrainierten Kurzzeitparametern ($c_u$); effektive Spannungen sind für Downdrag zweitrangig.,f6917063-e2e8-46c3-a9a7-0b10dd14d508,false
+f6917063-e2e8-46c3-a9a7-0b10dd14d508,18e19980-bf44-458f-a3b7-245a577feaa5,Dauerhaften Porenwasserdruckanstieg im Ton um die Höhe der Sandaufschüttung ansetzen; die negative Mantelreibung nimmt dadurch ab.,f6917063-e2e8-46c3-a9a7-0b10dd14d508,false
+8c886cd3-f23b-4826-acc6-623223fa5cad,edc5e06f-bc3c-4e85-be99-0a578a89e927,"Der Gruppenwirkungsgrad ist bei s ≈ 2,5·D < 1; die Gesamttragfähigkeit liegt unter der Summe der Einzelpfähle (überlappende Scher- und Spannungsfelder).",8c886cd3-f23b-4826-acc6-623223fa5cad,true
+8c886cd3-f23b-4826-acc6-623223fa5cad,0d14b4de-6f8f-40eb-ba0f-9c287d09b751,Die Setzungen der 3×3‑Gruppe sind größer als bei Einzelpfählen mit gleicher mittlerer Pfahllast (gemeinsame Beanspruchung/Blockverhalten erhöht Verformungen).,8c886cd3-f23b-4826-acc6-623223fa5cad,true
+8c886cd3-f23b-4826-acc6-623223fa5cad,fbb07fd6-dfc2-43cf-a07a-36903d4cc5cf,"Bei s ≈ 2,5·D verhalten sich die Pfähle praktisch unabhängig; die Tragfähigkeit addiert sich ohne Abminderung.",8c886cd3-f23b-4826-acc6-623223fa5cad,false
+8c886cd3-f23b-4826-acc6-623223fa5cad,8a865c06-a4eb-4707-afae-01ccba1130ac,"Gruppenwirkung führt eher zu kleineren Setzungen, weil sich die Pfähle gegenseitig „abstützen“; die Tragfähigkeit bleibt nahezu unverändert.",8c886cd3-f23b-4826-acc6-623223fa5cad,false
+8c886cd3-f23b-4826-acc6-623223fa5cad,bd940e85-6555-4733-848d-320d63d359ac,"Durch Blockwirkung übersteigt die Gesamtkapazität typischerweise die Summe der Einzelpfähle, besonders bei s ≈ 2,5·D.",8c886cd3-f23b-4826-acc6-623223fa5cad,false
+a84da7ad-861a-422d-97d9-6329b72403e5,0197258a-c2ea-49fc-a2b3-02f622e209b4,Ramm­pfähle in Sand verdichten das Umfeld und erhöhen die seitlichen effektiven Spannungen; dadurch sind Schaft- und oft auch Spitzenwiderstand höher als bei vergleichbaren Bohrpfählen.,a84da7ad-861a-422d-97d9-6329b72403e5,true
+a84da7ad-861a-422d-97d9-6329b72403e5,bf0225d6-ff34-4869-b535-1d481e868868,"Beim Rammen in weichem Ton kommt es zu Strukturzerstörung und Überschussporenwasserdruck; unmittelbar nach dem Einbau ist der Schaftwiderstand gering, steigt aber nach Konsolidation deutlich an (Setup-Effekt).",a84da7ad-861a-422d-97d9-6329b72403e5,true
+a84da7ad-861a-422d-97d9-6329b72403e5,3824d5ee-9949-4bd3-9d2c-c56a1741b1b3,"Bohrpfähle in Sand erzielen in der Regel den höheren Schaftwiderstand, weil das Bohren die horizontalen Spannungen an der Bohrlochwand erhöht und den Sand verblockt.",a84da7ad-861a-422d-97d9-6329b72403e5,false
+a84da7ad-861a-422d-97d9-6329b72403e5,32cba5d0-d2be-481e-addd-650cf7cd78ee,"In weichem Ton liefern Bohrpfähle typischerweise den höheren Schaftwiderstand, da sie den Boden kaum stören; der Widerstand nimmt mit der Zeit eher ab, weil keine Setup-Effekte auftreten.",a84da7ad-861a-422d-97d9-6329b72403e5,false
+a84da7ad-861a-422d-97d9-6329b72403e5,68b10eb5-7554-44ee-b621-f7ea2126cebd,Der Spitzenwiderstand ist weitgehend unabhängig von der Einbauart; maßgebend ist nur die Scherfestigkeit direkt am Pfahlfuß.,a84da7ad-861a-422d-97d9-6329b72403e5,false
+62afaff6-c5cc-4b49-b39e-a0891b7a9151,434c3e06-eacb-47b4-933a-0d949b77d045,"Gebrauchstauglichkeitsgrenzzustand (SLS): Verformungen (Setzungen, Differenzsetzungen, Rotationen) infolge geringer Steifigkeit und langfristiger Konsolidation des mächtigen Tons; in der Praxis sind die zulässigen Verformungen meist bemessungsbestimmend.",62afaff6-c5cc-4b49-b39e-a0891b7a9151,true
+62afaff6-c5cc-4b49-b39e-a0891b7a9151,e97383e6-36b9-4efa-9c3a-33f412227e74,Ultimer Grenzzustand GEO (Tragwiderstand): Versagen der Pfahlspitzen im Endwiderstand; die geringe Festigkeit des Tons macht den Spitzendruck maßgebend.,62afaff6-c5cc-4b49-b39e-a0891b7a9151,false
+62afaff6-c5cc-4b49-b39e-a0891b7a9151,11dc10cd-5dee-4144-a769-80f1b35e2e61,Ultimer Grenzzustand STR: Querschnittsversagen der Pfähle infolge Biegebeanspruchung aus Wind; die Baugrundnachgiebigkeit spielt hierfür nur eine untergeordnete Rolle.,62afaff6-c5cc-4b49-b39e-a0891b7a9151,false
+62afaff6-c5cc-4b49-b39e-a0891b7a9151,b954a05a-d32d-41f9-b3c7-89f7becdcbe7,Hydraulischer Grenzzustand (UPL/HYD): Auftrieb bzw. hydraulischer Grundbruch unter dem Bauwerk; der Wasserdruck in den Tonlagen steuert die Bemessung.,62afaff6-c5cc-4b49-b39e-a0891b7a9151,false
+62afaff6-c5cc-4b49-b39e-a0891b7a9151,8c2a5499-529a-4c8d-87f5-81ed4b83af7b,"Grenzzustand der Gesamtstabilität der Pfahlgruppe: Kippen/Rutschung des Hochhauses als Starrkörper, da die Scherfestigkeit des Tons sehr klein ist.",62afaff6-c5cc-4b49-b39e-a0891b7a9151,false
+7924e9c9-d6a7-4ec4-b451-f258fedfe7a5,f9bf4861-de6d-43fb-84ea-efaaff5c0e2d,Innerer Reibungswinkel φ des Sandes (wirkt über N_q),7924e9c9-d6a7-4ec4-b451-f258fedfe7a5,true
+7924e9c9-d6a7-4ec4-b451-f258fedfe7a5,8e6e6818-7206-4ca4-b098-2bfb9fa9fe3d,Einbindetiefe bzw. Überlagerungsdruck am Pfahlfuß (bestimmt σ'_v),7924e9c9-d6a7-4ec4-b451-f258fedfe7a5,true
+7924e9c9-d6a7-4ec4-b451-f258fedfe7a5,e1221ec0-10dc-463f-8b8d-6f130f09b6df,Grundwasserlage bzw. effektive Wichte γ' des Sandes (bestimmt σ'_v),7924e9c9-d6a7-4ec4-b451-f258fedfe7a5,true
+7924e9c9-d6a7-4ec4-b451-f258fedfe7a5,18844939-eb59-414c-bfb8-629c88de5d21,Kohäsion c des Sandes (direkter Beitrag in q_b),7924e9c9-d6a7-4ec4-b451-f258fedfe7a5,false
+7924e9c9-d6a7-4ec4-b451-f258fedfe7a5,0f1480ef-2936-46aa-bfcf-8b97225c913d,Pfahldurchmesser D als eigener Faktor in q_b,7924e9c9-d6a7-4ec4-b451-f258fedfe7a5,false
+7924e9c9-d6a7-4ec4-b451-f258fedfe7a5,8a685197-c800-4642-8523-651d88006316,Mantelreibung τ_s entlang des Pfahls,7924e9c9-d6a7-4ec4-b451-f258fedfe7a5,false
+fdda9a0c-dd98-43c4-b9a3-8bb12466d6c7,03f68dc3-8fe1-46d3-b23e-4da1c0950663,Pfahldurchmesser (und damit EI) erhöhen; der steifere Pfahl senkt die Kopfverschiebung im p–y‑System spürbar.,fdda9a0c-dd98-43c4-b9a3-8bb12466d6c7,true
+fdda9a0c-dd98-43c4-b9a3-8bb12466d6c7,421f0911-223d-417e-aee7-fd82c8bcb5cd,"Oberflächennahen Boden gezielt versteifen (z.B. Bodenaustausch/Injektion), um die Anfangssteifigkeit der p–y‑Kurven zu erhöhen.",fdda9a0c-dd98-43c4-b9a3-8bb12466d6c7,true
+fdda9a0c-dd98-43c4-b9a3-8bb12466d6c7,db3708a8-b9fa-49cf-b350-dbbb12e61901,"Betonfestigkeitsklasse erhöhen, um den Elastizitätsmodul deutlich zu steigern und die Kopfverschiebung wesentlich zu reduzieren.",fdda9a0c-dd98-43c4-b9a3-8bb12466d6c7,false
+fdda9a0c-dd98-43c4-b9a3-8bb12466d6c7,f1eb1c83-cb3a-4f73-a3d6-a24eb3baa3a4,"Pfahlkopf gelenkig ausbilden, damit geringere Momente auch zu kleineren Kopfverschiebungen führen.",fdda9a0c-dd98-43c4-b9a3-8bb12466d6c7,false
+fdda9a0c-dd98-43c4-b9a3-8bb12466d6c7,b1588a42-305f-4595-a79e-049f076b2673,Pfahllänge weit über die wirksame Einbindetiefe hinaus vergrößern; die Kopfverschiebung nimmt dadurch nahezu linear ab.,fdda9a0c-dd98-43c4-b9a3-8bb12466d6c7,false
+7d537621-7c1a-4de1-9162-58ebed0cb001,286b2fa6-7b40-46d2-8ec3-03934066f0fa,"- Lichtgeschwindigkeit ($c$) ist exakt definiert als 299.792.458 m/s.
+- 1 Meter basiert auf der Strecke, die Licht in 1/299.792.458 Sekunden im Vakuum zurücklegt.
+- Konstante Naturgröße, weltweit reproduzierbar und unabhängig von materiellen Maßstäben.
+- Hohe Präzision und Stabilität, ideal für Längenmessung.",7d537621-7c1a-4de1-9162-58ebed0cb001,true
+4786e6a4-4b82-41c0-b6a1-be7dad199824,0120374a-882b-4c8a-a3a8-3695172ed24a,"- Ungenaue Kalibrierung führt zu systematischen Fehlern.
+- Systematische Fehler sind konstant und vorhersehbar.
+- Statistische Fehler entstehen durch zufällige Abweichungen.
+- Statistische Fehler sind variabel und zufällig.
+- Beide Fehlerarten beeinflussen die Messgenauigkeit negativ.",4786e6a4-4b82-41c0-b6a1-be7dad199824,true
+35c587d7-f825-4b1f-92dd-6a19de95b351,32498670-41b1-4a1c-b402-a0a9b66ae340,Systematischer Fehler,35c587d7-f825-4b1f-92dd-6a19de95b351,true
+35c587d7-f825-4b1f-92dd-6a19de95b351,6e1c3420-8362-4514-9a0b-7e55db08c0cb,Statistischer Fehler,35c587d7-f825-4b1f-92dd-6a19de95b351,false
+35c587d7-f825-4b1f-92dd-6a19de95b351,5b7c413f-5c87-4947-a1aa-70e86467459c,Instrumenteller Fehler,35c587d7-f825-4b1f-92dd-6a19de95b351,false
+35c587d7-f825-4b1f-92dd-6a19de95b351,4c5e9729-2c73-46db-9fe3-948a958c2d4c,Persönlicher Fehler,35c587d7-f825-4b1f-92dd-6a19de95b351,false
+2cb7ab7e-7999-4547-98e2-81eb3e563cc9,9c5f8b61-8af9-49e6-95a8-17f7e9256df1,Kilogramm,2cb7ab7e-7999-4547-98e2-81eb3e563cc9,true
+2cb7ab7e-7999-4547-98e2-81eb3e563cc9,5142282f-ede5-4e45-b102-6a649f47bb66,Sekunde,2cb7ab7e-7999-4547-98e2-81eb3e563cc9,false
+2cb7ab7e-7999-4547-98e2-81eb3e563cc9,abc1379e-8f8d-42c4-88f6-bd9ce92f92b1,Meter,2cb7ab7e-7999-4547-98e2-81eb3e563cc9,false
+2cb7ab7e-7999-4547-98e2-81eb3e563cc9,fef2b772-222b-48b3-b6ff-45f3ce7926fb,Ampere,2cb7ab7e-7999-4547-98e2-81eb3e563cc9,false
+5637b744-eb00-442d-9d5b-69462c71e653,de049fdb-6523-4bc8-9124-2ca7cbd3b450,Lichtstärke,5637b744-eb00-442d-9d5b-69462c71e653,true
+5637b744-eb00-442d-9d5b-69462c71e653,e98cb859-3747-4db5-a6db-012cf9d9c955,Lichtmenge,5637b744-eb00-442d-9d5b-69462c71e653,false
+5637b744-eb00-442d-9d5b-69462c71e653,ea5f5584-3228-4a3b-9c09-7a95cbd12c80,Leuchtkraft,5637b744-eb00-442d-9d5b-69462c71e653,false
+5637b744-eb00-442d-9d5b-69462c71e653,990f7b11-1353-4620-b485-f4da4f5411b9,Lichtintensität,5637b744-eb00-442d-9d5b-69462c71e653,false
+fe28e114-ea8f-49af-8780-33e0ebcf7498,73d07953-8fb1-44ff-8e9c-ef53cabc6677,"Ein Meter wird definiert als die Strecke, die Licht im Vakuum in $\frac{1}{299\,792\,458}$ Sekunden zurücklegt.",fe28e114-ea8f-49af-8780-33e0ebcf7498,true
+fe28e114-ea8f-49af-8780-33e0ebcf7498,5e4930f1-2368-4669-9a94-ede614017b6a,Ein Meter wird definiert als das Zehnmillionenfache der Entfernung vom Äquator zum Nordpol entlang eines Meridians.,fe28e114-ea8f-49af-8780-33e0ebcf7498,false
+fe28e114-ea8f-49af-8780-33e0ebcf7498,fac530d3-a7ac-40f5-9d92-1978df6b8dff,"Ein Meter wird definiert als die Länge des Weges, den Licht in einem Vakuum in $1/300\,000\,000$ Sekunden zurücklegt.",fe28e114-ea8f-49af-8780-33e0ebcf7498,false
+fe28e114-ea8f-49af-8780-33e0ebcf7498,f727337f-b5a6-4ebc-898e-4b872e235d7c,"Ein Meter wird definiert als die Länge eines bestimmten Platin-Iridium-Stabes, der bei der Pariser Meterkonvention festgelegt wurde.",fe28e114-ea8f-49af-8780-33e0ebcf7498,false
+0b0d7e33-0748-4b0f-8d70-1c8b02199aa9,41511703-7846-4610-9793-473c3b349fad,Thermische Ausdehnung von Metallteilen des Messgeräts,0b0d7e33-0748-4b0f-8d70-1c8b02199aa9,true
+0b0d7e33-0748-4b0f-8d70-1c8b02199aa9,aacac1ba-42d2-4b1f-898c-565784a5fb92,Fehlerhafte Kalibrierung des Messgeräts,0b0d7e33-0748-4b0f-8d70-1c8b02199aa9,true
+0b0d7e33-0748-4b0f-8d70-1c8b02199aa9,c3c0b449-f51a-4e67-8ed1-5c44eda64162,Mangelnde Messgenauigkeit durch abgenutzte Skala,0b0d7e33-0748-4b0f-8d70-1c8b02199aa9,false
+0b0d7e33-0748-4b0f-8d70-1c8b02199aa9,87d5b56a-e7c5-40a3-aaa3-427b5d5182d0,Fluktuationen in der Stromversorgung,0b0d7e33-0748-4b0f-8d70-1c8b02199aa9,false
+0b0d7e33-0748-4b0f-8d70-1c8b02199aa9,49c79f6d-9136-4633-8b0b-560ceeb62c5a,Reaktionszeit des Beobachters,0b0d7e33-0748-4b0f-8d70-1c8b02199aa9,false
+6283b2a5-2d45-4c34-8ca5-71a188d7dab4,daa20d92-521d-4672-9fe8-e6b289b4bf9c,"- Persönliche Fehler entstehen durch menschliche Faktoren wie Reaktionszeit oder Ablesefehler.
+- Techniken zur Minimierung: Mehrfachmessungen, Schulung der Experimentatoren, Verwendung von digitalen Messinstrumenten.
+- Statistische Analyse (z.B. Mittelwertbildung) hilft, zufällige Fehler zu reduzieren.
+- Systematische Überprüfung der Geräte (Kalibrierung) um systematische Fehler zu vermeiden.",6283b2a5-2d45-4c34-8ca5-71a188d7dab4,true
+cbd29ff9-676f-4bdc-86c5-e5dbf42f8be6,80b4bf30-376f-4fd1-80c9-0bb169b2a7e9,"- SI-Basiseinheiten sind durch Naturkonstanten festgelegt (z.B. Lichtgeschwindigkeit c, Planck-Konstante h).
+- Dies eliminiert den Einfluss von Referenzkörpern oder -bedingungen.
+- Reduzierung systematischer Fehler durch stabilere und universell gültige Definitionen.
+- Erhöht die Präzision und Vergleichbarkeit internationaler Messungen.",cbd29ff9-676f-4bdc-86c5-e5dbf42f8be6,true
+39c441b0-0cf5-4e24-9e3d-f00829e68da9,2916572a-b9db-4cc3-8216-0a9e645f9346,"Statistische Messfehler resultieren aus zufälligen Abweichungen, die bei Wiederholung der Messung variieren können.",39c441b0-0cf5-4e24-9e3d-f00829e68da9,true
+39c441b0-0cf5-4e24-9e3d-f00829e68da9,db501d60-8e05-4733-b598-9aa930d4c86c,Statistische Fehler können durch Wiederholung der Messung verringert werden.,39c441b0-0cf5-4e24-9e3d-f00829e68da9,true
+39c441b0-0cf5-4e24-9e3d-f00829e68da9,4f2982c9-602a-405f-9551-6ea47e663919,Statistische Messfehler sind konstant und vorhersehbar.,39c441b0-0cf5-4e24-9e3d-f00829e68da9,false
+39c441b0-0cf5-4e24-9e3d-f00829e68da9,6f7922dc-8186-4852-96a7-61eeff758368,Statistische Fehler entstehen ausschließlich durch fehlerhafte Kalibrierung.,39c441b0-0cf5-4e24-9e3d-f00829e68da9,false
+39c441b0-0cf5-4e24-9e3d-f00829e68da9,c0980657-a537-4358-a2a0-bae792cb0ece,Statistische Messfehler können durch Kontrolle und Verbesserung der Apparatur vollständig beseitigt werden.,39c441b0-0cf5-4e24-9e3d-f00829e68da9,false
+ef6680ba-a0f0-4604-8f4f-b0ce29d0ef4c,bd991fe7-11af-40a1-b823-cb7fd7eb9db4,Stoffmenge,ef6680ba-a0f0-4604-8f4f-b0ce29d0ef4c,true
+ef6680ba-a0f0-4604-8f4f-b0ce29d0ef4c,43d27467-8174-499c-844a-3f36b4d22fb8,Masse,ef6680ba-a0f0-4604-8f4f-b0ce29d0ef4c,false
+ef6680ba-a0f0-4604-8f4f-b0ce29d0ef4c,9263f167-089e-44d6-bba4-a2fe8906fcbf,Volumen,ef6680ba-a0f0-4604-8f4f-b0ce29d0ef4c,false
+ef6680ba-a0f0-4604-8f4f-b0ce29d0ef4c,bd1ddd5f-9119-43e6-90fc-884fbfaa9365,Dichte,ef6680ba-a0f0-4604-8f4f-b0ce29d0ef4c,false
+ef6680ba-a0f0-4604-8f4f-b0ce29d0ef4c,830135b6-be86-4ea7-a95c-6a9195fb65b2,Konzentration,ef6680ba-a0f0-4604-8f4f-b0ce29d0ef4c,false
+154ae94e-ae3d-4fe0-a0ec-879dee7fb0ae,39905292-bfdc-49b0-a7aa-129a35fb2210,Kalibrierung des Messgeräts,154ae94e-ae3d-4fe0-a0ec-879dee7fb0ae,true
+154ae94e-ae3d-4fe0-a0ec-879dee7fb0ae,42e1bbb4-620e-44c0-bd1e-040cd5e63a83,Vergleich mit einer Referenzmessung,154ae94e-ae3d-4fe0-a0ec-879dee7fb0ae,true
+154ae94e-ae3d-4fe0-a0ec-879dee7fb0ae,997e80bd-beab-4765-a355-583ffddd8ea2,Zufällige Wiederholungen der Messung,154ae94e-ae3d-4fe0-a0ec-879dee7fb0ae,false
+154ae94e-ae3d-4fe0-a0ec-879dee7fb0ae,1da9177b-6732-4c5c-a753-68f0789fd207,Verwendung des arithmetischen Mittelwerts,154ae94e-ae3d-4fe0-a0ec-879dee7fb0ae,false
+154ae94e-ae3d-4fe0-a0ec-879dee7fb0ae,30264a96-9edd-42df-ab3a-067d2344d6aa,Erhöhung der Anzahl der Messungen,154ae94e-ae3d-4fe0-a0ec-879dee7fb0ae,false
+f891e109-63b6-473f-b5fe-d4c346f0817a,07a8b748-87c7-4648-b19f-96897bfb42ac,Stoffmenge,f891e109-63b6-473f-b5fe-d4c346f0817a,true
+f891e109-63b6-473f-b5fe-d4c346f0817a,04c3f41e-fb18-46d3-bfd2-78117e34a80f,Dichte,f891e109-63b6-473f-b5fe-d4c346f0817a,false
+f891e109-63b6-473f-b5fe-d4c346f0817a,fa5491d1-c4e8-49a5-9321-1c7b6eaf59da,Konzentration,f891e109-63b6-473f-b5fe-d4c346f0817a,false
+5d871f6a-83da-433f-893e-f36835f5ae4c,3457c225-f13b-45d8-a7c7-b2bc8a6d83eb,"- Systematische Fehler: reproduzierbar, z.B. falsche Kalibrierung eines Thermometers.
+- Statistische Fehler: zufällig, z.B. Schwankungen in der Spannungsversorgung.
+- Systematische Fehler können durch Kalibrierung reduziert werden.
+- Statistische Fehler können durch Mittelwertbildung mehrerer Messungen verringert werden.",5d871f6a-83da-433f-893e-f36835f5ae4c,true
+3e82f911-b288-437f-b0cd-1a5e7ca49dcd,cd95a5f6-3575-4b9f-b341-380d7b0ee5f5,"- Systematische Fehler erkennen durch Vergleich mit bekannten Standards oder Kalibrierung.
+- Minimierung durch regelmäßige Kalibrierung der Geräte.
+- Anwendung von Korrekturfaktoren basierend auf bekannten Abweichungen.
+- Fehleranalyse durch statistische Methoden wie Regression zur Identifikation von Trends.",3e82f911-b288-437f-b0cd-1a5e7ca49dcd,true
+79172d5e-94e6-4acc-8d9a-615a935808dc,18c791af-3d0e-44a1-ab78-ab54138e3f51,"- Statistische Fehler sind unvermeidbar, da sie aus zufälligen Schwankungen (Fluktuationen) resultieren.
+- Wiederholungen reduzieren den Einfluss dieser Fehler, indem sie den Mittelwert (arithmetischen Durchschnitt) stabilisieren.
+- Der Mittelwert nähert sich dem wahren Wert an, wenn die Anzahl der Messungen steigt.",79172d5e-94e6-4acc-8d9a-615a935808dc,true
+d9735598-e1c6-4734-becc-879e9c2c76b2,198e3f84-7a0b-4ad3-ba01-ea90939804be,"- Zerlege die abgeleitete Einheit in ihre Basisgrößen (z.B. Energie: $J = kg \cdot m^2 \cdot s^{-2}$).
+- Stelle die Einheit mit den sieben SI-Basiseinheiten dar.
+- Konsistenz: Sicherstellung der Vergleichbarkeit und Nachvollziehbarkeit wissenschaftlicher Ergebnisse.
+- Einheitliche Basis für internationale Zusammenarbeit.",d9735598-e1c6-4734-becc-879e9c2c76b2,true
+5cf1b766-0268-49be-a332-d595e9438b24,b85bf947-569c-4fb2-8bc6-1a0fa8d3a865,Lichtstärke,5cf1b766-0268-49be-a332-d595e9438b24,true
+5cf1b766-0268-49be-a332-d595e9438b24,1f6bbcd7-9689-4d1b-9688-1c4860ba25c3,Lichtmenge,5cf1b766-0268-49be-a332-d595e9438b24,false
+5cf1b766-0268-49be-a332-d595e9438b24,7804d56a-42fd-473c-be4c-448c7855a557,Lichtintensität,5cf1b766-0268-49be-a332-d595e9438b24,false
+09266d42-51ae-41bb-9e84-0b7acadf3748,5fa1e59c-15bb-47a7-8cd1-9eb1c24a38f6,"Ein Meter wird definiert als die Strecke, die Licht im Vakuum in $\frac{1}{299\,792\,458}$ Sekunden zurücklegt.",09266d42-51ae-41bb-9e84-0b7acadf3748,true
+09266d42-51ae-41bb-9e84-0b7acadf3748,8b48b999-475b-4b69-a50e-93ba88101118,Ein Meter wird definiert als das Zehnmillionenfache der Entfernung vom Äquator zum Nordpol entlang eines Meridians.,09266d42-51ae-41bb-9e84-0b7acadf3748,false
+09266d42-51ae-41bb-9e84-0b7acadf3748,ce97c436-ddc8-4995-baeb-009773d7f567,"Ein Meter wird definiert als die Länge eines bestimmten Platin-Iridium-Stabes, der bei der Pariser Meterkonvention festgelegt wurde.",09266d42-51ae-41bb-9e84-0b7acadf3748,false
+443856c2-fbf2-47ce-bc39-af195f225c67,8841e062-f7ab-45d7-8a50-6afac71dfd16,Thermische Ausdehnung von Metallteilen des Messgeräts,443856c2-fbf2-47ce-bc39-af195f225c67,true
+443856c2-fbf2-47ce-bc39-af195f225c67,1b33dfb5-2a24-4ba7-b27b-e3a341b1d515,Mangelnde Messgenauigkeit durch abgenutzte Skala,443856c2-fbf2-47ce-bc39-af195f225c67,false
+443856c2-fbf2-47ce-bc39-af195f225c67,89bfc2ea-cf7a-445f-a0b2-3bb9073ced25,Fluktuationen in der Stromversorgung,443856c2-fbf2-47ce-bc39-af195f225c67,false
+8e9d29cd-c282-4f50-a668-261b3804aa51,994eca78-17b6-4093-9df3-e9bd7a3d40bf,"Statistische Messfehler resultieren aus zufälligen Abweichungen, die bei Wiederholung der Messung variieren können.",8e9d29cd-c282-4f50-a668-261b3804aa51,true
+8e9d29cd-c282-4f50-a668-261b3804aa51,5bd370b3-db0a-419c-81a5-600b9740b7ed,Statistische Messfehler sind konstant und vorhersehbar.,8e9d29cd-c282-4f50-a668-261b3804aa51,false
+8e9d29cd-c282-4f50-a668-261b3804aa51,fecba650-d148-4fcc-a2af-f977f71cdfc3,Statistische Messfehler können durch Kontrolle und Verbesserung der Apparatur vollständig beseitigt werden.,8e9d29cd-c282-4f50-a668-261b3804aa51,false
+ee3b4da1-d67e-469c-a3a0-619a091d17e7,b869ef92-0a33-4b99-99c4-1bc370a13410,"- **Ödometer-Versuche**: Bestimmung von Setzungs- und Kompressionsverhalten.
+- **Triaxialversuche**: Bewertung der Scherfestigkeit und des Verformungsverhaltens.
+- **Rahmenscherversuche**: Bestimmung der Scherfestigkeit, obwohl Probenhomogenität verletzt wird.
+- **CBR-Versuch**: Bewertung der Tragfähigkeit von Böden.
+- **Bestimmung der Konsistenzgrenzen**: Einschätzung der Plastizität und Wasserempfindlichkeit.",ee3b4da1-d67e-469c-a3a0-619a091d17e7,true
+152d013b-0da7-44e1-b868-db462e317488,f5e883a7-8f14-4755-ade6-540a7376bb97,"- Elementversuche sind Laborversuche mit homogener Spannungs- und Verformungsverteilung.
+- Sie liefern grundlegende Merkmale des Bodenverhaltens.
+- Homogenität ist entscheidend für die Auswertung mit einem Sensor.
+- Beispiele: Ödometer- und Triaxialversuche.
+- Probenabmessungen spielen keine Rolle, Maßstabseffekt wird vernachlässigt.",152d013b-0da7-44e1-b868-db462e317488,true
+1aeb3c2c-bb74-493c-b256-24efe8fc81b7,2153b456-7e23-4d00-b87d-5bc8416706bb,"- Sicherstellung einer gleichmäßigen Verteilung von Spannung und Verformung.
+- Ermöglicht die Auswertung mit einem einzigen Sensor.
+- Vermeidung von Maßstabseffekten.
+- Probe kann als idealisierter Punkt betrachtet werden.",1aeb3c2c-bb74-493c-b256-24efe8fc81b7,true
+ec0f7641-61d6-4f9e-8bc9-c573eb972b84,be6a08a6-1bb2-4d45-bae1-2dfad9681556,"- Vorzugeben: axiale Belastung (axialer Druck), Umgebungsdruck (konfiner Druck).
+- Messen: axialer Verformungsweg (Verformung), Porenwasserdruck (Porenspannung), Volumenänderung der Probe.
+- Randbedingungen: Probenhöhe und -durchmesser, Sättigungsgrad der Probe, Temperatur, Belastungsgeschwindigkeit.",ec0f7641-61d6-4f9e-8bc9-c573eb972b84,true
+f269f2c6-b9d9-4b3c-a070-0834047d2f11,b047241a-9b8d-4566-858e-6019c96bd4c3,"- Rahmenscherversuche verletzen die Homogenitätsbedingung, da die Spannung und Verformung in der Probe nicht gleichmäßig verteilt sind.
+- Es entstehen Gleitflächen, die die Homogenität stören.
+- Elementversuche erfordern eine homogene Probe, um mit einem Sensor auszuwerten, was bei Rahmenscherversuchen nicht möglich ist.",f269f2c6-b9d9-4b3c-a070-0834047d2f11,true
+87537c05-694b-464f-8dd6-93ccf2b178c6,3d677bc6-e4f5-4aca-b2b5-2cc380c40f0f,"- Der Wassergehalt beeinflusst die Konsistenzgrenzen (Atterberg-Grenzen) von Böden.
+- Mit zunehmendem Wassergehalt wird der Boden plastischer und kann in flüssigen Zustand übergehen.
+- Konsistenzgrenzen bestimmen Übergangspunkte zwischen fest, plastisch und flüssig.
+- Sie sind wichtig für die Einteilung der Böden und deren bautechnische Eigenschaften.",87537c05-694b-464f-8dd6-93ccf2b178c6,true
+d2b3f159-7141-495b-8aae-56074f5bc7e7,08c4b5d4-bbaf-424e-932a-5de8f79b7382,"- Zustandsgrenzen bestimmen die Bildsamkeit (Plastizität) und Empfindlichkeit des Bodens gegenüber Wassergehaltsänderungen.
+- Sie helfen bei der Einteilung und Benennung von Böden gemäß DIN-Normen.
+- Sie geben Hinweise auf die Konsistenz und Festigkeit des Bodens.
+- Wichtig für die Planung und Durchführung von Bauarbeiten.",d2b3f159-7141-495b-8aae-56074f5bc7e7,true
+1b67881d-bba7-4212-a9ea-ace29549c8c1,0b4deb31-0a9f-4b6f-8f2d-419f5a4b0722,"- Die Homogenität der Proben ist entscheidend für verlässliche Ergebnisse.
+- Inhomogene Proben können zu fehlerhaften Spannungs-Dehnungs-Kurven führen.
+- Proben müssen vor Umwelteinflüssen geschützt werden (z.B. Hitze, Frost).
+- Probenvorbereitung beeinflusst die Bodenklassifikation und Versuchsauswertung.
+- Maßstabseffekte können vernachlässigt werden, wenn Proben als idealisierte Punkte betrachtet werden.",1b67881d-bba7-4212-a9ea-ace29549c8c1,true
+7863dab7-8221-41a3-a5a2-f7991f1597ef,12dd21aa-5ece-45fb-87f7-22922c05811e,Ödometer-Versuch,7863dab7-8221-41a3-a5a2-f7991f1597ef,true
+7863dab7-8221-41a3-a5a2-f7991f1597ef,58db94b5-445a-4a19-9c6f-1f242a5f9f2f,Triaxialversuch,7863dab7-8221-41a3-a5a2-f7991f1597ef,true
+7863dab7-8221-41a3-a5a2-f7991f1597ef,839a9e6a-990e-4346-8635-3eb375e0c801,Rahmenscherversuch,7863dab7-8221-41a3-a5a2-f7991f1597ef,false
+7863dab7-8221-41a3-a5a2-f7991f1597ef,ef8c8b2e-7b86-4b25-91e1-0c522bc167fc,CBR-Versuch,7863dab7-8221-41a3-a5a2-f7991f1597ef,false
+7863dab7-8221-41a3-a5a2-f7991f1597ef,100b098e-d85a-4119-81f8-4b710751153a,Plattendruckversuch,7863dab7-8221-41a3-a5a2-f7991f1597ef,false
+9e45fd79-f3ee-4d37-8dd5-aad969e25fcb,0c7009e7-d081-4928-8149-ff47b6dd33ca,Ermittlung der Tragfähigkeit von Böden durch Eindrücken eines Stempels,9e45fd79-f3ee-4d37-8dd5-aad969e25fcb,true
+9e45fd79-f3ee-4d37-8dd5-aad969e25fcb,b9aed381-85f4-4346-beb8-31d0d2c9c9b3,Messung der Wasserdurchlässigkeit des Bodens,9e45fd79-f3ee-4d37-8dd5-aad969e25fcb,false
+9e45fd79-f3ee-4d37-8dd5-aad969e25fcb,3b370549-c0b0-4b8d-b19d-c562b7c11f1e,Bestimmung der Scherfestigkeit von Böden in einem Rahmenschergerät,9e45fd79-f3ee-4d37-8dd5-aad969e25fcb,false
+9e45fd79-f3ee-4d37-8dd5-aad969e25fcb,c0511dcc-8a1c-4dfb-aba9-58032f8c9b12,Analyse der Frostempfindlichkeit von Böden,9e45fd79-f3ee-4d37-8dd5-aad969e25fcb,false
+9e45fd79-f3ee-4d37-8dd5-aad969e25fcb,c7b80b59-9d31-46fd-a6ec-0bbbf515e9dc,Untersuchung der Bodenhomogenität durch Triaxialversuche,9e45fd79-f3ee-4d37-8dd5-aad969e25fcb,false
+50c7f1a2-ab92-4863-9a83-fa9ff957664b,dd42e6b0-d4ae-4e1b-a421-4176f4854bc6,Der dynamische Plattendruckversuch wird zur Verdichtungsprüfung von Böden verwendet.,50c7f1a2-ab92-4863-9a83-fa9ff957664b,true
+50c7f1a2-ab92-4863-9a83-fa9ff957664b,37f8eca0-b50f-446d-aa78-d5359271cc61,Er ermöglicht die Beurteilung der Tragfähigkeit des Bodens.,50c7f1a2-ab92-4863-9a83-fa9ff957664b,true
+50c7f1a2-ab92-4863-9a83-fa9ff957664b,3679d5f5-08cb-44b8-9a40-9ce56909b6fc,Der dynamische Plattendruckversuch ist ein typischer Elementversuch.,50c7f1a2-ab92-4863-9a83-fa9ff957664b,false
+50c7f1a2-ab92-4863-9a83-fa9ff957664b,4a2f3bf0-f71e-47f2-9fab-6df7152b9451,Die Ergebnisse des dynamischen Plattendruckversuchs sind unabhängig von der Homogenität der Probe.,50c7f1a2-ab92-4863-9a83-fa9ff957664b,false
+50c7f1a2-ab92-4863-9a83-fa9ff957664b,cec68bce-6895-46d6-a62d-960374befd0b,Der dynamische Plattendruckversuch misst die Wasserdurchlässigkeit des Bodens.,50c7f1a2-ab92-4863-9a83-fa9ff957664b,false
+b5722f8e-d433-4fbf-80a3-bb1811bfbb0b,56cda279-35ae-4896-9930-d23fb8892223,Wassergehalt $w$,b5722f8e-d433-4fbf-80a3-bb1811bfbb0b,true
+b5722f8e-d433-4fbf-80a3-bb1811bfbb0b,19dfc3fa-546a-45e6-be36-c54e65498544,Konsistenzzahl $I_l$,b5722f8e-d433-4fbf-80a3-bb1811bfbb0b,true
+b5722f8e-d433-4fbf-80a3-bb1811bfbb0b,42fd0866-2f88-44d8-a3e3-750e9cd1d301,Korndichte $\rho_s$,b5722f8e-d433-4fbf-80a3-bb1811bfbb0b,false
+b5722f8e-d433-4fbf-80a3-bb1811bfbb0b,0a4af0d5-76e6-4d34-aca6-fba6f0acd5a2,Porosität $n$,b5722f8e-d433-4fbf-80a3-bb1811bfbb0b,false
+b5722f8e-d433-4fbf-80a3-bb1811bfbb0b,f0876616-83d3-4f56-afe7-d66e0c5b2d9f,Scherwinkel $\phi'$,b5722f8e-d433-4fbf-80a3-bb1811bfbb0b,false
+36417f4b-8511-4a5c-9c28-2dd55c0e6883,1bebcb2f-fa0a-495d-b8d3-212da2d25666,Bestimmung der Konsistenzgrenzen,36417f4b-8511-4a5c-9c28-2dd55c0e6883,true
+36417f4b-8511-4a5c-9c28-2dd55c0e6883,2177d582-da98-4479-9033-a3d125eac585,Ödometer-Versuch,36417f4b-8511-4a5c-9c28-2dd55c0e6883,true
+36417f4b-8511-4a5c-9c28-2dd55c0e6883,90b41669-f52b-4564-967d-6c1ecf519080,Triaxialversuch,36417f4b-8511-4a5c-9c28-2dd55c0e6883,true
+36417f4b-8511-4a5c-9c28-2dd55c0e6883,2811cb3b-0937-4ac3-8ac1-ab5f8cef0e49,Rahmenscherversuch,36417f4b-8511-4a5c-9c28-2dd55c0e6883,false
+36417f4b-8511-4a5c-9c28-2dd55c0e6883,dbdd203d-ede0-498b-aca4-799faa8c2d6e,CBR-Versuch,36417f4b-8511-4a5c-9c28-2dd55c0e6883,false
+36417f4b-8511-4a5c-9c28-2dd55c0e6883,a79001cc-06ad-492f-b222-b1b51fe6b59c,Bestimmung der Zerfallsempfindlichkeit,36417f4b-8511-4a5c-9c28-2dd55c0e6883,false
+bdf3e875-d382-48a8-9214-3f8ca5a927b1,4c02dd70-854f-4dea-8f79-201d2e46ac44,"Nach der Entstehung von Gleitflächen sind die Proben nicht mehr homogen, wodurch die Ergebnisse nicht mehr auf die gesamte Probe übertragbar sind.",bdf3e875-d382-48a8-9214-3f8ca5a927b1,true
+bdf3e875-d382-48a8-9214-3f8ca5a927b1,5e561b0b-f514-4772-944f-e646e599b54c,"Die Abmessungen der Proben ändern sich, was zu einem Maßstabseffekt führt.",bdf3e875-d382-48a8-9214-3f8ca5a927b1,false
+bdf3e875-d382-48a8-9214-3f8ca5a927b1,9ac0f30a-c54d-4878-ac04-703b7a04c65c,Nach der Entstehung von Gleitflächen kann die Probe nicht mehr als idealisierter Punkt des Bodens betrachtet werden.,bdf3e875-d382-48a8-9214-3f8ca5a927b1,false
+bdf3e875-d382-48a8-9214-3f8ca5a927b1,a7927620-62f1-4f03-b031-4da8ea6d37d0,"Die Sensoren zur Spannungs- und Dehnungsmessung werden ungenau, was die Auswertung der Ergebnisse beeinflusst.",bdf3e875-d382-48a8-9214-3f8ca5a927b1,false
+f35d1ee8-ac66-4695-a683-0c848e58ca7b,c6f94bd1-8478-4860-b2b7-1abbc6f1d803,Schutz vor Sonneneinstrahlung,f35d1ee8-ac66-4695-a683-0c848e58ca7b,true
+f35d1ee8-ac66-4695-a683-0c848e58ca7b,6536eaa0-a925-4777-aa75-df23bb1ac52d,Schutz vor Regen,f35d1ee8-ac66-4695-a683-0c848e58ca7b,true
+f35d1ee8-ac66-4695-a683-0c848e58ca7b,9c130063-efa7-49aa-b303-87928c87a25f,Schutz vor Frost,f35d1ee8-ac66-4695-a683-0c848e58ca7b,true
+f35d1ee8-ac66-4695-a683-0c848e58ca7b,e09466f4-4aeb-4f6a-819b-7e8a6ded4db6,Proben in direktem Sonnenlicht lagern,f35d1ee8-ac66-4695-a683-0c848e58ca7b,false
+f35d1ee8-ac66-4695-a683-0c848e58ca7b,642bf794-2b12-448f-a031-1d998a1be871,"Proben offen lagern, um Luftzirkulation zu gewährleisten",f35d1ee8-ac66-4695-a683-0c848e58ca7b,false
+f35d1ee8-ac66-4695-a683-0c848e58ca7b,d3288f86-55ed-4adf-a756-82fdf015239c,"Proben in der Nähe von Maschinen lagern, um sie schnell verfügbar zu haben",f35d1ee8-ac66-4695-a683-0c848e58ca7b,false
+244862a6-020a-4888-8708-06ca1e2ad3b3,5ac4a297-371a-4fe6-96f1-0c9a391c2912,Gestörte Proben haben ihre natürliche Struktur und Schichtung verloren.,244862a6-020a-4888-8708-06ca1e2ad3b3,true
+244862a6-020a-4888-8708-06ca1e2ad3b3,697e3827-ac88-4236-b5d5-09ccf70f02f1,Ungestörte Proben behalten ihre natürliche Feuchtigkeit und Dichte.,244862a6-020a-4888-8708-06ca1e2ad3b3,true
+244862a6-020a-4888-8708-06ca1e2ad3b3,60f1b253-ea9d-4403-be4b-2dc19fbfb7b2,Gestörte Proben sind für Klassifikationsversuche geeignet.,244862a6-020a-4888-8708-06ca1e2ad3b3,true
+244862a6-020a-4888-8708-06ca1e2ad3b3,fec4d6f6-0b29-4fe1-86b3-fb32764b38db,Ungestörte Proben sind für Klassifikationsversuche geeignet.,244862a6-020a-4888-8708-06ca1e2ad3b3,false
+244862a6-020a-4888-8708-06ca1e2ad3b3,099c89c4-8f25-4a05-a64e-de1ab3733a40,Gestörte Proben behalten ihre natürliche Feuchtigkeit und Dichte.,244862a6-020a-4888-8708-06ca1e2ad3b3,false
+244862a6-020a-4888-8708-06ca1e2ad3b3,f78e3c2a-1ab7-40c3-a2b5-2d8b03fca5e2,Ungestörte Proben haben ihre natürliche Struktur und Schichtung verloren.,244862a6-020a-4888-8708-06ca1e2ad3b3,false
+4a352bf6-0573-4509-a163-9aa554f8a099,c0d703d9-3e7a-4372-a5bd-4a2348baa91c,"- Consistency: $\tau=O(h^2)$ for all $\theta$; $O(h^2)$ term cancels iff $\theta=1/2$ ⇒ $\tau=O(h^3)$.
+- Order: $p=1$ ($\theta\neq 1/2$); $p=2$ ($\theta=1/2$, implicit midpoint | trapezoidal).
+- Stability: $R(z)=\dfrac{1+(1-\theta)z}{1-\theta z}$.
+- A-stable (A-stability): $|R|\le1$ for $\Re z\le0$ iff $\theta\ge1/2$.
+- L-stable (L-stability | stiff decay): $\lim_{z\to\infty}R=0$ only if $\theta=1$ ⇒ stiff-best: $\theta=1$; $\theta=1/2$ A-stable, not L-stable; $\theta<1/2$ unsuitable.",4a352bf6-0573-4509-a163-9aa554f8a099,true
+6b43b5e3-6186-4a31-83ab-ba127aad6ea1,1c037b4f-d482-4107-a023-c96668dd2709,"- Midpoint (implicit midpoint | modified Euler implicit): $y_{n+1}=y_n+h\, f(t_n+\tfrac h2,\tfrac{y_n+y_{n+1}}{2})$.
+- Trapezoidal (Crank–Nicolson | Heun implicit): $y_{n+1}=y_n+\tfrac h2\big(f(t_n,y_n)+f(t_{n+1},y_{n+1})\big)$.
+- LTE: $\tau_{\text{mid}}=\tfrac{h^3}{24}\, y^{(3)}(t_n)+O(h^4)$; $\tau_{\text{trap}}=-\tfrac{h^3}{12}\, y^{(3)}(t_n)+O(h^4)$.
+- Global: $O(h^2)$ (Lipschitz | Grönwall).
+- Compare: $|C_{\text{mid}}|=1/24$, $|C_{\text{trap}}|=1/12$ ⇒ midpoint ≈ $2\times$ smaller LTE.",6b43b5e3-6186-4a31-83ab-ba127aad6ea1,true
+96cfc25d-782a-4611-ad0e-01944fe370eb,74f4d8db-8293-4cd8-abcb-656582d9e414,"- Consistency (local accuracy): $\Phi(t,y(t),f(t,y(t));h)\to f(t,y(t))$; $|\tau_n|\le C_\tau K_p h^{p+1}$, $K_p:=\|y^{(p+1)}\|_{\infty,[t_0,t_0+T]}$.
+- Stability→Gronwall (Lipschitz | Bellman): $|\Phi(\cdot,y;h)-\Phi(\cdot,\hat y;h)|\le L_\Phi|y-\hat y|\Rightarrow |e_{n+1}|\le(1+hL_\Phi)|e_n|+|\tau_n|\Rightarrow \max_n|e_n|\le e^{L_\Phi T}C_\tau K_pT h^p$; $C_\tau,L_\Phi$ independent of $T$. ",96cfc25d-782a-4611-ad0e-01944fe370eb,true
+7fbb488c-e2fc-4c94-a390-f3868fe23d08,94f1570e-3bff-455e-b663-908a96c1f950,"- e = (y_{h/2,h/2} − y_h)/(2^p−1); err = ||e||_w (atol|rtol); accept if err ≤ 1; y_acc = y_{h/2,h/2} (or y_{h/2,h/2}+e via Richardson)
+- h_new = h·clamp(f_min, s·err^{-1/(p+1)}, f_max); s≈0.9 (safety|guard), f_min≈0.2, f_max≈5
+- Reject if err>1; otherwise increase only if err<0.5 (hysteresis|damping)
+- Exponent 1/(p+1): LTE ~ C h^{p+1} ⇒ target err≈1 (equalize)
+- Unknown p: q≈log2(|d(h)|/|d(h/2)|); use α=1/q in update",7fbb488c-e2fc-4c94-a390-f3868fe23d08,true
+b9d8fa0b-6698-4550-8100-56f3dbd30cf2,6387328b-8cbe-4e73-830b-c3530c083296,"- $c_{1,2}=\tfrac12\mp\tfrac{\sqrt3}{6}$; $A=\begin{pmatrix}\tfrac14&\tfrac14-\tfrac{\sqrt3}{6}\\ \tfrac14+\tfrac{\sqrt3}{6}&\tfrac14\end{pmatrix}$, $b=(\tfrac12,\tfrac12)$. $K_i=f(t_n+c_i h,\,y_n+h\sum_j a_{ij}K_j)$; $y_{n+1}=y_n+h\sum_i b_i K_i$.
+- Gauss exactness (deg 3) + collocation orthogonality ⇒ $\mathrm{LTE}=O(h^5)$ ⇒ $p=4$ (order|accuracy).
+- Both A-stable, not L-stable; Gauss symplectic, $R(\infty)=1$; CN $R(\infty)=-1$ (oscillatory). Prefer Gauss for high accuracy/structure (invariants|energy) and oscillatory/moderately stiff. Prefer CN for cheaper single solve, linear problems, coarse tolerances; for very stiff, shrink $h$. ",b9d8fa0b-6698-4550-8100-56f3dbd30cf2,true
+46208029-6251-40a0-a3cd-797131d94931,e5eee0ef-87f5-4652-af6a-af71f2591cd0,"Along the exact solution $y(t)$ at the point $(t,y(t))$, the increment function satisfies $\Phi(t, y(t), f(t,y(t)); h) = f(t,y(t)) + O(h)$ as $h \to 0$.",46208029-6251-40a0-a3cd-797131d94931,true
+46208029-6251-40a0-a3cd-797131d94931,de96c10b-ec70-4c2d-b3a7-eb8a680f80ab,"The local truncation error $\tau(t;h) := y(t+h) - y(t) - h\,\Phi(t, y(t), f(t,y(t)); h)$ obeys $\tau(t;h)/h \to 0$ as $h \to 0$.",46208029-6251-40a0-a3cd-797131d94931,true
+46208029-6251-40a0-a3cd-797131d94931,d808234d-6048-4304-9aab-ebe3adc20225,"Along the exact solution, $\Phi(t, y(t), f(t,y(t)); h) = f(t,y(t)) + O(h^2)$ as $h \to 0$.",46208029-6251-40a0-a3cd-797131d94931,false
+46208029-6251-40a0-a3cd-797131d94931,f3c12f72-de03-4369-9030-092c8385135d,"The sensitivity must match at $h=0$: $\partial_y\Phi(t,y,f;0) = \partial_y f(t,y)$.",46208029-6251-40a0-a3cd-797131d94931,false
+46208029-6251-40a0-a3cd-797131d94931,9822e921-74af-4b0d-9ad4-6533586f4d0a,"The map $y \mapsto \Phi(t, y, f(t,y); h)$ must be Lipschitz in $y$ uniformly for small $h$ to ensure consistency.",46208029-6251-40a0-a3cd-797131d94931,false
+46208029-6251-40a0-a3cd-797131d94931,acfcb434-bc4b-45ce-866a-1044008d4dd0,In any Runge–Kutta implementation the weights satisfy $\sum_i\gamma_i=1$; therefore this is necessary for consistency of any one-step method.,46208029-6251-40a0-a3cd-797131d94931,false
+e8bbb57c-5572-4266-acee-4de340a0a5d1,32f50415-0b32-4bce-bf99-99be5fdd295e,"It is an implicit collocation Runge–Kutta method with s=2 and order p=4 (Gauss collocation gives order 2s), and it is A-stable but not L-stable.",e8bbb57c-5572-4266-acee-4de340a0a5d1,true
+e8bbb57c-5572-4266-acee-4de340a0a5d1,a7cd3162-81e8-45f3-9b08-f2e1b1b796c2,"It is an explicit collocation Runge–Kutta method with s=2 and order p=4 (Gauss quadrature is exact up to degree 3), and it is A-stable.",e8bbb57c-5572-4266-acee-4de340a0a5d1,false
+e8bbb57c-5572-4266-acee-4de340a0a5d1,a1182296-04cb-4354-8ce6-2c5e444a95e3,"It is an implicit collocation Runge–Kutta method with s=2 and order p=3 (since Gauss quadrature is exact only up to degree 2s−2), and it is A-stable.",e8bbb57c-5572-4266-acee-4de340a0a5d1,false
+e8bbb57c-5572-4266-acee-4de340a0a5d1,e80bfb0f-f96f-4c20-9926-fa8c7a40700c,"It is an implicit collocation Runge–Kutta method with s=2 and order p=4 (from exactness of Gauss nodes), and it is L-stable.",e8bbb57c-5572-4266-acee-4de340a0a5d1,false
+e8bbb57c-5572-4266-acee-4de340a0a5d1,42d111dd-914d-4b18-9662-d38865be4fa7,"It is an implicit collocation Runge–Kutta method with s=2 and order p=4 (order 2s), and it is stiffly accurate.",e8bbb57c-5572-4266-acee-4de340a0a5d1,false
+5cc5b721-2da0-4a1c-ad04-60b1e5202ad3,03745ca2-850a-4af5-935a-a4c31cfaa9b5,"With $\hat y_{n+1}^{(h)}$ and $\hat y_{n+1}^{(h/2;2)}$ started from the same $y_n$, the leading local-error model is $\hat y_{n+1}^{(h)} - y(t_{n+1}) = C\,h^{p+1} + O(h^{p+2})$ and $\hat y_{n+1}^{(h/2;2)} - y(t_{n+1}) = 2^{-p} C\,h^{p+1} + O(h^{p+2})$.",5cc5b721-2da0-4a1c-ad04-60b1e5202ad3,true
+5cc5b721-2da0-4a1c-ad04-60b1e5202ad3,4d637e93-0bf3-4a38-8b63-c6df85da2eeb,"Consequently, $\hat y_{n+1}^{(h/2;2)} - \hat y_{n+1}^{(h)} = (2^{-p} - 1)\, C\, h^{p+1} + O(h^{p+2})$, so an asymptotically unbiased single-step error estimate is $\hat e \approx (\hat y_{n+1}^{(h)} - \hat y_{n+1}^{(h/2;2)})/(1 - 2^{-p})$.",5cc5b721-2da0-4a1c-ad04-60b1e5202ad3,true
+5cc5b721-2da0-4a1c-ad04-60b1e5202ad3,fa8f53e5-8d4a-459f-bcb3-579ff57728ab,"To enforce $\|\hat e\| \approx \tau$ (a given tolerance), the stepsize update uses the exponent $1/(p+1)$: $h_{new} = h\,(\tau/\|\hat e\|)^{1/(p+1)}$ (up to a safety factor).",5cc5b721-2da0-4a1c-ad04-60b1e5202ad3,true
+5cc5b721-2da0-4a1c-ad04-60b1e5202ad3,ea7e24d1-2a38-414b-a2f5-48db60d0b3aa,"For the two half-steps, the leading error is $\hat y_{n+1}^{(h/2;2)} - y(t_{n+1}) = 2^{-(p+1)} C\, h^{p+1} + O(h^{p+2})$.",5cc5b721-2da0-4a1c-ad04-60b1e5202ad3,false
+5cc5b721-2da0-4a1c-ad04-60b1e5202ad3,0a87b603-e79e-4427-ba66-a7644c8b26f3,"To match a per-step tolerance, the exponent in the stepsize formula should be $1/p$: $h_{new} = h\,(\tau/\|\hat e\|)^{1/p}$.",5cc5b721-2da0-4a1c-ad04-60b1e5202ad3,false
+5cc5b721-2da0-4a1c-ad04-60b1e5202ad3,ed3852cb-9933-40e6-b335-bd40f4068488,A Richardson combination that cancels the $O(h^{p+1})$ term is $y_{ext} = \hat y_{n+1}^{(h/2;2)} + (\hat y_{n+1}^{(h/2;2)} - \hat y_{n+1}^{(h)})/(1 - 2^{-p}) + O(h^{p+2})$.,5cc5b721-2da0-4a1c-ad04-60b1e5202ad3,false
+4115aa9b-8b60-4fdd-b143-0ba1186556d6,84810874-52d3-4844-b3e0-9cd7016fc3d3,"Forward Euler: $R(z)=1+z$. From the update $y_{n+1}=y_n+h\lambda y_n$ (set $z=h\lambda$), we get $y_{n+1}=(1+z)\,y_n$. Stability: $|R(z)|<1$ is the disk $|1+z|<1$ (center $-1$, radius $1$); for real $\lambda<0$ this is $0<h<2/|\lambda|$, so it’s not A-stable.",4115aa9b-8b60-4fdd-b143-0ba1186556d6,true
+4115aa9b-8b60-4fdd-b143-0ba1186556d6,f00567f2-3dbf-4cd7-8f29-4016facf9bdc,"Backward Euler: $R(z)=\dfrac{1}{1-z}$. From $y_{n+1}=y_n+h\lambda y_{n+1}$, we get $(1-z)\,y_{n+1}=y_n$, hence $y_{n+1}=R(z)\,y_n$. Stability: A-stable ($\Re z<0 \Rightarrow |R(z)|<1$) and L-stable since $R(z)\to 0$ as $z\to -\infty$.",4115aa9b-8b60-4fdd-b143-0ba1186556d6,true
+4115aa9b-8b60-4fdd-b143-0ba1186556d6,4f8e15f5-1152-42f6-be32-825db2c5f699,"Crank–Nicolson (Trapezoidal): $R(z)=\dfrac{1+\tfrac{z}{2}}{1-\tfrac{z}{2}}$. From $y_{n+1}=y_n+\tfrac{h}{2}(\lambda y_n+\lambda y_{n+1})$, we get $(1-\tfrac{z}{2})\,y_{n+1}=(1+\tfrac{z}{2})\,y_n$. Stability: A-stable but not L-stable ($|R(z)|\to 1$ as $z\to -\infty$ and $|R(i\omega)|=1$).",4115aa9b-8b60-4fdd-b143-0ba1186556d6,true
+4115aa9b-8b60-4fdd-b143-0ba1186556d6,fcae8fb7-2568-4f49-829b-161a1c57bd63,"Forward Euler: $R(z)=1+z$. From $y_{n+1}=y_n+h\lambda y_n$, we get $y_{n+1}=(1+z)\,y_n$. Stability on the negative real axis requires $h|\lambda|<1$; otherwise unstable, so it’s not A-stable.",4115aa9b-8b60-4fdd-b143-0ba1186556d6,false
+4115aa9b-8b60-4fdd-b143-0ba1186556d6,6c8ffd81-aa74-42b2-b3ae-9891a5823aa5,"Backward Euler: $R(z)=\dfrac{1}{1-z}$. From $y_{n+1}=y_n+h\lambda y_{n+1}$, we get $(1-z)\,y_{n+1}=y_n$. Stability: A-stable but not L-stable (i.e., $|R(z)|\nrightarrow 0$ as $z\to -\infty$).",4115aa9b-8b60-4fdd-b143-0ba1186556d6,false
+4115aa9b-8b60-4fdd-b143-0ba1186556d6,22217eed-ee69-4d7f-b06a-3391da232919,"Crank–Nicolson (Trapezoidal): $R(z)=\dfrac{1+\tfrac{z}{2}}{1-\tfrac{z}{2}}$. From $y_{n+1}=y_n+\tfrac{h}{2}(\lambda y_n+\lambda y_{n+1})$, we get $(1-\tfrac{z}{2})\,y_{n+1}=(1+\tfrac{z}{2})\,y_n$. Stability: A-stable and L-stable since $|R(z)|\to 0$ as $z\to -\infty$.",4115aa9b-8b60-4fdd-b143-0ba1186556d6,false
+c9a8990c-fcad-4cb2-b61e-b6e672b85574,80d41b2e-2f85-4cd2-ae1a-59a9d9b483d1,"It is the Gauss $s=1$ collocation method; therefore it has order $p=2$, is symmetric/time-reversible, is A-stable but not L-stable, so it’s fine for mildly stiff systems without adding artificial stiff decay.",c9a8990c-fcad-4cb2-b61e-b6e672b85574,true
+c9a8990c-fcad-4cb2-b61e-b6e672b85574,9f69cf4d-33de-4fc7-a890-fc7d2e87927e,"It is the Gauss $s=1$ collocation method; therefore it has order $p=2$, is symmetric/time-reversible, and is L-stable, so it strongly damps stiff modes.",c9a8990c-fcad-4cb2-b61e-b6e672b85574,false
+c9a8990c-fcad-4cb2-b61e-b6e672b85574,0ca7126a-e798-493e-b7a3-0f74f1975a61,"It is a Radau $s=1$ collocation method; therefore it has order $p=2$, is symmetric/time-reversible, is A-stable but not L-stable, so it’s fine for mildly stiff systems without added stiff decay.",c9a8990c-fcad-4cb2-b61e-b6e672b85574,false
+c9a8990c-fcad-4cb2-b61e-b6e672b85574,432301d3-ab17-4347-9d97-ea5767098f8d,"It is the Gauss $s=1$ collocation method; therefore it has order $p=3$ (using $p=2s+1$), is symmetric/time-reversible, is A-stable but not L-stable, so it’s fine for mildly stiff systems without added stiff decay.",c9a8990c-fcad-4cb2-b61e-b6e672b85574,false
+c9a8990c-fcad-4cb2-b61e-b6e672b85574,c40a5465-e42c-4123-bc42-dbcc5353f2c0,"It is the Gauss $s=1$ collocation method; therefore it has order $p=2$, but it is not symmetric (the stage at $c=\tfrac12$ breaks reversibility); it is A-stable but not L-stable, so it’s fine for mildly stiff systems without added stiff decay.",c9a8990c-fcad-4cb2-b61e-b6e672b85574,false
+8d93f034-3ede-4001-8350-b3cdb08c80cd,0de441aa-a232-4b38-9cef-2b14320c7c7f,"Assume $f$ is continuous in $t$ and (locally) Lipschitz in $y$ on a tube around the exact solution, and $y\in C^{p+1}([t_0,T])$, so the local defect satisfies $\|\ell_{n+1}\|:=\|y(t_{n+1})-y(t_n)-h_n\Phi(t_n,y(t_n);h_n)\|\le C h_n^{p+1}$ with $C$ independent of $n$.",8d93f034-3ede-4001-8350-b3cdb08c80cd,true
+8d93f034-3ede-4001-8350-b3cdb08c80cd,216241f6-31e0-48f8-bec8-e70f847938aa,"Prove a uniform stability/Lipschitz bound for the step map: there is $L_\Phi$ such that for all small $h_n$, $\|\partial_y\Phi(t_n,\xi;h_n)\|\le L_\Phi$ on the tube, hence $\|y_{n+1}-z_{n+1}\|\le (1+L_\Phi h_n)\|y_n-z_n\|$.",8d93f034-3ede-4001-8350-b3cdb08c80cd,true
+8d93f034-3ede-4001-8350-b3cdb08c80cd,c25f0c55-6cf2-42e0-a59e-bc26024ca3bf,Control accumulation with a variable-step discrete Grönwall: from $e_{n+1}\le(1+L_\Phi h_n)e_n+C h_n^{p+1}$ get $e_n\le e^{L_\Phi\sum_{k<n}h_k}\big(e_0+C\sum_{k<n}h_k^{p+1}\big)$ and then use $\sum_k h_k^{p+1}\le h^p\sum_k h_k\le T h^p$. ,8d93f034-3ede-4001-8350-b3cdb08c80cd,true
+8d93f034-3ede-4001-8350-b3cdb08c80cd,878657f5-be73-47f0-8630-0ce1791789a7,"Assume $f$ is continuous in $t$ and Lipschitz in $y$, and $y\in C^{p}$; then the local defect is uniformly $\|\ell_{n+1}\|=O(h_n^{p})$.",8d93f034-3ede-4001-8350-b3cdb08c80cd,false
+8d93f034-3ede-4001-8350-b3cdb08c80cd,563512a4-8edc-4fd1-b844-f07126ce6972,"Replace each $h_n$ by $h=\max_n h_n$ in both the stability factor and the defect term, use $e_{n+1}\le(1+L_\Phi h)e_n+C h^{p+1}$ for all $n$, and conclude by summing $N=T/h$ steps that $\sum h^{p+1}=T h^p$.",8d93f034-3ede-4001-8350-b3cdb08c80cd,false
+8d93f034-3ede-4001-8350-b3cdb08c80cd,91e43ecf-5cd0-484a-a346-e69395b33847,"Impose a per-step contraction $\|\partial_y\Phi\|\le 1-c\,h_n$ with some $c>0$ so that errors decay and only the local defects accumulate.",8d93f034-3ede-4001-8350-b3cdb08c80cd,false
+8d93f034-3ede-4001-8350-b3cdb08c80cd,4c306fdd-2c3c-40bb-99c4-b36650993b63,"Bound the stability product by a linear inequality $\prod_{k< n}(1+L_\Phi h_k)\le 1+L_\Phi\sum_{k<n}h_k$, then proceed as in the uniform-step case.",8d93f034-3ede-4001-8350-b3cdb08c80cd,false
+1e19e28f-8dd9-4154-a277-0c1a113d175f,1f797dae-aa54-4b12-bc5a-39ef3fd10eb7,"Because the local truncation error scales like $|\text{LTE}_n|\approx C(t_n)\,h_n^{p+1}$, adaptive control picks $h_n\propto (\text{tol}/|C(t_n)|)^{1/(p+1)}$ to roughly equidistribute per–step error; a constant $h$ must be sized for $\max_t|C(t)|$, over-resolving smooth regions and thus using many more steps for the same tolerance.",1e19e28f-8dd9-4154-a277-0c1a113d175f,true
+1e19e28f-8dd9-4154-a277-0c1a113d175f,9c6adbdd-bd50-40e9-b302-b49bb827bc5e,"For nonstiff one-step methods with bounded error propagation, the global error is essentially a stability-weighted accumulation of local errors; placing small steps only where the (weighted) LTE would otherwise be large and taking larger steps elsewhere reduces the number of steps needed to meet the same global tolerance.",1e19e28f-8dd9-4154-a277-0c1a113d175f,true
+1e19e28f-8dd9-4154-a277-0c1a113d175f,1ea5108e-df3a-4c3a-8188-09570a4b92ca,"Step-doubling/embedded estimators provide an on-the-fly handle on $C(t)$ via the difference of two approximations, so most accepted steps can be taken at the largest admissible $h_n$ (LTE near the tolerance), whereas a constant $h$ must be uniformly conservative because of short transients, increasing total work.",1e19e28f-8dd9-4154-a277-0c1a113d175f,true
+1e19e28f-8dd9-4154-a277-0c1a113d175f,91c36590-755e-4761-9db2-bc386220126f,"Adaptive variation of $h_n$ effectively raises the method’s convergence order $p$ in regions with strong features, which is why fewer steps are needed at the same tolerance.",1e19e28f-8dd9-4154-a277-0c1a113d175f,false
+1e19e28f-8dd9-4154-a277-0c1a113d175f,6c8f394d-1df3-4dfb-99fd-4450df590755,"Frequent changes of $h_n$ enlarge the linear stability region of the underlying Runge–Kutta scheme, permitting much larger steps everywhere without affecting the error budget.",1e19e28f-8dd9-4154-a277-0c1a113d175f,false
+1e19e28f-8dd9-4154-a277-0c1a113d175f,f6e3468e-68d1-4cd8-99ee-4aa4261d4167,"Using a constant stepsize promotes cancellation of local errors across steps, so the global error can be smaller for the same tolerance and the extra steps do not increase total work.",1e19e28f-8dd9-4154-a277-0c1a113d175f,false
+b450be6e-1ded-482c-afea-336c0ff0b5c7,f3a56a0c-6cb9-4289-8d3c-3c6360f756b4,"2-stage Gauss collocation (implicit RK, s=2, order p=4): A-stable with stability function $R(z)=\dfrac{1+z/2+z^2/12}{1-z/2+z^2/12}$. For $z=h\lambda$ with $\operatorname{Re} z\le 0$ it stays stable, and because tight accuracy already forces $|z|$ moderate, the high order gives fewer solves per $T$ — best stability–accuracy–cost balance.",b450be6e-1ded-482c-afea-336c0ff0b5c7,true
+b450be6e-1ded-482c-afea-336c0ff0b5c7,1a1d348e-52f0-4761-b70f-1894ecb8e4c7,"Backward Euler (implicit, s=1, p=1): L-stable with $R(z)=\dfrac{1}{1-z}$, so stiff modes are strongly damped; this lets you take large $h$ even under tight accuracy demands, making it the cheapest accurate option over $[t_0,t_0+T]$.",b450be6e-1ded-482c-afea-336c0ff0b5c7,false
+b450be6e-1ded-482c-afea-336c0ff0b5c7,149f24a9-a03d-4444-8cbe-3fec4ca466f8,"Crank–Nicolson/trapezoidal (implicit, p=2): claimed A- and L-stable with $R(z)=\dfrac{1+z/2}{1-z/2}$ and $R(z)\to 0$ as $z\to -\infty$, so it damps stiffness while keeping second-order accuracy at one solve per step.",b450be6e-1ded-482c-afea-336c0ff0b5c7,false
+b450be6e-1ded-482c-afea-336c0ff0b5c7,d1bd4111-8367-483b-bebd-38c22b135e8c,"Explicit RK4 ($p=4$): $R(z)=1+z+z^2/2+z^3/6+z^4/24$ matches $e^z$ to $O(z^5)$; with a small enough $h$ it’s effectively A-stable on the left half-plane, so high order plus cheap stages makes it fine even when $\operatorname{Re}\lambda\ll 0$.",b450be6e-1ded-482c-afea-336c0ff0b5c7,false
+02cd9ca4-a635-42f9-bdac-e6ee28edd8ac,5a343287-21f7-4f16-be6b-8c3e00471100,Both methods have local truncation error of order $h^3$; the leading $h^3$ term (a linear combo of the unsatisfied third-order RK conditions) can differ between the two methods.,02cd9ca4-a635-42f9-bdac-e6ee28edd8ac,true
+02cd9ca4-a635-42f9-bdac-e6ee28edd8ac,72163fc2-9f18-4ff2-bd1a-39bde7ef5c05,"Under standard Lipschitz assumptions for $f$, both methods have the same global convergence order $p=2$, although their asymptotic error constants can differ because their principal LTE coefficients differ.",02cd9ca4-a635-42f9-bdac-e6ee28edd8ac,true
+02cd9ca4-a635-42f9-bdac-e6ee28edd8ac,a3474c77-0cab-4f91-85d7-f38233ad0a76,"For any 2-stage explicit RK method that is order 2 (so $b^\top e=1$ and $b^\top c=\tfrac12$, equivalently $b_2 a_{21}=\tfrac12$), the linear stability function is $R(z)=1+z+\tfrac12 z^2$; thus their absolute stability regions coincide.",02cd9ca4-a635-42f9-bdac-e6ee28edd8ac,true
+02cd9ca4-a635-42f9-bdac-e6ee28edd8ac,4a6c244b-3626-4406-abf5-33980785fbeb,"Because their Butcher tableaux differ, their stability polynomials $R(z)$ differ, so their absolute stability regions need not match.",02cd9ca4-a635-42f9-bdac-e6ee28edd8ac,false
+02cd9ca4-a635-42f9-bdac-e6ee28edd8ac,016bb24e-ac1f-413b-bd5c-d11ea82fc477,"A second-order method has local truncation error $\mathcal{O}(h^2)$, so both methods have local errors of that order.",02cd9ca4-a635-42f9-bdac-e6ee28edd8ac,false
+02cd9ca4-a635-42f9-bdac-e6ee28edd8ac,25335a3a-5dbe-43ef-9e1c-015e15ae3c64,"If two methods have the same order and the same $R(z)$, then their global asymptotic error constants must be equal.",02cd9ca4-a635-42f9-bdac-e6ee28edd8ac,false
+e74a4f01-f42c-4c33-a5bb-b6ea68863073,d945c709-1ddf-486f-9b35-bae77fc2ce7e,Consistency (local truncation error $=O(h^{p+1})$) together with a Lipschitz-in-$y$ stability bound for $\Phi$ $\Rightarrow$ the global error estimate $\max_{0\le n\le N}|y(t_n)-y_n|=O(h^p)$.,e74a4f01-f42c-4c33-a5bb-b6ea68863073,true
+e74a4f01-f42c-4c33-a5bb-b6ea68863073,7260012e-c891-4a08-b81e-865cf7834db5,"The global error estimate $\max_{0\le n\le N}|y(t_n)-y_n|=O(h^p)$ $\Rightarrow$ consistency (in particular, the local truncation error tends to $0$ as $h\to 0$).",e74a4f01-f42c-4c33-a5bb-b6ea68863073,true
+e74a4f01-f42c-4c33-a5bb-b6ea68863073,b0239589-6673-486a-b058-de49315bbd43,A Lipschitz-in-$y$ stability bound for $\Phi$ alone $\Rightarrow$ the global error estimate $O(h^p)$.,e74a4f01-f42c-4c33-a5bb-b6ea68863073,false
+e74a4f01-f42c-4c33-a5bb-b6ea68863073,aeb2ea68-28e0-4098-b6c6-8f11bf33a100,Consistency (local truncation error $=O(h^{p+1})$) alone $\Rightarrow$ the global error estimate $O(h^p)$.,e74a4f01-f42c-4c33-a5bb-b6ea68863073,false
+e74a4f01-f42c-4c33-a5bb-b6ea68863073,7b44a468-ab69-4d0d-ab3e-6a412f71c5ff,The global error estimate $O(h^p)$ $\Rightarrow$ a Lipschitz-in-$y$ stability bound for $\Phi$.,e74a4f01-f42c-4c33-a5bb-b6ea68863073,false
+8ff487fe-d077-43b4-a3d5-fd92fbe531f1,2a378ce7-0e2f-4ede-a3fd-7f96127d5768,Personal Endowment,8ff487fe-d077-43b4-a3d5-fd92fbe531f1,true
+8ff487fe-d077-43b4-a3d5-fd92fbe531f1,8b0e582b-757b-48f0-b33a-a4df10e79820,Search,8ff487fe-d077-43b4-a3d5-fd92fbe531f1,false
+8ff487fe-d077-43b4-a3d5-fd92fbe531f1,a1894224-97a9-44c9-b2aa-16b49e704ee2,Access,8ff487fe-d077-43b4-a3d5-fd92fbe531f1,false
+8ff487fe-d077-43b4-a3d5-fd92fbe531f1,45df97ab-f73d-4d4a-a620-4c0186fd93f1,Transfer,8ff487fe-d077-43b4-a3d5-fd92fbe531f1,false
+3cfe0096-7d9b-4945-8c62-50feab78c74c,3ef77a1a-56bf-440e-8096-e38c5a4d174d,Search,3cfe0096-7d9b-4945-8c62-50feab78c74c,true
+3cfe0096-7d9b-4945-8c62-50feab78c74c,9f370f33-cbca-4a65-8293-f50b4bd5c2af,Access,3cfe0096-7d9b-4945-8c62-50feab78c74c,false
+3cfe0096-7d9b-4945-8c62-50feab78c74c,e327bb07-0ef2-4eda-9611-419a5b191b98,Transfer,3cfe0096-7d9b-4945-8c62-50feab78c74c,false
+3cfe0096-7d9b-4945-8c62-50feab78c74c,fbf195d4-bdb3-4a76-8dce-ddd0374ef447,Personal Endowment,3cfe0096-7d9b-4945-8c62-50feab78c74c,false
+ecaa509d-e7eb-4ea3-a171-5587adc2ee1c,b9ee453f-2b97-4836-b090-873a2ff6cef4,Foot-in-the-door,ecaa509d-e7eb-4ea3-a171-5587adc2ee1c,true
+ecaa509d-e7eb-4ea3-a171-5587adc2ee1c,e43b79e5-8672-43b9-845c-36548cc274c8,Low-balling,ecaa509d-e7eb-4ea3-a171-5587adc2ee1c,true
+ecaa509d-e7eb-4ea3-a171-5587adc2ee1c,3734cad1-f18c-4ea8-93a2-6e1b26b016fc,Door-in-the-face,ecaa509d-e7eb-4ea3-a171-5587adc2ee1c,false
+ecaa509d-e7eb-4ea3-a171-5587adc2ee1c,f245a031-ac34-4ed1-9a2e-7654107bd49d,That's-not-all-folks,ecaa509d-e7eb-4ea3-a171-5587adc2ee1c,false
+ecaa509d-e7eb-4ea3-a171-5587adc2ee1c,f63c2173-ba3f-4b22-ae54-fd3a6beca257,Preemptive concession,ecaa509d-e7eb-4ea3-a171-5587adc2ee1c,false
+d2e40e90-ab4a-4587-9e16-9544685ae4d6,f2f2a91e-32a3-4df7-a9ca-9f9834d79dab,Door-in-the-face,d2e40e90-ab4a-4587-9e16-9544685ae4d6,true
+d2e40e90-ab4a-4587-9e16-9544685ae4d6,768c967b-c0c7-4849-b61f-32a4f39e9a95,Foot-in-the-door,d2e40e90-ab4a-4587-9e16-9544685ae4d6,false
+d2e40e90-ab4a-4587-9e16-9544685ae4d6,c84fc0c1-3c64-4b52-abdf-92940ce8bddb,Low-balling,d2e40e90-ab4a-4587-9e16-9544685ae4d6,false
+d2e40e90-ab4a-4587-9e16-9544685ae4d6,8ce18e74-2d08-45bf-a890-704c4f2391a2,That's-not-all-folks,d2e40e90-ab4a-4587-9e16-9544685ae4d6,false
+3e39e8e0-f3da-4688-88c8-73ed26e2c4e6,9bf4affd-24a5-433b-9b7a-7f5e91cb2ad4,"BATNA provides a benchmark that determines the lowest acceptable value for a negotiated agreement, helping to avoid unfavorable deals.",3e39e8e0-f3da-4688-88c8-73ed26e2c4e6,true
+3e39e8e0-f3da-4688-88c8-73ed26e2c4e6,d87ecd9e-2a86-4819-9a1e-068fc4f88cba,"Understanding BATNA enables a negotiator to evaluate when to walk away from a negotiation, ensuring better outcomes.",3e39e8e0-f3da-4688-88c8-73ed26e2c4e6,true
+3e39e8e0-f3da-4688-88c8-73ed26e2c4e6,5030130b-228d-49ec-99dc-200d750fc107,BATNA helps to ensure that both parties have equal power during the negotiation process.,3e39e8e0-f3da-4688-88c8-73ed26e2c4e6,false
+3e39e8e0-f3da-4688-88c8-73ed26e2c4e6,94202f55-4837-41c2-bde9-548f6bb39192,BATNA guarantees that the negotiation will always result in a favorable outcome for both parties.,3e39e8e0-f3da-4688-88c8-73ed26e2c4e6,false
+3e39e8e0-f3da-4688-88c8-73ed26e2c4e6,eb87bb71-5fa0-44b6-8b88-50e356c3c47e,Knowing BATNA means that a negotiator can predict the exact outcome of the negotiation.,3e39e8e0-f3da-4688-88c8-73ed26e2c4e6,false
+98a704ac-54bd-4f0a-b1b8-ad436f50dbb0,80126ee5-12c3-4ab7-9447-7236233cf8c1,Low-balling,98a704ac-54bd-4f0a-b1b8-ad436f50dbb0,true
+98a704ac-54bd-4f0a-b1b8-ad436f50dbb0,b3a142d3-d8c4-4ccb-9fea-a7282ba9a0b9,Foot-in-the-door,98a704ac-54bd-4f0a-b1b8-ad436f50dbb0,false
+98a704ac-54bd-4f0a-b1b8-ad436f50dbb0,6b5c67bc-015c-4218-84ea-e9cf4055cc86,Door-in-the-face,98a704ac-54bd-4f0a-b1b8-ad436f50dbb0,false
+98a704ac-54bd-4f0a-b1b8-ad436f50dbb0,25ca5904-1796-49d8-9a6a-2f5645236c75,That's-not-all,98a704ac-54bd-4f0a-b1b8-ad436f50dbb0,false
+98a704ac-54bd-4f0a-b1b8-ad436f50dbb0,0a611165-264b-4b38-9598-de0726c9eaa0,Preemptive concession,98a704ac-54bd-4f0a-b1b8-ad436f50dbb0,false
+8d344714-420e-4851-998d-770a137d9ba5,c56a8f83-a105-4b92-a5ca-8780460a68d3,Understanding your and the other party’s goals,8d344714-420e-4851-998d-770a137d9ba5,true
+8d344714-420e-4851-998d-770a137d9ba5,5ab948f2-203a-4a8c-836f-76b9d8d31c90,Understanding your and the other party’s BATNA (best alternative to a negotiated agreement),8d344714-420e-4851-998d-770a137d9ba5,true
+8d344714-420e-4851-998d-770a137d9ba5,818f7aee-8d8b-4208-9321-84230ea91a36,Identifying what concerns the other party might have,8d344714-420e-4851-998d-770a137d9ba5,true
+8d344714-420e-4851-998d-770a137d9ba5,3c7507b2-e43e-4043-9f8a-132ae621687f,Achieving a compromise,8d344714-420e-4851-998d-770a137d9ba5,false
+8d344714-420e-4851-998d-770a137d9ba5,5779770d-f641-4907-a8fc-242d61c1f931,"Using the ""door-in-the-face"" technique",8d344714-420e-4851-998d-770a137d9ba5,false
+8d344714-420e-4851-998d-770a137d9ba5,b851c3ca-fffc-4042-9321-823febbbd02c,"Implementing the ""foot-in-the-door"" technique",8d344714-420e-4851-998d-770a137d9ba5,false
+3e5a1e81-29fd-4090-bf3d-9a3af42fa0f4,f131c98a-dfd0-4644-9d44-b6e6da3f08d8,Access,3e5a1e81-29fd-4090-bf3d-9a3af42fa0f4,true
+3e5a1e81-29fd-4090-bf3d-9a3af42fa0f4,c19e6e2a-d923-4699-b669-23700826d8ce,Search,3e5a1e81-29fd-4090-bf3d-9a3af42fa0f4,false
+3e5a1e81-29fd-4090-bf3d-9a3af42fa0f4,17a6335c-0625-46f3-8ad4-5ae9699aec24,Transfer,3e5a1e81-29fd-4090-bf3d-9a3af42fa0f4,false
+3e5a1e81-29fd-4090-bf3d-9a3af42fa0f4,f674b1ed-7f6e-47b7-9d99-8040c8f90f2a,Personal Endowment,3e5a1e81-29fd-4090-bf3d-9a3af42fa0f4,false
+af26b852-750c-4d04-87d7-3dad689b3262,b1a5f2d8-7f23-442a-a038-3c544da864df,That's-not-all-folks technique,af26b852-750c-4d04-87d7-3dad689b3262,true
+af26b852-750c-4d04-87d7-3dad689b3262,da711dee-1218-45ac-a821-14f62bda2b5b,Low-balling technique,af26b852-750c-4d04-87d7-3dad689b3262,false
+af26b852-750c-4d04-87d7-3dad689b3262,99417bba-ff32-4064-9fff-5896a722979c,Foot-in-the-door technique,af26b852-750c-4d04-87d7-3dad689b3262,false
+af26b852-750c-4d04-87d7-3dad689b3262,3b4167cd-5e98-4348-8769-8e2520a08b36,Door-in-the-face technique,af26b852-750c-4d04-87d7-3dad689b3262,false
+b401b9ab-91b8-43f4-8685-cee15ea177d5,ae9787a8-8ca7-418b-bef5-b284d1c35654,"Development stage: Personal savings, Friends and Family",b401b9ab-91b8-43f4-8685-cee15ea177d5,true
+b401b9ab-91b8-43f4-8685-cee15ea177d5,2ddc9dc7-69ef-45eb-8f24-e8bb8cc125c7,"Startup stage: Angel investors, Seed funding",b401b9ab-91b8-43f4-8685-cee15ea177d5,true
+b401b9ab-91b8-43f4-8685-cee15ea177d5,7cb7c91e-fdea-4dba-82a5-144badb09db8,Rapid-growth stage: Venture capital,b401b9ab-91b8-43f4-8685-cee15ea177d5,true
+b401b9ab-91b8-43f4-8685-cee15ea177d5,bd4830c0-016f-4741-a4b8-63f7704f3f4d,"Survival stage: Bootstrapping, Crowdfunding",b401b9ab-91b8-43f4-8685-cee15ea177d5,false
+b401b9ab-91b8-43f4-8685-cee15ea177d5,63a73b42-2e1f-465e-a20b-b93864a59159,"Early maturity: Initial Public Offering (IPO), Debt financing",b401b9ab-91b8-43f4-8685-cee15ea177d5,false
+b401b9ab-91b8-43f4-8685-cee15ea177d5,d86048e9-9128-4f28-ba69-818f1f850122,"Maturity: Bank loans, Retained earnings",b401b9ab-91b8-43f4-8685-cee15ea177d5,false
+7c8022c2-1a11-46dd-9db6-6f9260bc0d18,1972d98e-04af-48f4-aa06-967757eea49d,Securing attention and agreement from resource holders through persuasion and negotiation.,7c8022c2-1a11-46dd-9db6-6f9260bc0d18,true
+7c8022c2-1a11-46dd-9db6-6f9260bc0d18,08b839bb-2d7e-4bac-b21d-ccf2d026455e,Identifying and approaching potential resource holders.,7c8022c2-1a11-46dd-9db6-6f9260bc0d18,false
+7c8022c2-1a11-46dd-9db6-6f9260bc0d18,8c8cdcd5-4222-4c8d-993e-29f0505efd1e,Transferring resources from the resource holder to the organization.,7c8022c2-1a11-46dd-9db6-6f9260bc0d18,false
+7c8022c2-1a11-46dd-9db6-6f9260bc0d18,e24e27fd-96aa-49b9-8ee6-bdf3ca2ec2d3,Leveraging personal endowments to create organizational outcomes.,7c8022c2-1a11-46dd-9db6-6f9260bc0d18,false
+2ef53768-930d-4c62-af80-9538dd2851af,5668fe3e-dc60-4e03-aa55-bd0814d9ed10,Access,2ef53768-930d-4c62-af80-9538dd2851af,true
+2ef53768-930d-4c62-af80-9538dd2851af,7e256ba6-a911-4335-8602-ed34bbe3fa32,Personal Endowment,2ef53768-930d-4c62-af80-9538dd2851af,false
+2ef53768-930d-4c62-af80-9538dd2851af,65d79d33-e47a-4dd8-b015-48f02b8d1643,Search,2ef53768-930d-4c62-af80-9538dd2851af,false
+2ef53768-930d-4c62-af80-9538dd2851af,5afde28a-9005-4c67-b0a5-b034db9c5a3c,Transfer,2ef53768-930d-4c62-af80-9538dd2851af,false
+48cd9109-c322-459a-b516-818b0e3789af,51d4e0df-ee56-46b2-95f1-7268cd8ff4ea,Door-in-the-face technique,48cd9109-c322-459a-b516-818b0e3789af,true
+48cd9109-c322-459a-b516-818b0e3789af,1761ab6d-bfa2-49fe-999c-fdacd26abb00,Foot-in-the-door technique,48cd9109-c322-459a-b516-818b0e3789af,false
+48cd9109-c322-459a-b516-818b0e3789af,b7035813-caf4-4ecd-9f3e-67837c01d39c,Low-balling technique,48cd9109-c322-459a-b516-818b0e3789af,false
+48cd9109-c322-459a-b516-818b0e3789af,2c8561f4-9e58-4a58-999a-06382f0a5564,Bait-and-switch technique,48cd9109-c322-459a-b516-818b0e3789af,false
+91d7d246-8af5-480b-a956-030acc13efb1,ebebb2da-6952-481e-a53f-69310e6c937b,Central route of persuasion,91d7d246-8af5-480b-a956-030acc13efb1,true
+91d7d246-8af5-480b-a956-030acc13efb1,40be5cc4-1c47-4426-b9e4-21b3cb74203a,Peripheral route of persuasion,91d7d246-8af5-480b-a956-030acc13efb1,false
+91d7d246-8af5-480b-a956-030acc13efb1,684e7a83-c9a3-42c4-8400-e4ed5d592453,Emotional route of persuasion,91d7d246-8af5-480b-a956-030acc13efb1,false
+91d7d246-8af5-480b-a956-030acc13efb1,4a995f8e-bb8e-42ef-9397-f0bc663e1d8c,Intuitive route of persuasion,91d7d246-8af5-480b-a956-030acc13efb1,false
+d72a17b9-f632-4264-8ed8-a3a609db7938,81b88db9-55a3-45de-ba71-77f4cfdcc010,To evaluate the strength of your negotiation position by comparing it to your alternatives.,d72a17b9-f632-4264-8ed8-a3a609db7938,true
+d72a17b9-f632-4264-8ed8-a3a609db7938,04ac8045-c03a-4658-8164-98612c92f302,To determine the final outcome of the negotiation process.,d72a17b9-f632-4264-8ed8-a3a609db7938,false
+d72a17b9-f632-4264-8ed8-a3a609db7938,db665aa2-1502-475d-a4f8-e4ae1f914785,To ensure that both parties reach a mutually beneficial agreement.,d72a17b9-f632-4264-8ed8-a3a609db7938,false
+d72a17b9-f632-4264-8ed8-a3a609db7938,cc634040-1c00-4b8e-bf68-d4c4df639a90,To identify the emotional concerns of the other party and address them.,d72a17b9-f632-4264-8ed8-a3a609db7938,false
+03d0dad1-621c-4c8d-b701-3ecf2c7ada33,aa2df195-fad5-4eed-b375-fbfbd92fcf4f,"Understanding the other party's BATNA helps you assess their negotiation strength and potential alternatives, which is crucial for strategizing your approach.",03d0dad1-621c-4c8d-b701-3ecf2c7ada33,true
+03d0dad1-621c-4c8d-b701-3ecf2c7ada33,403a0eb7-c998-4753-ba63-bf660bc723e7,"Knowing the other party's BATNA allows you to set your own goals higher, assuming they have weaker alternatives.",03d0dad1-621c-4c8d-b701-3ecf2c7ada33,false
+03d0dad1-621c-4c8d-b701-3ecf2c7ada33,93da0cdc-3270-4df7-8950-a87cb16603d7,"Understanding the other party's BATNA guarantees that you will reach a favorable agreement, as it limits their options.",03d0dad1-621c-4c8d-b701-3ecf2c7ada33,false
+03d0dad1-621c-4c8d-b701-3ecf2c7ada33,554344fe-61d3-4c54-8b0b-689480f377fd,Knowing the other party's BATNA ensures that you can exploit their weaknesses and secure a win-lose outcome.,03d0dad1-621c-4c8d-b701-3ecf2c7ada33,false
+2ff12e8e-680e-415b-bbc9-4c421f38e64a,a36a9809-1d17-4046-87ec-231955b32ce5,Low-balling,2ff12e8e-680e-415b-bbc9-4c421f38e64a,true
+2ff12e8e-680e-415b-bbc9-4c421f38e64a,cd4de107-ba75-4a77-a84b-d4d511f5ef1c,Foot-in-the-door,2ff12e8e-680e-415b-bbc9-4c421f38e64a,false
+2ff12e8e-680e-415b-bbc9-4c421f38e64a,6af9bfe5-344e-4ad3-81b4-8ee201595f35,Door-in-the-face,2ff12e8e-680e-415b-bbc9-4c421f38e64a,false
+2ff12e8e-680e-415b-bbc9-4c421f38e64a,45673fe9-598a-48f4-bc3e-0e31790dadf9,Bait-and-switch,2ff12e8e-680e-415b-bbc9-4c421f38e64a,false
+bfbad246-35e5-4b3f-8b90-d27a26c31f26,00fb861c-84f3-4cd6-b905-10172298d532,Survival stage,bfbad246-35e5-4b3f-8b90-d27a26c31f26,true
+bfbad246-35e5-4b3f-8b90-d27a26c31f26,41f31dc5-bded-4f1b-ad5c-805868d00273,Startup stage,bfbad246-35e5-4b3f-8b90-d27a26c31f26,false
+bfbad246-35e5-4b3f-8b90-d27a26c31f26,6c6e6aba-f8ee-4131-bbf5-4e9fa77b2b17,Rapid-growth stage,bfbad246-35e5-4b3f-8b90-d27a26c31f26,false
+bfbad246-35e5-4b3f-8b90-d27a26c31f26,62822334-85d3-44c2-9fa3-5e5071eda7aa,Development stage,bfbad246-35e5-4b3f-8b90-d27a26c31f26,false
+509ef088-ce5e-4315-bd87-3d69332bfb46,b89a4cba-9cd6-441e-8ff8-43c8c34a7a0d,Door-in-the-face technique,509ef088-ce5e-4315-bd87-3d69332bfb46,true
+509ef088-ce5e-4315-bd87-3d69332bfb46,4842b7c4-b6c3-46da-99e6-086eeb3c4403,Low-balling technique,509ef088-ce5e-4315-bd87-3d69332bfb46,false
+509ef088-ce5e-4315-bd87-3d69332bfb46,92bcf6fa-403a-451b-ab10-5f56072a2ccd,Foot-in-the-door technique,509ef088-ce5e-4315-bd87-3d69332bfb46,false
+509ef088-ce5e-4315-bd87-3d69332bfb46,60a07f53-f9fa-441e-9834-3efdfab34c95,Anchoring technique,509ef088-ce5e-4315-bd87-3d69332bfb46,false
+6cc6c24a-ef57-407a-9f10-ee7717a9172a,ffe7eb3b-c6af-4b86-8c28-a51424584e8e,Building trust and synergy for future collaborations,6cc6c24a-ef57-407a-9f10-ee7717a9172a,true
+6cc6c24a-ef57-407a-9f10-ee7717a9172a,b47b92f4-75d2-488c-bb98-8c2fe0d2a7fa,Ensuring immediate resource acquisition,6cc6c24a-ef57-407a-9f10-ee7717a9172a,false
+6cc6c24a-ef57-407a-9f10-ee7717a9172a,da408515-c607-4a18-b58f-d9e3ef4a8051,Maximizing short-term financial gain,6cc6c24a-ef57-407a-9f10-ee7717a9172a,false
+6cc6c24a-ef57-407a-9f10-ee7717a9172a,07efcd8b-8fe9-47b7-b17a-88231444db1c,Avoiding the need for detailed contracts,6cc6c24a-ef57-407a-9f10-ee7717a9172a,false
+13ab270c-f170-47f6-8ba4-51894717a20b,0d05f3a8-a780-42fe-9554-02541e6820e1,"Quartärprävention zielt darauf ab, unnötige medizinische Maßnahmen zu vermeiden, wenn dem Patienten fälschlicherweise eine Krankheit unterstellt wird.",13ab270c-f170-47f6-8ba4-51894717a20b,true
+13ab270c-f170-47f6-8ba4-51894717a20b,378b879a-f007-49f4-bbba-9f5e706bcc90,"Quartärprävention beinhaltet die Früherkennung von Krankheiten, bevor Symptome auftreten.",13ab270c-f170-47f6-8ba4-51894717a20b,false
+13ab270c-f170-47f6-8ba4-51894717a20b,05c48072-9611-4b07-bf3d-5095dfc31aa2,Quartärprävention fokussiert sich auf die Rehabilitation von Patienten nach einer diagnostizierten Erkrankung.,13ab270c-f170-47f6-8ba4-51894717a20b,false
+13ab270c-f170-47f6-8ba4-51894717a20b,422b5f58-69f2-4fea-8648-b337f49133c0,"Quartärprävention hat das Ziel, durch Lebensstiländerungen das Auftreten von Krankheiten zu verhindern.",13ab270c-f170-47f6-8ba4-51894717a20b,false
+3a20c643-76e6-4164-a3da-7d8eff83e953,e22f7ad5-8f65-4648-b054-edba3849fbdf,Überdiagnostik und Überbehandlung,3a20c643-76e6-4164-a3da-7d8eff83e953,true
+3a20c643-76e6-4164-a3da-7d8eff83e953,7d718ed6-e1e8-45d1-9594-8b50e61eae05,Unzureichende Rehabilitationsmaßnahmen,3a20c643-76e6-4164-a3da-7d8eff83e953,false
+3a20c643-76e6-4164-a3da-7d8eff83e953,5be43c4c-432b-4ecd-83ce-9f90ba7f18ab,Fehldiagnosen bei bekannter Krankheit,3a20c643-76e6-4164-a3da-7d8eff83e953,false
+3a20c643-76e6-4164-a3da-7d8eff83e953,12ebfc10-4b89-4ee4-a6a0-66149baeac4b,Unzureichende Früherkennungsuntersuchungen,3a20c643-76e6-4164-a3da-7d8eff83e953,false
+3a20c643-76e6-4164-a3da-7d8eff83e953,ded154f8-0023-463c-9262-7dcf72a6b581,Mangelnde Lebensstiländerung,3a20c643-76e6-4164-a3da-7d8eff83e953,false
+e826a63b-cd61-4b58-8030-69fb6f989605,12a518e8-d36c-4346-b568-ddd2c296eb23,Vermeidung unnötiger Diagnostik und Therapien,e826a63b-cd61-4b58-8030-69fb6f989605,true
+e826a63b-cd61-4b58-8030-69fb6f989605,1f428dc3-b442-4d34-a7a6-d89c163f767b,Impfberatung zur Vorbeugung von Krankheiten,e826a63b-cd61-4b58-8030-69fb6f989605,false
+e826a63b-cd61-4b58-8030-69fb6f989605,017d85a9-f5c9-45a0-a086-21d9caff9153,Früherkennungsuntersuchungen zur Entdeckung von Krankheiten,e826a63b-cd61-4b58-8030-69fb6f989605,false
+e826a63b-cd61-4b58-8030-69fb6f989605,1ab58678-9982-41d8-aced-d1b9f6690d37,Rehabilitationsmaßnahmen nach Herzinfarkt,e826a63b-cd61-4b58-8030-69fb6f989605,false
+7bd4ec0f-6ac5-4f52-b57e-ffaa99d7ff81,80aa2163-5853-4843-902c-2ab76d27d9aa,"Die Vermeidung unnötiger medizinischer Maßnahmen bei Patienten, denen eine Krankheit unterstellt wird, aber die nicht krank sind.",7bd4ec0f-6ac5-4f52-b57e-ffaa99d7ff81,true
+7bd4ec0f-6ac5-4f52-b57e-ffaa99d7ff81,058568e6-2c63-4d41-a54f-51130a50462a,"Die frühzeitige Erkennung und Behandlung von Krankheiten bei Patienten, die bereits Symptome zeigen.",7bd4ec0f-6ac5-4f52-b57e-ffaa99d7ff81,false
+7bd4ec0f-6ac5-4f52-b57e-ffaa99d7ff81,74083c54-3f01-43aa-9c34-be9c7f745ee8,"Die Reduzierung von Risikofaktoren bei Patienten mit diagnostizierten Krankheiten, um Rückfälle zu vermeiden.",7bd4ec0f-6ac5-4f52-b57e-ffaa99d7ff81,false
+7bd4ec0f-6ac5-4f52-b57e-ffaa99d7ff81,1b775d77-10c8-4c07-8cc9-9bdf7f086302,"Die Förderung eines gesunden Lebensstils, um das Auftreten von Krankheiten zu verhindern.",7bd4ec0f-6ac5-4f52-b57e-ffaa99d7ff81,false
+96a77e76-a8e0-4dae-9f11-1d2b5a3466cb,b2ddb7b1-214a-46bb-aeb5-e85538a5f8e1,Wenn bei einem Patienten Überdiagnostik vermieden werden soll.,96a77e76-a8e0-4dae-9f11-1d2b5a3466cb,true
+96a77e76-a8e0-4dae-9f11-1d2b5a3466cb,8938195f-f6c8-4c96-a45f-5a3cf8204a88,Wenn eine Krankheit frühzeitig erkannt werden muss.,96a77e76-a8e0-4dae-9f11-1d2b5a3466cb,false
+96a77e76-a8e0-4dae-9f11-1d2b5a3466cb,e7c45bdf-05c5-4e29-83b0-eb52df71a28c,Wenn ein Patient nach einem Herzinfarkt rehabilitiert wird.,96a77e76-a8e0-4dae-9f11-1d2b5a3466cb,false
+96a77e76-a8e0-4dae-9f11-1d2b5a3466cb,2c36a369-b476-4368-87f4-3b1cf0e7c8f1,"Wenn ein Patient seine Lebensweise ändern muss, um Krankheiten vorzubeugen.",96a77e76-a8e0-4dae-9f11-1d2b5a3466cb,false
+96a77e76-a8e0-4dae-9f11-1d2b5a3466cb,fc9fa327-2782-47f5-abd6-dc82e2e151f6,Wenn ein Patient zur Früherkennung von Prostatakrebs untersucht wird.,96a77e76-a8e0-4dae-9f11-1d2b5a3466cb,false
+87dc2da5-d06d-4ee3-84c9-471b2db019f6,15ba1aa4-0a17-4533-8042-255bab8fd8f0,Regelmäßige Gesundheitschecks zur Früherkennung von Krankheiten,87dc2da5-d06d-4ee3-84c9-471b2db019f6,true
+87dc2da5-d06d-4ee3-84c9-471b2db019f6,b7a2fa56-e0a0-421a-94ff-0f1fdf6d9f6f,Vermeidung unnötiger diagnostischer Tests bei unspezifischen Symptomen,87dc2da5-d06d-4ee3-84c9-471b2db019f6,false
+87dc2da5-d06d-4ee3-84c9-471b2db019f6,9446eddb-51d6-408e-8602-480e72784716,Aufklärung über die Risiken von Überbehandlungen,87dc2da5-d06d-4ee3-84c9-471b2db019f6,false
+87dc2da5-d06d-4ee3-84c9-471b2db019f6,5655cbe6-cd30-4da4-a5a4-ace926bb536e,Kritische Überprüfung von medikamentösen Therapien ohne klare Indikation,87dc2da5-d06d-4ee3-84c9-471b2db019f6,false
+1aaac2e6-52ec-42d6-ba76-05cf825d9ce6,4f144a8a-4d3d-4ec2-b9ef-09e87eb7c8d3,"Der Hausarzt spielt eine zentrale Rolle bei der Vermeidung unnötiger Untersuchungen und Therapien, indem er den Fall abwartend offenhält und das Vorliegen einer Krankheit kritisch hinterfragt.",1aaac2e6-52ec-42d6-ba76-05cf825d9ce6,true
+1aaac2e6-52ec-42d6-ba76-05cf825d9ce6,aaa924e2-ea4e-45ad-ab9d-a32aa069768b,"Der Hausarzt sollte bei jedem Symptom sofort alle möglichen Untersuchungen durchführen, um keine Krankheit zu übersehen.",1aaac2e6-52ec-42d6-ba76-05cf825d9ce6,false
+1aaac2e6-52ec-42d6-ba76-05cf825d9ce6,cf2a63c9-d4da-4e5e-b259-1a8f656e5d1f,Der Hausarzt fokussiert sich bei der Quartärprävention ausschließlich auf die Änderung des Lebensstils des Patienten.,1aaac2e6-52ec-42d6-ba76-05cf825d9ce6,false
+1aaac2e6-52ec-42d6-ba76-05cf825d9ce6,3e3c89e1-8059-4bee-abfa-47d0b5cdbee1,"Der Hausarzt ist verantwortlich für die Durchführung aller Früherkennungsuntersuchungen, um Krankheiten frühzeitig zu erkennen.",1aaac2e6-52ec-42d6-ba76-05cf825d9ce6,false
+0adebabf-f71f-4093-9cfe-65b3ef3ca377,cedfca3c-2ce8-4060-afd3-9cb34ef2aeb2,"Quartärprävention zielt darauf ab, unnötige Untersuchungen und Behandlungen zu vermeiden, während Tertiärprävention darauf abzielt, das Fortschreiten einer bereits diagnostizierten Krankheit zu verhindern oder zu verlangsamen.",0adebabf-f71f-4093-9cfe-65b3ef3ca377,true
+0adebabf-f71f-4093-9cfe-65b3ef3ca377,50b123b8-5811-41cd-87e8-e708456b409c,"Quartärprävention konzentriert sich auf die Früherkennung von Krankheiten, während Tertiärprävention darauf abzielt, das Risiko von Komplikationen bei diagnostizierten Krankheiten zu reduzieren.",0adebabf-f71f-4093-9cfe-65b3ef3ca377,false
+0adebabf-f71f-4093-9cfe-65b3ef3ca377,8d5c50c5-481f-4aed-8d54-7843652f891e,"Quartärprävention wird angewendet, wenn eine Krankheit diagnostiziert wurde, während Tertiärprävention darauf abzielt, die Diagnose einer Krankheit zu verhindern.",0adebabf-f71f-4093-9cfe-65b3ef3ca377,false
+0adebabf-f71f-4093-9cfe-65b3ef3ca377,277e2c50-5b42-48cc-9794-5d8ae4c93344,"Quartärprävention zielt darauf ab, das Risiko einer Krankheitsentwicklung zu senken, während Tertiärprävention darauf abzielt, präventive Maßnahmen bei gesunden Personen durchzuführen.",0adebabf-f71f-4093-9cfe-65b3ef3ca377,false
+d748b083-1d71-4449-9de3-ec561740cf54,c4acda36-8a6d-4fbd-9c03-ec85a5692bd8,"Quartärprävention hilft, Überdiagnosen und Überbehandlungen zu vermeiden, die zu unnötigen Belastungen für den Patienten führen können.",d748b083-1d71-4449-9de3-ec561740cf54,true
+d748b083-1d71-4449-9de3-ec561740cf54,a3c949f2-06d5-4858-82e0-93d66905849a,"Quartärprävention fördert die Durchführung von möglichst vielen Untersuchungen, um alle potenziellen Krankheiten auszuschließen.",d748b083-1d71-4449-9de3-ec561740cf54,false
+d748b083-1d71-4449-9de3-ec561740cf54,0f06f4c9-1f9d-47d3-a185-697ec0f26aa3,"Quartärprävention zielt darauf ab, die Patienten zu ermutigen, sich regelmäßig auf alle möglichen Krankheiten testen zu lassen, auch ohne Symptome zu haben.",d748b083-1d71-4449-9de3-ec561740cf54,false
+d748b083-1d71-4449-9de3-ec561740cf54,f408b0e2-c7fb-45f6-9ba7-fa65a8aa2a1c,"Quartärprävention ist ein wichtiger Bestandteil, um die Anzahl der diagnostizierten Krankheiten in der allgemeinen Bevölkerung zu erhöhen.",d748b083-1d71-4449-9de3-ec561740cf54,false
+c09cd3fa-d625-4f8e-b168-87ef1cf952d9,8ed470fd-2b3d-4d56-b808-a0cd967510f5,"Die Unterscheidung zwischen notwendigen und unnötigen medizinischen Maßnahmen, um Überdiagnostik zu vermeiden.",c09cd3fa-d625-4f8e-b168-87ef1cf952d9,true
+c09cd3fa-d625-4f8e-b168-87ef1cf952d9,9d208b6d-fe8c-4aa5-a3d5-4933f0116499,"Die vollständige Vermeidung jeglicher Diagnostik, um den Patienten nicht zu belasten.",c09cd3fa-d625-4f8e-b168-87ef1cf952d9,false
+c09cd3fa-d625-4f8e-b168-87ef1cf952d9,b35e93b7-3201-4053-8092-8d88e3c3a780,"Die Konzentration auf die Behandlung chronisch kranker Patienten, um Ressourcen zu schonen.",c09cd3fa-d625-4f8e-b168-87ef1cf952d9,false
+c09cd3fa-d625-4f8e-b168-87ef1cf952d9,ede26f04-29c6-4ab7-b06e-0283cd8870a0,"Die Sicherstellung, dass alle Patienten eine vollständige Vorsorgeuntersuchung erhalten.",c09cd3fa-d625-4f8e-b168-87ef1cf952d9,false
+04a02b40-b905-4aa7-a13e-0a9674bf31cf,08017240-850f-4e26-9c97-621f7fe17c1d,Quartärprävention,04a02b40-b905-4aa7-a13e-0a9674bf31cf,true
+04a02b40-b905-4aa7-a13e-0a9674bf31cf,7d8fdee8-c86e-43ff-81eb-addbd9d6a7b3,Primärprävention,04a02b40-b905-4aa7-a13e-0a9674bf31cf,false
+04a02b40-b905-4aa7-a13e-0a9674bf31cf,c5ab6b16-a156-4471-b6b7-7a348e956210,Sekundärprävention,04a02b40-b905-4aa7-a13e-0a9674bf31cf,false
+04a02b40-b905-4aa7-a13e-0a9674bf31cf,ffcc7d48-f58d-48a2-b0ed-973dcb7ac8be,Tertiärprävention,04a02b40-b905-4aa7-a13e-0a9674bf31cf,false
+04a02b40-b905-4aa7-a13e-0a9674bf31cf,0760bd6d-9d2e-4cc2-9e32-f8113e982b23,Überversorgung,04a02b40-b905-4aa7-a13e-0a9674bf31cf,false
+f13c9cef-460a-4bf4-84a9-5d47715aa3ef,1eb87c67-17f4-4f71-a3de-a2613365296c,Tertiärprävention,f13c9cef-460a-4bf4-84a9-5d47715aa3ef,true
+f13c9cef-460a-4bf4-84a9-5d47715aa3ef,d1760ff8-a17d-4948-9de2-b55aa26674a1,Primärprävention,f13c9cef-460a-4bf4-84a9-5d47715aa3ef,false
+f13c9cef-460a-4bf4-84a9-5d47715aa3ef,324aba98-6ce7-4fe2-bc4d-20b6949c8a61,Sekundärprävention,f13c9cef-460a-4bf4-84a9-5d47715aa3ef,false
+f13c9cef-460a-4bf4-84a9-5d47715aa3ef,f000cef3-9d30-4270-9077-648b44af1309,Quartärprävention,f13c9cef-460a-4bf4-84a9-5d47715aa3ef,false
+d0620932-85fe-47c0-b156-0542acc0e993,85c4c23d-9367-4abd-b405-b26606a54ed4,Änderung des Lebensstils,d0620932-85fe-47c0-b156-0542acc0e993,true
+d0620932-85fe-47c0-b156-0542acc0e993,6ccc52f9-59ea-4264-837f-bc029fcbe82c,Regelmäßige Früherkennungsuntersuchungen,d0620932-85fe-47c0-b156-0542acc0e993,false
+d0620932-85fe-47c0-b156-0542acc0e993,e9889380-f249-46e8-bb72-e5db91c30149,Medikamentöse Therapie,d0620932-85fe-47c0-b156-0542acc0e993,false
+d0620932-85fe-47c0-b156-0542acc0e993,81811c8c-6858-4bce-b95f-ed67239bc9db,Quartärprävention,d0620932-85fe-47c0-b156-0542acc0e993,false
+d0620932-85fe-47c0-b156-0542acc0e993,ec159105-aa30-4a1e-874c-1c3e5ce13f74,Rehabilitationsmaßnahmen,d0620932-85fe-47c0-b156-0542acc0e993,false
+51ed4830-8a85-415b-9c2e-94535de611fa,c0480aa8-8c43-4a61-8ed0-c7bee896d8b0,Sekundärprävention,51ed4830-8a85-415b-9c2e-94535de611fa,true
+51ed4830-8a85-415b-9c2e-94535de611fa,912bf881-9d77-49eb-ad6a-59857ce11d27,Primärprävention,51ed4830-8a85-415b-9c2e-94535de611fa,false
+51ed4830-8a85-415b-9c2e-94535de611fa,0b566670-6905-4411-be1e-5e87038ce8cf,Tertiärprävention,51ed4830-8a85-415b-9c2e-94535de611fa,false
+51ed4830-8a85-415b-9c2e-94535de611fa,13cb9b47-d60f-4f02-8b12-0675934024ba,Quartärprävention,51ed4830-8a85-415b-9c2e-94535de611fa,false
+6fbed429-6d85-40f5-a3d7-35161f51c6f1,f16c6330-5bf4-4fca-a979-05ec4dd26bc4,Rehabilitationsmaßnahmen nach einem Herzinfarkt,6fbed429-6d85-40f5-a3d7-35161f51c6f1,true
+6fbed429-6d85-40f5-a3d7-35161f51c6f1,d363b95f-20e9-43ab-ab00-26a7d7dce68d,Therapie mit Betablockern und Statinen zur Risikominimierung,6fbed429-6d85-40f5-a3d7-35161f51c6f1,true
+6fbed429-6d85-40f5-a3d7-35161f51c6f1,1b91c022-2c0e-4953-81a8-a2af6a69572e,Lebensstiländerung zur Senkung des Krankheitsrisikos,6fbed429-6d85-40f5-a3d7-35161f51c6f1,true
+6fbed429-6d85-40f5-a3d7-35161f51c6f1,54c6203a-0e94-48f7-b010-50f07af0c147,Durchführung von Früherkennungsuntersuchungen,6fbed429-6d85-40f5-a3d7-35161f51c6f1,false
+6fbed429-6d85-40f5-a3d7-35161f51c6f1,1c8e0994-dc9d-4044-9f13-d26193b41f8c,Impfung gegen Grippe,6fbed429-6d85-40f5-a3d7-35161f51c6f1,false
+6fbed429-6d85-40f5-a3d7-35161f51c6f1,4a9429cd-5973-48e8-abc7-efcdb2286a3a,Beratung zur Vermeidung von Erkrankungen bei gesunden Personen,6fbed429-6d85-40f5-a3d7-35161f51c6f1,false
+570a2b3d-436f-4d84-9500-073f80555d28,f3e0ec86-f820-469c-bd15-1d056e0553f7,Vermeidung unnötiger medizinischer Maßnahmen durch die kritische Bewertung von Symptomen und Diagnosen,570a2b3d-436f-4d84-9500-073f80555d28,true
+570a2b3d-436f-4d84-9500-073f80555d28,e72cc267-5e20-4ea9-a9d1-4845b6c88d5c,Früherkennung von Krankheiten durch regelmäßige Vorsorgeuntersuchungen,570a2b3d-436f-4d84-9500-073f80555d28,false
+570a2b3d-436f-4d84-9500-073f80555d28,b878aa0e-163b-4408-8155-f75e36b652f8,Senkung des Risikos bereits diagnostizierter Krankheiten durch Lebensstiländerungen,570a2b3d-436f-4d84-9500-073f80555d28,false
+570a2b3d-436f-4d84-9500-073f80555d28,fd2e22e5-9b77-4d10-a8ec-ccc2fc943082,Verhinderung des Auftretens von Krankheiten durch Impfungen und Lebensstilberatung,570a2b3d-436f-4d84-9500-073f80555d28,false
+a328beb5-b2d9-42f0-923c-383137c8a894,042fbbe6-28a0-4094-b9b5-c334940af25e,"Sekundärprävention umfasst Maßnahmen zur Früherkennung von Krankheiten, die noch nicht diagnostiziert wurden.",a328beb5-b2d9-42f0-923c-383137c8a894,true
+a328beb5-b2d9-42f0-923c-383137c8a894,a333aa44-4322-4857-a2ba-861a0947ea2c,"Sekundärprävention zielt darauf ab, das Auftreten von Krankheiten durch Impfungen zu verhindern.",a328beb5-b2d9-42f0-923c-383137c8a894,false
+a328beb5-b2d9-42f0-923c-383137c8a894,1bfae690-8821-4b83-acb5-2fbebc4af574,Sekundärprävention beinhaltet die Rehabilitation von Patienten nach einer diagnostizierten Krankheit.,a328beb5-b2d9-42f0-923c-383137c8a894,false
+a328beb5-b2d9-42f0-923c-383137c8a894,4ca29fd2-8d6f-4707-b082-c3a94ffa562d,"Sekundärprävention vermeidet unnötige Untersuchungen bei Patienten, bei denen eine Krankheit vermutet wird.",a328beb5-b2d9-42f0-923c-383137c8a894,false
+29aed701-00c3-4f08-b665-6e2f74c43147,b46a513f-b9b5-44a6-a3ec-bb5545258729,Tertiärprävention,29aed701-00c3-4f08-b665-6e2f74c43147,true
+29aed701-00c3-4f08-b665-6e2f74c43147,034ec68a-e587-4d55-8e19-b11fc03381d8,Primärprävention,29aed701-00c3-4f08-b665-6e2f74c43147,false
+29aed701-00c3-4f08-b665-6e2f74c43147,141bb866-10e2-45a7-bf67-83117826915e,Sekundärprävention,29aed701-00c3-4f08-b665-6e2f74c43147,false
+29aed701-00c3-4f08-b665-6e2f74c43147,e26e8b05-bed4-47a0-995d-f04cfe4753a8,Quartärprävention,29aed701-00c3-4f08-b665-6e2f74c43147,false
+dd28f7ca-e538-4e3d-86b5-60d4f4f7c6dd,b4d26909-c4fc-4abc-876e-d826940bd753,Beratung zur Lebensstiländerung,dd28f7ca-e538-4e3d-86b5-60d4f4f7c6dd,true
+dd28f7ca-e538-4e3d-86b5-60d4f4f7c6dd,79e55b93-acbc-40ca-9629-b1c45cf5a97c,Impfungen zur Vermeidung von Infektionskrankheiten,dd28f7ca-e538-4e3d-86b5-60d4f4f7c6dd,true
+dd28f7ca-e538-4e3d-86b5-60d4f4f7c6dd,9c2ae162-3da7-4a62-89ee-78677c01e1ef,Früherkennungsuntersuchungen zur Entdeckung von Krankheiten,dd28f7ca-e538-4e3d-86b5-60d4f4f7c6dd,false
+dd28f7ca-e538-4e3d-86b5-60d4f4f7c6dd,45787d3a-c18f-4ea3-bd7c-c85a5e951699,Rehabilitationsmaßnahmen nach einer Krankheit,dd28f7ca-e538-4e3d-86b5-60d4f4f7c6dd,false
+dd28f7ca-e538-4e3d-86b5-60d4f4f7c6dd,1f45e359-aa94-422a-847d-ab371de56d1a,Medikamentöse Therapie bei chronischen Erkrankungen,dd28f7ca-e538-4e3d-86b5-60d4f4f7c6dd,false
+cacb9bd2-c294-40a9-9b22-457745f172f6,dd9bc311-7c6f-42ab-831c-592b94c833a6,Gezielte Lebensstilberatung zur Krankheitsprävention,cacb9bd2-c294-40a9-9b22-457745f172f6,false
+cacb9bd2-c294-40a9-9b22-457745f172f6,06cfc9c7-3a8c-43e3-9095-c8f1f96890f6,Unnötige diagnostische Tests und Screening-Untersuchungen ohne klare Indikation,cacb9bd2-c294-40a9-9b22-457745f172f6,true
+cacb9bd2-c294-40a9-9b22-457745f172f6,2a06946b-97f9-4827-92ed-78540ec89153,Übermäßige Verschreibung von Medikamenten ohne klare medizinische Notwendigkeit,cacb9bd2-c294-40a9-9b22-457745f172f6,true
+cacb9bd2-c294-40a9-9b22-457745f172f6,2f773a77-a1bf-411e-ab7c-c2dc646a5cff,Verzicht auf notwendige Rehabilitationsmaßnahmen,cacb9bd2-c294-40a9-9b22-457745f172f6,false
+cacb9bd2-c294-40a9-9b22-457745f172f6,27fb77c7-0658-4ec0-8ac5-b8ec4efd2049,Früherkennung von Krankheiten durch regelmäßige Check-ups,cacb9bd2-c294-40a9-9b22-457745f172f6,false
