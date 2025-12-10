@@ -376,22 +376,56 @@ export default function LabelingPage() {
         {showMenu && (
           <div className="mb-6 bg-white rounded-lg shadow-lg p-6 max-h-96 overflow-y-auto">
             <h2 className="text-xl font-bold mb-4">All Questions</h2>
+            {/* Label Counts */}
+            <div className="mb-4 flex gap-4 text-sm bg-gray-50 p-3 rounded">
+              <div className="flex items-center gap-2">
+                <div className="w-3 h-3 bg-green-500 rounded"></div>
+                <span className="font-medium">Pass: {Array.from(labels.values()).filter(l => l.passFail === 'PASS').length}</span>
+              </div>
+              <div className="flex items-center gap-2">
+                <div className="w-3 h-3 bg-yellow-500 rounded"></div>
+                <span className="font-medium">Unknown: {Array.from(labels.values()).filter(l => l.passFail === 'UNKNOWN').length}</span>
+              </div>
+              <div className="flex items-center gap-2">
+                <div className="w-3 h-3 bg-red-500 rounded"></div>
+                <span className="font-medium">Fail: {Array.from(labels.values()).filter(l => l.passFail === 'FAIL').length}</span>
+              </div>
+              <div className="flex items-center gap-2">
+                <div className="w-3 h-3 bg-gray-300 rounded"></div>
+                <span className="font-medium">Unlabeled: {allQuestions.length - labels.size}</span>
+              </div>
+            </div>
             <div className="grid grid-cols-10 gap-2">
               {allQuestions.map((q, idx) => {
-                const isLabeled = labels.has(q.id);
+                const label = labels.get(q.id);
                 const isCurrent = idx === currentQuestionIndex;
+
+                let bgColor = 'bg-gray-300 text-gray-700 hover:bg-gray-400'; // Unlabeled
+                let statusText = 'unlabeled';
+
+                if (label) {
+                  if (label.passFail === 'PASS') {
+                    bgColor = 'bg-green-500 text-white hover:bg-green-600';
+                    statusText = 'PASS';
+                  } else if (label.passFail === 'FAIL') {
+                    bgColor = 'bg-red-500 text-white hover:bg-red-600';
+                    statusText = 'FAIL';
+                  } else if (label.passFail === 'UNKNOWN') {
+                    bgColor = 'bg-yellow-500 text-white hover:bg-yellow-600';
+                    statusText = 'UNKNOWN';
+                  }
+                }
+
+                if (isCurrent) {
+                  bgColor = 'bg-blue-600 text-white ring-2 ring-blue-400';
+                }
+
                 return (
                   <button
                     key={q.id}
                     onClick={() => goToQuestion(idx)}
-                    className={`p-2 rounded text-sm font-medium ${
-                      isCurrent
-                        ? 'bg-blue-600 text-white ring-2 ring-blue-400'
-                        : isLabeled
-                        ? 'bg-green-500 text-white hover:bg-green-600'
-                        : 'bg-gray-300 text-gray-700 hover:bg-gray-400'
-                    }`}
-                    title={`Question ${idx + 1}${isLabeled ? ' (labeled)' : ' (unlabeled)'}`}
+                    className={`p-2 rounded text-sm font-medium ${bgColor}`}
+                    title={`Question ${idx + 1} (${statusText})`}
                   >
                     {idx + 1}
                   </button>
@@ -401,7 +435,15 @@ export default function LabelingPage() {
             <div className="mt-4 flex gap-4 text-sm">
               <div className="flex items-center gap-2">
                 <div className="w-4 h-4 bg-green-500 rounded"></div>
-                <span>Labeled</span>
+                <span>Pass</span>
+              </div>
+              <div className="flex items-center gap-2">
+                <div className="w-4 h-4 bg-yellow-500 rounded"></div>
+                <span>Unknown</span>
+              </div>
+              <div className="flex items-center gap-2">
+                <div className="w-4 h-4 bg-red-500 rounded"></div>
+                <span>Fail</span>
               </div>
               <div className="flex items-center gap-2">
                 <div className="w-4 h-4 bg-gray-300 rounded"></div>
